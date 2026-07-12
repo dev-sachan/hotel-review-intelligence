@@ -1,0 +1,35 @@
+﻿# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ---- OS / editor cruft ----
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ---- Streamlit ----
+.streamlit/secrets.toml
+
+# ---- Model download cache (Hugging Face) ----
+.cache/
+**/huggingface/
+
+# ---- Raw hackathon data (not needed at app runtime) ----
+hotel_reviews.json
+
+# ---- data/processed/ IS committed on purpose — the app reads only these
+#      cached files at runtime, with no fallback to run the pipeline live. ----
+
+# ---- Local scratch / personal prep ----
+interview-prep/
+goal.md
+
+# ---- Organizer's own toolkit document ----
+Hackathon Participant Toolkit*.docx
