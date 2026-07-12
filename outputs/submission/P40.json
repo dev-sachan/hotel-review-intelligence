@@ -1,0 +1,45 @@
+{
+  "profile_id": "P40",
+  "archetype": "couple_wellness",
+  "desired_dims": [
+    "wellness_spa",
+    "service"
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "hotel_id": "H070",
+      "hotel_name": "Casa Atrium, Sydney",
+      "hotel_category": "5-star",
+      "score": 5.273
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H006",
+      "hotel_name": "Hotel Vista, London",
+      "hotel_category": "5-star",
+      "score": 5.185
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H051",
+      "hotel_name": "Casa Harbour, Istanbul",
+      "hotel_category": "5-star",
+      "score": 5.142
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H075",
+      "hotel_name": "The Grand Harbour, Barcelona",
+      "hotel_category": "5-star",
+      "score": 5.099
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H109",
+      "hotel_name": "The Royal Sands, Rome",
+      "hotel_category": "5-star",
+      "score": 5.022
+    }
+  ]
+}

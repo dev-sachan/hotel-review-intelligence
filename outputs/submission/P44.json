@@ -1,0 +1,45 @@
+{
+  "profile_id": "P44",
+  "archetype": "leisure_accessible_central",
+  "desired_dims": [
+    "accessibility",
+    "location_central"
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "hotel_id": "H041",
+      "hotel_name": "The Grand Court, Mexico City",
+      "hotel_category": "4-star",
+      "score": 5.12
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H071",
+      "hotel_name": "The Belmont, Seoul",
+      "hotel_category": "4-star",
+      "score": 5.016
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H011",
+      "hotel_name": "The Orchid, Bangkok",
+      "hotel_category": "4-star",
+      "score": 4.998
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H051",
+      "hotel_name": "Casa Harbour, Istanbul",
+      "hotel_category": "5-star",
+      "score": 4.984
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H014",
+      "hotel_name": "The Meridian Plaza, London",
+      "hotel_category": "4-star",
+      "score": 4.947
+    }
+  ]
+}

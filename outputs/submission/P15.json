@@ -1,0 +1,45 @@
+{
+  "profile_id": "P15",
+  "archetype": "family",
+  "desired_dims": [
+    "family_friendly",
+    "cleanliness"
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "hotel_id": "H106",
+      "hotel_name": "The Park Aurora, Mexico City",
+      "hotel_category": "4-star",
+      "score": 4.848
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H043",
+      "hotel_name": "The Meridian Verde, Dubai",
+      "hotel_category": "4-star",
+      "score": 4.751
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H093",
+      "hotel_name": "Hotel Harbour, Seoul",
+      "hotel_category": "5-star",
+      "score": 4.036
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H070",
+      "hotel_name": "Casa Atrium, Sydney",
+      "hotel_category": "5-star",
+      "score": 4.008
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H006",
+      "hotel_name": "Hotel Vista, London",
+      "hotel_category": "5-star",
+      "score": 3.976
+    }
+  ]
+}

@@ -1,0 +1,1319 @@
+[
+  {
+    "profile_id": "P01",
+    "description": "Solo female traveler, safety-conscious, wants a central, walkable base, keen on local culture and markets.",
+    "traveler_type": "solo",
+    "budget": "mid",
+    "desired_dims": [
+      "local_culture",
+      "location_central",
+      "safety"
+    ],
+    "dim_weights": {
+      "local_culture": 0.3571,
+      "location_central": 0.3571,
+      "safety": 0.2857
+    },
+    "category_fit": {
+      "3-star": 0.6,
+      "4-star": 1.0,
+      "5-star": 0.5
+    },
+    "archetype": "solo_female_culture",
+    "rule_dims": [
+      "safety",
+      "local_culture",
+      "location_central"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P02",
+    "description": "Corporate road-warrior, needs rock-solid WiFi and meeting space, wants a quiet room for calls, mid-range expense-account budget, values a central location near the office district.",
+    "traveler_type": "business",
+    "budget": "mid",
+    "desired_dims": [
+      "location_central",
+      "business_facilities",
+      "quietness"
+    ],
+    "dim_weights": {
+      "location_central": 0.3333,
+      "business_facilities": 0.3333,
+      "quietness": 0.3333
+    },
+    "category_fit": {
+      "3-star": 0.6,
+      "4-star": 1.0,
+      "5-star": 0.5
+    },
+    "archetype": "business_central",
+    "rule_dims": [
+      "location_central",
+      "business_facilities",
+      "quietness"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P03",
+    "description": "Parents traveling with toddlers, prefers direct flights with kids, values connecting rooms, needs family-friendly facilities and a pool, mid-range budget.",
+    "traveler_type": "family",
+    "budget": "mid",
+    "desired_dims": [
+      "family_friendly"
+    ],
+    "dim_weights": {
+      "family_friendly": 1.0
+    },
+    "category_fit": {
+      "3-star": 0.6,
+      "4-star": 1.0,
+      "5-star": 0.5
+    },
+    "archetype": "family",
+    "rule_dims": [
+      "family_friendly"
+    ],
+    "embedding_dims": [
+      "family_friendly"
+    ]
+  },
+  {
+    "profile_id": "P04",
+    "description": "Couple on a romantic getaway, wants a spa and wellness facilities, appreciates attentive personal service, prefers a quiet, peaceful room, happy with a higher budget for the right vibe.",
+    "traveler_type": "couple",
+    "budget": "high",
+    "desired_dims": [
+      "quietness",
+      "wellness_spa",
+      "service"
+    ],
+    "dim_weights": {
+      "quietness": 0.3333,
+      "wellness_spa": 0.3333,
+      "service": 0.3333
+    },
+    "category_fit": {
+      "3-star": -0.4,
+      "4-star": 0.6,
+      "5-star": 1.0
+    },
+    "archetype": "couple_wellness",
+    "rule_dims": [
+      "quietness",
+      "wellness_spa",
+      "service"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P05",
+    "description": "Budget backpacker, open to multi-city routing to save money, loves nightlife and a social scene, tight budget, value is everything, wants to experience local culture cheaply.",
+    "traveler_type": "solo",
+    "budget": "tight",
+    "desired_dims": [
+      "value",
+      "nightlife",
+      "local_culture"
+    ],
+    "dim_weights": {
+      "value": 0.4706,
+      "nightlife": 0.2941,
+      "local_culture": 0.2353
+    },
+    "category_fit": {
+      "3-star": 1.0,
+      "4-star": 0.4,
+      "5-star": -0.4
+    },
+    "archetype": "solo_budget_nightlife",
+    "rule_dims": [
+      "local_culture",
+      "value",
+      "nightlife"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P06",
+    "description": "Discerning traveler, values privacy and refinement, wants a world-class spa, expects impeccable five-star service.",
+    "traveler_type": "leisure",
+    "budget": "high",
+    "desired_dims": [
+      "luxury",
+      "wellness_spa"
+    ],
+    "dim_weights": {
+      "luxury": 0.6667,
+      "wellness_spa": 0.3333
+    },
+    "category_fit": {
+      "3-star": -0.4,
+      "4-star": 0.6,
+      "5-star": 1.0
+    },
+    "archetype": "leisure_luxury_wellness",
+    "rule_dims": [
+      "wellness_spa",
+      "luxury"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P07",
+    "description": "Culinary traveler, interested in authentic local culture, wants to be central to the restaurant scene, chasing great food and local dining, mid-to-high budget for experiences.",
+    "traveler_type": "leisure",
+    "budget": "mid_high",
+    "desired_dims": [
+      "food_dining",
+      "local_culture",
+      "location_central"
+    ],
+    "dim_weights": {
+      "food_dining": 0.4118,
+      "local_culture": 0.3529,
+      "location_central": 0.2353
+    },
+    "category_fit": {
+      "3-star": 0.1,
+      "4-star": 1.0,
+      "5-star": 0.8
+    },
+    "archetype": "leisure_foodie_culture",
+    "rule_dims": [
+      "local_culture",
+      "location_central",
+      "food_dining"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P08",
+    "description": "Traveler with mobility needs, wants a central location to minimize travel, needs helpful, attentive staff, prefers direct flights, requires full step-free accessibility.",
+    "traveler_type": "leisure",
+    "budget": "mid",
+    "desired_dims": [
+      "accessibility",
+      "location_central",
+      "service"
+    ],
+    "dim_weights": {
+      "accessibility": 0.4,
+      "location_central": 0.3333,
+      "service": 0.2667
+    },
+    "category_fit": {
+      "3-star": 0.6,
+      "4-star": 1.0,
+      "5-star": 0.5
+    },
+    "archetype": "leisure_accessible_central",
+    "rule_dims": [
+      "location_central",
+      "accessibility",
+      "service"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P09",
+    "description": "Couple after a beach break, enjoys good on-site dining, would love a spa to unwind, prefers direct flights, mid-range to upper budget.",
+    "traveler_type": "couple",
+    "budget": "mid_high",
+    "desired_dims": [
+      "wellness_spa",
+      "food_dining",
+      "beach_access"
+    ],
+    "dim_weights": {
+      "wellness_spa": 0.3846,
+      "food_dining": 0.3077,
+      "beach_access": 0.3077
+    },
+    "category_fit": {
+      "3-star": 0.1,
+      "4-star": 1.0,
+      "5-star": 0.8
+    },
+    "archetype": "couple_wellness_foodie",
+    "rule_dims": [
+      "wellness_spa",
+      "food_dining",
+      "beach_access"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P10",
+    "description": "Long-stay freelancer, happy with multi-city stays, needs fast reliable WiFi for remote work, prefers a quiet room to focus.",
+    "traveler_type": "solo",
+    "budget": "mid",
+    "desired_dims": [
+      "business_facilities",
+      "quietness"
+    ],
+    "dim_weights": {
+      "business_facilities": 0.5,
+      "quietness": 0.5
+    },
+    "category_fit": {
+      "3-star": 0.6,
+      "4-star": 1.0,
+      "5-star": 0.5
+    },
+    "archetype": "solo_business",
+    "rule_dims": [
+      "business_facilities",
+      "quietness"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P11",
+    "description": "Bachelor/bachelorette group, fine with multi-city legs, wants to be central to the action, splitting costs so value matters.",
+    "traveler_type": "group",
+    "budget": "mid",
+    "desired_dims": [
+      "value",
+      "location_central"
+    ],
+    "dim_weights": {
+      "value": 0.5556,
+      "location_central": 0.4444
+    },
+    "category_fit": {
+      "3-star": 0.6,
+      "4-star": 1.0,
+      "5-star": 0.5
+    },
+    "archetype": "group_budget_central",
+    "rule_dims": [
+      "location_central",
+      "value"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P12",
+    "description": "Guest on a self-care retreat, values spotless cleanliness, mid-range budget, prefers direct flights, seeking a spa and wellness retreat.",
+    "traveler_type": "leisure",
+    "budget": "mid",
+    "desired_dims": [
+      "wellness_spa",
+      "cleanliness"
+    ],
+    "dim_weights": {
+      "wellness_spa": 0.6154,
+      "cleanliness": 0.3846
+    },
+    "category_fit": {
+      "3-star": 0.6,
+      "4-star": 1.0,
+      "5-star": 0.5
+    },
+    "archetype": "leisure_wellness",
+    "rule_dims": [
+      "wellness_spa",
+      "cleanliness"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P13",
+    "description": "Woman traveling alone, enjoys multi-city trips in one journey, keen on local culture and markets, prefers direct flights, wants a central, walkable base.",
+    "traveler_type": "solo",
+    "budget": "mid",
+    "desired_dims": [
+      "local_culture",
+      "location_central"
+    ],
+    "dim_weights": {
+      "local_culture": 0.5,
+      "location_central": 0.5
+    },
+    "category_fit": {
+      "3-star": 0.6,
+      "4-star": 1.0,
+      "5-star": 0.5
+    },
+    "archetype": "solo_female_culture",
+    "rule_dims": [
+      "local_culture",
+      "location_central"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P14",
+    "description": "Frequent business traveler, values a central location near the office district, mid-range expense-account budget, prefers direct flights, wants a quiet room for calls.",
+    "traveler_type": "business",
+    "budget": "mid",
+    "desired_dims": [
+      "location_central",
+      "quietness",
+      "business_facilities"
+    ],
+    "dim_weights": {
+      "location_central": 0.3571,
+      "quietness": 0.3571,
+      "business_facilities": 0.2857
+    },
+    "category_fit": {
+      "3-star": 0.6,
+      "4-star": 1.0,
+      "5-star": 0.5
+    },
+    "archetype": "business_central",
+    "rule_dims": [
+      "location_central",
+      "business_facilities",
+      "quietness"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P15",
+    "description": "Family with two children, mid-range budget, values connecting rooms, wants clean, spacious rooms.",
+    "traveler_type": "family",
+    "budget": "mid",
+    "desired_dims": [
+      "family_friendly",
+      "cleanliness"
+    ],
+    "dim_weights": {
+      "family_friendly": 0.6,
+      "cleanliness": 0.4
+    },
+    "category_fit": {
+      "3-star": 0.6,
+      "4-star": 1.0,
+      "5-star": 0.5
+    },
+    "archetype": "family",
+    "rule_dims": [
+      "family_friendly",
+      "cleanliness"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P16",
+    "description": "Honeymooning couple, wants a spa and wellness facilities, appreciates attentive personal service, happy with a higher budget for the right vibe, prefers a quiet, peaceful room.",
+    "traveler_type": "couple",
+    "budget": "high",
+    "desired_dims": [
+      "quietness",
+      "wellness_spa",
+      "service"
+    ],
+    "dim_weights": {
+      "quietness": 0.3333,
+      "wellness_spa": 0.3333,
+      "service": 0.3333
+    },
+    "category_fit": {
+      "3-star": -0.4,
+      "4-star": 0.6,
+      "5-star": 1.0
+    },
+    "archetype": "couple_wellness",
+    "rule_dims": [
+      "quietness",
+      "wellness_spa",
+      "service"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P17",
+    "description": "Shoestring traveler, open to multi-city routing to save money, wants to experience local culture cheaply, tight budget, value is everything.",
+    "traveler_type": "leisure",
+    "budget": "tight",
+    "desired_dims": [
+      "value",
+      "local_culture"
+    ],
+    "dim_weights": {
+      "value": 0.6667,
+      "local_culture": 0.3333
+    },
+    "category_fit": {
+      "3-star": 1.0,
+      "4-star": 0.4,
+      "5-star": -0.4
+    },
+    "archetype": "leisure_budget_culture",
+    "rule_dims": [
+      "local_culture",
+      "value"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P18",
+    "description": "High-end leisure guest, expects impeccable five-star service, values privacy and refinement, budget is no object, wants a world-class spa.",
+    "traveler_type": "leisure",
+    "budget": "high",
+    "desired_dims": [
+      "luxury",
+      "wellness_spa"
+    ],
+    "dim_weights": {
+      "luxury": 0.6923,
+      "wellness_spa": 0.3077
+    },
+    "category_fit": {
+      "3-star": -0.4,
+      "4-star": 0.6,
+      "5-star": 1.0
+    },
+    "archetype": "leisure_luxury_wellness",
+    "rule_dims": [
+      "wellness_spa",
+      "luxury"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P19",
+    "description": "Avid foodie, wants to be central to the restaurant scene, mid-to-high budget for experiences, chasing great food and local dining, interested in authentic local culture.",
+    "traveler_type": "leisure",
+    "budget": "mid_high",
+    "desired_dims": [
+      "food_dining",
+      "local_culture",
+      "location_central"
+    ],
+    "dim_weights": {
+      "food_dining": 0.4118,
+      "local_culture": 0.3529,
+      "location_central": 0.2353
+    },
+    "category_fit": {
+      "3-star": 0.1,
+      "4-star": 1.0,
+      "5-star": 0.8
+    },
+    "archetype": "leisure_foodie_culture",
+    "rule_dims": [
+      "local_culture",
+      "location_central",
+      "food_dining"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P20",
+    "description": "Wheelchair user, prefers direct flights, wants a central location to minimize travel, needs helpful, attentive staff.",
+    "traveler_type": "leisure",
+    "budget": "mid",
+    "desired_dims": [
+      "location_central",
+      "accessibility",
+      "service"
+    ],
+    "dim_weights": {
+      "location_central": 0.3846,
+      "accessibility": 0.3077,
+      "service": 0.3077
+    },
+    "category_fit": {
+      "3-star": 0.6,
+      "4-star": 1.0,
+      "5-star": 0.5
+    },
+    "archetype": "leisure_central_accessible",
+    "rule_dims": [
+      "location_central",
+      "accessibility",
+      "service"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P21",
+    "description": "Beach-holiday traveler, prefers direct flights, mid-range to upper budget, enjoys good on-site dining, wants direct beach access.",
+    "traveler_type": "leisure",
+    "budget": "mid_high",
+    "desired_dims": [
+      "beach_access",
+      "food_dining"
+    ],
+    "dim_weights": {
+      "beach_access": 0.5556,
+      "food_dining": 0.4444
+    },
+    "category_fit": {
+      "3-star": 0.1,
+      "4-star": 1.0,
+      "5-star": 0.8
+    },
+    "archetype": "leisure_beach_foodie",
+    "rule_dims": [
+      "food_dining",
+      "beach_access"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P22",
+    "description": "Remote worker, needs fast reliable WiFi for remote work, happy with multi-city stays, wants good value for an extended stay.",
+    "traveler_type": "solo",
+    "budget": "mid",
+    "desired_dims": [
+      "business_facilities",
+      "value"
+    ],
+    "dim_weights": {
+      "business_facilities": 0.6,
+      "value": 0.4
+    },
+    "category_fit": {
+      "3-star": 0.6,
+      "4-star": 1.0,
+      "5-star": 0.5
+    },
+    "archetype": "solo_business_budget",
+    "rule_dims": [
+      "business_facilities",
+      "value"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P23",
+    "description": "Group of friends on a city break, fine with multi-city legs, wants to be central to the action, splitting costs so value matters.",
+    "traveler_type": "group",
+    "budget": "mid",
+    "desired_dims": [
+      "value",
+      "location_central"
+    ],
+    "dim_weights": {
+      "value": 0.5556,
+      "location_central": 0.4444
+    },
+    "category_fit": {
+      "3-star": 0.6,
+      "4-star": 1.0,
+      "5-star": 0.5
+    },
+    "archetype": "group_budget_central",
+    "rule_dims": [
+      "location_central",
+      "value"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P24",
+    "description": "Solo wellness traveler, seeking a spa and wellness retreat, values spotless cleanliness, prefers direct flights.",
+    "traveler_type": "solo",
+    "budget": "mid",
+    "desired_dims": [
+      "wellness_spa",
+      "cleanliness"
+    ],
+    "dim_weights": {
+      "wellness_spa": 0.5833,
+      "cleanliness": 0.4167
+    },
+    "category_fit": {
+      "3-star": 0.6,
+      "4-star": 1.0,
+      "5-star": 0.5
+    },
+    "archetype": "solo_wellness",
+    "rule_dims": [
+      "wellness_spa",
+      "cleanliness"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P25",
+    "description": "Independent solo traveler, prefers direct flights, wants a central, walkable base, keen on local culture and markets.",
+    "traveler_type": "solo",
+    "budget": "mid",
+    "desired_dims": [
+      "local_culture",
+      "location_central"
+    ],
+    "dim_weights": {
+      "local_culture": 0.5,
+      "location_central": 0.5
+    },
+    "category_fit": {
+      "3-star": 0.6,
+      "4-star": 1.0,
+      "5-star": 0.5
+    },
+    "archetype": "solo_culture_central",
+    "rule_dims": [
+      "local_culture",
+      "location_central"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P26",
+    "description": "Corporate road-warrior, values a central location near the office district, needs rock-solid WiFi and meeting space, wants a quiet room for calls.",
+    "traveler_type": "business",
+    "budget": "mid",
+    "desired_dims": [
+      "location_central",
+      "business_facilities",
+      "quietness"
+    ],
+    "dim_weights": {
+      "location_central": 0.3333,
+      "business_facilities": 0.3333,
+      "quietness": 0.3333
+    },
+    "category_fit": {
+      "3-star": 0.6,
+      "4-star": 1.0,
+      "5-star": 0.5
+    },
+    "archetype": "business_central",
+    "rule_dims": [
+      "location_central",
+      "business_facilities",
+      "quietness"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P27",
+    "description": "Family of four with young kids, values connecting rooms, needs family-friendly facilities and a pool, prefers direct flights with kids, mid-range budget.",
+    "traveler_type": "family",
+    "budget": "mid",
+    "desired_dims": [
+      "family_friendly"
+    ],
+    "dim_weights": {
+      "family_friendly": 1.0
+    },
+    "category_fit": {
+      "3-star": 0.6,
+      "4-star": 1.0,
+      "5-star": 0.5
+    },
+    "archetype": "family",
+    "rule_dims": [
+      "family_friendly"
+    ],
+    "embedding_dims": [
+      "family_friendly"
+    ]
+  },
+  {
+    "profile_id": "P28",
+    "description": "Honeymooning couple, appreciates attentive personal service, prefers a quiet, peaceful room, wants a spa and wellness facilities, happy with a higher budget for the right vibe.",
+    "traveler_type": "couple",
+    "budget": "high",
+    "desired_dims": [
+      "quietness",
+      "wellness_spa",
+      "service"
+    ],
+    "dim_weights": {
+      "quietness": 0.3333,
+      "wellness_spa": 0.3333,
+      "service": 0.3333
+    },
+    "category_fit": {
+      "3-star": -0.4,
+      "4-star": 0.6,
+      "5-star": 1.0
+    },
+    "archetype": "couple_wellness",
+    "rule_dims": [
+      "quietness",
+      "wellness_spa",
+      "service"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P29",
+    "description": "Young solo backpacker, tight budget, value is everything, loves nightlife and a social scene, wants to experience local culture cheaply, open to multi-city routing to save money.",
+    "traveler_type": "solo",
+    "budget": "tight",
+    "desired_dims": [
+      "value",
+      "nightlife",
+      "local_culture"
+    ],
+    "dim_weights": {
+      "value": 0.4375,
+      "nightlife": 0.3125,
+      "local_culture": 0.25
+    },
+    "category_fit": {
+      "3-star": 1.0,
+      "4-star": 0.4,
+      "5-star": -0.4
+    },
+    "archetype": "solo_budget_nightlife",
+    "rule_dims": [
+      "local_culture",
+      "value",
+      "nightlife"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P30",
+    "description": "Luxury traveler, expects impeccable five-star service, prefers direct premium-cabin flights, values privacy and refinement, wants a world-class spa.",
+    "traveler_type": "leisure",
+    "budget": "high",
+    "desired_dims": [
+      "luxury",
+      "wellness_spa"
+    ],
+    "dim_weights": {
+      "luxury": 0.6923,
+      "wellness_spa": 0.3077
+    },
+    "category_fit": {
+      "3-star": -0.4,
+      "4-star": 0.6,
+      "5-star": 1.0
+    },
+    "archetype": "leisure_luxury_wellness",
+    "rule_dims": [
+      "wellness_spa",
+      "luxury"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P31",
+    "description": "Food-and-wine enthusiast, wants to be central to the restaurant scene, interested in authentic local culture, chasing great food and local dining.",
+    "traveler_type": "leisure",
+    "budget": "mid",
+    "desired_dims": [
+      "food_dining",
+      "local_culture",
+      "location_central"
+    ],
+    "dim_weights": {
+      "food_dining": 0.4118,
+      "local_culture": 0.3529,
+      "location_central": 0.2353
+    },
+    "category_fit": {
+      "3-star": 0.6,
+      "4-star": 1.0,
+      "5-star": 0.5
+    },
+    "archetype": "leisure_foodie_culture",
+    "rule_dims": [
+      "local_culture",
+      "location_central",
+      "food_dining"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P32",
+    "description": "Guest requiring step-free access, needs helpful, attentive staff, prefers direct flights, wants a central location to minimize travel.",
+    "traveler_type": "leisure",
+    "budget": "mid",
+    "desired_dims": [
+      "location_central",
+      "accessibility",
+      "service"
+    ],
+    "dim_weights": {
+      "location_central": 0.3846,
+      "accessibility": 0.3077,
+      "service": 0.3077
+    },
+    "category_fit": {
+      "3-star": 0.6,
+      "4-star": 1.0,
+      "5-star": 0.5
+    },
+    "archetype": "leisure_central_accessible",
+    "rule_dims": [
+      "location_central",
+      "accessibility",
+      "service"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P33",
+    "description": "Sun-seeker, mid-range to upper budget, would love a spa to unwind, wants direct beach access.",
+    "traveler_type": "leisure",
+    "budget": "mid_high",
+    "desired_dims": [
+      "wellness_spa",
+      "beach_access"
+    ],
+    "dim_weights": {
+      "wellness_spa": 0.5,
+      "beach_access": 0.5
+    },
+    "category_fit": {
+      "3-star": 0.1,
+      "4-star": 1.0,
+      "5-star": 0.8
+    },
+    "archetype": "leisure_wellness_beach",
+    "rule_dims": [
+      "wellness_spa",
+      "beach_access"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P34",
+    "description": "Long-stay freelancer, happy with multi-city stays, needs fast reliable WiFi for remote work, prefers a quiet room to focus, wants good value for an extended stay.",
+    "traveler_type": "solo",
+    "budget": "mid",
+    "desired_dims": [
+      "business_facilities",
+      "quietness",
+      "value"
+    ],
+    "dim_weights": {
+      "business_facilities": 0.3571,
+      "quietness": 0.3571,
+      "value": 0.2857
+    },
+    "category_fit": {
+      "3-star": 0.6,
+      "4-star": 1.0,
+      "5-star": 0.5
+    },
+    "archetype": "solo_business_budget",
+    "rule_dims": [
+      "business_facilities",
+      "quietness",
+      "value"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P35",
+    "description": "Friends traveling together, fine with multi-city legs, here for the nightlife and bars, splitting costs so value matters, wants to be central to the action.",
+    "traveler_type": "group",
+    "budget": "mid",
+    "desired_dims": [
+      "value",
+      "nightlife",
+      "location_central"
+    ],
+    "dim_weights": {
+      "value": 0.3571,
+      "nightlife": 0.3571,
+      "location_central": 0.2857
+    },
+    "category_fit": {
+      "3-star": 0.6,
+      "4-star": 1.0,
+      "5-star": 0.5
+    },
+    "archetype": "group_budget_nightlife",
+    "rule_dims": [
+      "location_central",
+      "value",
+      "nightlife"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P36",
+    "description": "Guest on a self-care retreat, prefers direct flights, seeking a spa and wellness retreat, values spotless cleanliness.",
+    "traveler_type": "leisure",
+    "budget": "mid",
+    "desired_dims": [
+      "wellness_spa",
+      "cleanliness"
+    ],
+    "dim_weights": {
+      "wellness_spa": 0.6154,
+      "cleanliness": 0.3846
+    },
+    "category_fit": {
+      "3-star": 0.6,
+      "4-star": 1.0,
+      "5-star": 0.5
+    },
+    "archetype": "leisure_wellness",
+    "rule_dims": [
+      "wellness_spa",
+      "cleanliness"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P37",
+    "description": "Solo female traveler, wants a central, walkable base, keen on local culture and markets, prefers direct flights, safety-conscious.",
+    "traveler_type": "solo",
+    "budget": "mid",
+    "desired_dims": [
+      "local_culture",
+      "location_central",
+      "safety"
+    ],
+    "dim_weights": {
+      "local_culture": 0.3571,
+      "location_central": 0.3571,
+      "safety": 0.2857
+    },
+    "category_fit": {
+      "3-star": 0.6,
+      "4-star": 1.0,
+      "5-star": 0.5
+    },
+    "archetype": "solo_female_culture",
+    "rule_dims": [
+      "safety",
+      "local_culture",
+      "location_central"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P38",
+    "description": "Corporate road-warrior, mid-range expense-account budget, values a central location near the office district, prefers direct flights, wants a quiet room for calls.",
+    "traveler_type": "business",
+    "budget": "mid",
+    "desired_dims": [
+      "location_central",
+      "quietness"
+    ],
+    "dim_weights": {
+      "location_central": 0.5,
+      "quietness": 0.5
+    },
+    "category_fit": {
+      "3-star": 0.6,
+      "4-star": 1.0,
+      "5-star": 0.5
+    },
+    "archetype": "business_central",
+    "rule_dims": [
+      "location_central",
+      "quietness"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P39",
+    "description": "Family with two children, prefers direct flights with kids, needs family-friendly facilities and a pool, wants clean, spacious rooms, mid-range budget.",
+    "traveler_type": "family",
+    "budget": "mid",
+    "desired_dims": [
+      "family_friendly",
+      "cleanliness"
+    ],
+    "dim_weights": {
+      "family_friendly": 0.6667,
+      "cleanliness": 0.3333
+    },
+    "category_fit": {
+      "3-star": 0.6,
+      "4-star": 1.0,
+      "5-star": 0.5
+    },
+    "archetype": "family",
+    "rule_dims": [
+      "family_friendly",
+      "cleanliness"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P40",
+    "description": "Honeymooning couple, appreciates attentive personal service, happy with a higher budget for the right vibe, wants a spa and wellness facilities.",
+    "traveler_type": "couple",
+    "budget": "high",
+    "desired_dims": [
+      "wellness_spa",
+      "service"
+    ],
+    "dim_weights": {
+      "wellness_spa": 0.5,
+      "service": 0.5
+    },
+    "category_fit": {
+      "3-star": -0.4,
+      "4-star": 0.6,
+      "5-star": 1.0
+    },
+    "archetype": "couple_wellness",
+    "rule_dims": [
+      "wellness_spa",
+      "service"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P41",
+    "description": "Shoestring traveler, wants to experience local culture cheaply, tight budget, value is everything, open to multi-city routing to save money.",
+    "traveler_type": "leisure",
+    "budget": "tight",
+    "desired_dims": [
+      "value",
+      "local_culture"
+    ],
+    "dim_weights": {
+      "value": 0.6667,
+      "local_culture": 0.3333
+    },
+    "category_fit": {
+      "3-star": 1.0,
+      "4-star": 0.4,
+      "5-star": -0.4
+    },
+    "archetype": "leisure_budget_culture",
+    "rule_dims": [
+      "local_culture",
+      "value"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P42",
+    "description": "High-end leisure guest, wants a world-class spa, budget is no object, values privacy and refinement.",
+    "traveler_type": "leisure",
+    "budget": "high",
+    "desired_dims": [
+      "luxury",
+      "wellness_spa"
+    ],
+    "dim_weights": {
+      "luxury": 0.6364,
+      "wellness_spa": 0.3636
+    },
+    "category_fit": {
+      "3-star": -0.4,
+      "4-star": 0.6,
+      "5-star": 1.0
+    },
+    "archetype": "leisure_luxury_wellness",
+    "rule_dims": [
+      "wellness_spa",
+      "luxury"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P43",
+    "description": "Avid foodie, mid-to-high budget for experiences, interested in authentic local culture, chasing great food and local dining, wants to be central to the restaurant scene.",
+    "traveler_type": "leisure",
+    "budget": "mid_high",
+    "desired_dims": [
+      "food_dining",
+      "local_culture",
+      "location_central"
+    ],
+    "dim_weights": {
+      "food_dining": 0.4118,
+      "local_culture": 0.3529,
+      "location_central": 0.2353
+    },
+    "category_fit": {
+      "3-star": 0.1,
+      "4-star": 1.0,
+      "5-star": 0.8
+    },
+    "archetype": "leisure_foodie_culture",
+    "rule_dims": [
+      "local_culture",
+      "location_central",
+      "food_dining"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P44",
+    "description": "Wheelchair user, prefers direct flights, wants a central location to minimize travel, requires full step-free accessibility.",
+    "traveler_type": "leisure",
+    "budget": "mid",
+    "desired_dims": [
+      "accessibility",
+      "location_central"
+    ],
+    "dim_weights": {
+      "accessibility": 0.5455,
+      "location_central": 0.4545
+    },
+    "category_fit": {
+      "3-star": 0.6,
+      "4-star": 1.0,
+      "5-star": 0.5
+    },
+    "archetype": "leisure_accessible_central",
+    "rule_dims": [
+      "location_central",
+      "accessibility"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P45",
+    "description": "Beach-holiday traveler, mid-range to upper budget, enjoys good on-site dining, wants direct beach access.",
+    "traveler_type": "leisure",
+    "budget": "mid_high",
+    "desired_dims": [
+      "beach_access",
+      "food_dining"
+    ],
+    "dim_weights": {
+      "beach_access": 0.5556,
+      "food_dining": 0.4444
+    },
+    "category_fit": {
+      "3-star": 0.1,
+      "4-star": 1.0,
+      "5-star": 0.8
+    },
+    "archetype": "leisure_beach_foodie",
+    "rule_dims": [
+      "food_dining",
+      "beach_access"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P46",
+    "description": "Digital nomad on a long stay, happy with multi-city stays, prefers a quiet room to focus, needs fast reliable WiFi for remote work, wants good value for an extended stay.",
+    "traveler_type": "solo",
+    "budget": "mid",
+    "desired_dims": [
+      "business_facilities",
+      "quietness",
+      "value"
+    ],
+    "dim_weights": {
+      "business_facilities": 0.3571,
+      "quietness": 0.3571,
+      "value": 0.2857
+    },
+    "category_fit": {
+      "3-star": 0.6,
+      "4-star": 1.0,
+      "5-star": 0.5
+    },
+    "archetype": "solo_business_budget",
+    "rule_dims": [
+      "business_facilities",
+      "quietness",
+      "value"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P47",
+    "description": "Group of friends on a city break, wants to be central to the action, here for the nightlife and bars, fine with multi-city legs, splitting costs so value matters.",
+    "traveler_type": "group",
+    "budget": "mid",
+    "desired_dims": [
+      "value",
+      "nightlife",
+      "location_central"
+    ],
+    "dim_weights": {
+      "value": 0.3571,
+      "nightlife": 0.3571,
+      "location_central": 0.2857
+    },
+    "category_fit": {
+      "3-star": 0.6,
+      "4-star": 1.0,
+      "5-star": 0.5
+    },
+    "archetype": "group_budget_nightlife",
+    "rule_dims": [
+      "location_central",
+      "value",
+      "nightlife"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P48",
+    "description": "Guest on a self-care retreat, mid-range budget, prefers direct flights, wants a quiet, restful room, seeking a spa and wellness retreat.",
+    "traveler_type": "leisure",
+    "budget": "mid",
+    "desired_dims": [
+      "wellness_spa",
+      "quietness"
+    ],
+    "dim_weights": {
+      "wellness_spa": 0.6154,
+      "quietness": 0.3846
+    },
+    "category_fit": {
+      "3-star": 0.6,
+      "4-star": 1.0,
+      "5-star": 0.5
+    },
+    "archetype": "leisure_wellness",
+    "rule_dims": [
+      "quietness",
+      "wellness_spa"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P49",
+    "description": "Solo female traveler, keen on local culture and markets, wants a central, walkable base, safety-conscious.",
+    "traveler_type": "solo",
+    "budget": "mid",
+    "desired_dims": [
+      "local_culture",
+      "location_central",
+      "safety"
+    ],
+    "dim_weights": {
+      "local_culture": 0.3571,
+      "location_central": 0.3571,
+      "safety": 0.2857
+    },
+    "category_fit": {
+      "3-star": 0.6,
+      "4-star": 1.0,
+      "5-star": 0.5
+    },
+    "archetype": "solo_female_culture",
+    "rule_dims": [
+      "safety",
+      "local_culture",
+      "location_central"
+    ],
+    "embedding_dims": []
+  },
+  {
+    "profile_id": "P50",
+    "description": "Corporate road-warrior, mid-range expense-account budget, values a central location near the office district, needs rock-solid WiFi and meeting space.",
+    "traveler_type": "business",
+    "budget": "mid",
+    "desired_dims": [
+      "location_central",
+      "business_facilities"
+    ],
+    "dim_weights": {
+      "location_central": 0.5,
+      "business_facilities": 0.5
+    },
+    "category_fit": {
+      "3-star": 0.6,
+      "4-star": 1.0,
+      "5-star": 0.5
+    },
+    "archetype": "business_central",
+    "rule_dims": [
+      "location_central",
+      "business_facilities"
+    ],
+    "embedding_dims": []
+  }
+]

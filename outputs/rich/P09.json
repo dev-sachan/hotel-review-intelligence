@@ -1,0 +1,235 @@
+{
+  "profile_id": "P09",
+  "archetype": "couple_wellness_foodie",
+  "profile_summary": "Couple traveler (mid-high budget) prioritizing spa & wellness, food & dining, beach access.",
+  "desired_dims": [
+    "wellness_spa",
+    "food_dining",
+    "beach_access"
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "hotel_id": "H051",
+      "hotel_name": "Casa Harbour, Istanbul",
+      "hotel_category": "5-star",
+      "score": 4.988,
+      "matched_aspects": [
+        "wellness_spa",
+        "food_dining",
+        "beach_access"
+      ],
+      "aspect_scores": {
+        "wellness_spa": 0.9184,
+        "food_dining": 0.6666,
+        "beach_access": 0.8807
+      },
+      "justification": "Casa Harbour, Istanbul ranks #1 for this traveler on spa & wellness (+0.92), food & dining (+0.67), beach access (+0.88), weighted by what matters most to them. Guests note: \"Wonderful wellness facilities; the sauna and treatments left us completely refreshed.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R31982",
+          "quote": "Wonderful wellness facilities; the sauna and treatments left us completely refreshed.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-21",
+          "verified": true,
+          "sentiment": 0.985
+        },
+        {
+          "review_id": "R31982",
+          "quote": "Woke up to the sea every morning \u2014 the beachfront setting was perfect.",
+          "aspect": "beach_access",
+          "date": "2025-12-21",
+          "verified": true,
+          "sentiment": 0.975
+        },
+        {
+          "review_id": "R32104",
+          "quote": "The spa was a highlight \u2014 incredible massages and a serene relaxation pool.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-14",
+          "verified": true,
+          "sentiment": 0.983
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H002",
+      "hotel_name": "Hotel Belmont, Singapore",
+      "hotel_category": "4-star",
+      "score": 4.906,
+      "matched_aspects": [
+        "wellness_spa",
+        "food_dining",
+        "beach_access"
+      ],
+      "aspect_scores": {
+        "wellness_spa": 0.8687,
+        "food_dining": 0.5845,
+        "beach_access": 0.8503
+      },
+      "justification": "Hotel Belmont, Singapore ranks #2 for this traveler on spa & wellness (+0.87), food & dining (+0.58), beach access (+0.85), weighted by what matters most to them. Guests note: \"Wonderful wellness facilities; the sauna and treatments left us completely refreshed.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R10531",
+          "quote": "Wonderful wellness facilities; the sauna and treatments left us completely refreshed.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-14",
+          "verified": true,
+          "sentiment": 0.985
+        },
+        {
+          "review_id": "R10571",
+          "quote": "Woke up to the sea every morning \u2014 the beachfront setting was perfect.",
+          "aspect": "beach_access",
+          "date": "2025-12-15",
+          "verified": true,
+          "sentiment": 0.975
+        },
+        {
+          "review_id": "R10470",
+          "quote": "The spa was a highlight \u2014 incredible massages and a serene relaxation pool.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-07",
+          "verified": true,
+          "sentiment": 0.983
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H019",
+      "hotel_name": "Casa Vista, Barcelona",
+      "hotel_category": "5-star",
+      "score": 4.825,
+      "matched_aspects": [
+        "wellness_spa",
+        "food_dining",
+        "beach_access"
+      ],
+      "aspect_scores": {
+        "wellness_spa": 0.8604,
+        "food_dining": 0.6238,
+        "beach_access": 0.8342
+      },
+      "justification": "Casa Vista, Barcelona ranks #3 for this traveler on spa & wellness (+0.86), food & dining (+0.62), beach access (+0.83), weighted by what matters most to them. Guests note: \"The spa was a highlight \u2014 incredible massages and a serene relaxation pool.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R19073",
+          "quote": "The spa was a highlight \u2014 incredible massages and a serene relaxation pool.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-28",
+          "verified": true,
+          "sentiment": 0.983
+        },
+        {
+          "review_id": "R19077",
+          "quote": "Woke up to the sea every morning \u2014 the beachfront setting was perfect.",
+          "aspect": "beach_access",
+          "date": "2025-12-14",
+          "verified": true,
+          "sentiment": 0.975
+        },
+        {
+          "review_id": "R18940",
+          "quote": "Direct beach access made the whole stay feel like a proper getaway.",
+          "aspect": "beach_access",
+          "date": "2025-12-25",
+          "verified": true,
+          "sentiment": 0.931
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H070",
+      "hotel_name": "Casa Atrium, Sydney",
+      "hotel_category": "5-star",
+      "score": 4.506,
+      "matched_aspects": [
+        "wellness_spa",
+        "food_dining"
+      ],
+      "aspect_scores": {
+        "wellness_spa": 0.9164,
+        "food_dining": 0.8862,
+        "beach_access": 0.0
+      },
+      "justification": "Casa Atrium, Sydney ranks #4 for this traveler on spa & wellness (+0.92), food & dining (+0.89), weighted by what matters most to them. Guests note: \"The spa was a highlight \u2014 incredible massages and a serene relaxation pool.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R38836",
+          "quote": "The spa was a highlight \u2014 incredible massages and a serene relaxation pool.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-23",
+          "verified": true,
+          "sentiment": 0.983
+        },
+        {
+          "review_id": "R38384",
+          "quote": "Fantastic for families \u2014 connecting rooms, a kids' club, and high chairs at breakfast.",
+          "aspect": "food_dining",
+          "date": "2025-12-22",
+          "verified": true,
+          "sentiment": 0.982
+        },
+        {
+          "review_id": "R38179",
+          "quote": "Wonderful wellness facilities; the sauna and treatments left us completely refreshed.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-14",
+          "verified": true,
+          "sentiment": 0.985
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H006",
+      "hotel_name": "Hotel Vista, London",
+      "hotel_category": "5-star",
+      "score": 4.468,
+      "matched_aspects": [
+        "wellness_spa",
+        "food_dining"
+      ],
+      "aspect_scores": {
+        "wellness_spa": 0.8927,
+        "food_dining": 0.9223,
+        "beach_access": 0.0
+      },
+      "justification": "Hotel Vista, London ranks #5 for this traveler on spa & wellness (+0.89), food & dining (+0.92), weighted by what matters most to them. Guests note: \"Wonderful wellness facilities; the sauna and treatments left us completely refreshed.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R12132",
+          "quote": "Wonderful wellness facilities; the sauna and treatments left us completely refreshed.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-27",
+          "verified": true,
+          "sentiment": 0.985
+        },
+        {
+          "review_id": "R12304",
+          "quote": "The spa was a highlight \u2014 incredible massages and a serene relaxation pool.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-25",
+          "verified": true,
+          "sentiment": 0.983
+        },
+        {
+          "review_id": "R12972",
+          "quote": "Fantastic for families \u2014 connecting rooms, a kids' club, and high chairs at breakfast.",
+          "aspect": "food_dining",
+          "date": "2025-12-21",
+          "verified": true,
+          "sentiment": 0.982
+        }
+      ],
+      "caveats": null
+    }
+  ]
+}

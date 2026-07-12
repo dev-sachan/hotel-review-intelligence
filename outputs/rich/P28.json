@@ -1,0 +1,237 @@
+{
+  "profile_id": "P28",
+  "archetype": "couple_wellness",
+  "profile_summary": "Couple traveler (high budget) prioritizing quietness, spa & wellness, service.",
+  "desired_dims": [
+    "quietness",
+    "wellness_spa",
+    "service"
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "hotel_id": "H075",
+      "hotel_name": "The Grand Harbour, Barcelona",
+      "hotel_category": "5-star",
+      "score": 5.105,
+      "matched_aspects": [
+        "quietness",
+        "wellness_spa",
+        "service"
+      ],
+      "aspect_scores": {
+        "quietness": 0.8628,
+        "wellness_spa": 0.8572,
+        "service": 0.8535
+      },
+      "justification": "The Grand Harbour, Barcelona ranks #1 for this traveler on quietness (+0.86), spa & wellness (+0.86), service (+0.85), weighted by what matters most to them. Guests note: \"The spa was a highlight \u2014 incredible massages and a serene relaxation pool.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R40980",
+          "quote": "The spa was a highlight \u2014 incredible massages and a serene relaxation pool.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-31",
+          "verified": true,
+          "sentiment": 0.983
+        },
+        {
+          "review_id": "R40640",
+          "quote": "Wonderful wellness facilities; the sauna and treatments left us completely refreshed.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-24",
+          "verified": true,
+          "sentiment": 0.985
+        },
+        {
+          "review_id": "R41110",
+          "quote": "Front desk was friendly and incredibly helpful with every request.",
+          "aspect": "service",
+          "date": "2025-12-31",
+          "verified": true,
+          "sentiment": 0.966
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H109",
+      "hotel_name": "The Royal Sands, Rome",
+      "hotel_category": "5-star",
+      "score": 4.846,
+      "matched_aspects": [
+        "quietness",
+        "wellness_spa",
+        "service"
+      ],
+      "aspect_scores": {
+        "quietness": 0.6025,
+        "wellness_spa": 0.8775,
+        "service": 0.7497
+      },
+      "justification": "The Royal Sands, Rome ranks #2 for this traveler on quietness (+0.60), spa & wellness (+0.88), service (+0.75), weighted by what matters most to them. Guests note: \"The spa was a highlight \u2014 incredible massages and a serene relaxation pool.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R54987",
+          "quote": "The spa was a highlight \u2014 incredible massages and a serene relaxation pool.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-22",
+          "verified": true,
+          "sentiment": 0.983
+        },
+        {
+          "review_id": "R54894",
+          "quote": "The level of refinement and personal service was world-class.",
+          "aspect": "service",
+          "date": "2025-11-25",
+          "verified": true,
+          "sentiment": 0.937
+        },
+        {
+          "review_id": "R54734",
+          "quote": "Wonderful wellness facilities; the sauna and treatments left us completely refreshed.",
+          "aspect": "wellness_spa",
+          "date": "2025-10-04",
+          "verified": true,
+          "sentiment": 0.985
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H116",
+      "hotel_name": "Hotel Riverside, Mexico City",
+      "hotel_category": "5-star",
+      "score": 4.787,
+      "matched_aspects": [
+        "quietness",
+        "wellness_spa",
+        "service"
+      ],
+      "aspect_scores": {
+        "quietness": 0.6879,
+        "wellness_spa": 0.8241,
+        "service": 0.7246
+      },
+      "justification": "Hotel Riverside, Mexico City ranks #3 for this traveler on quietness (+0.69), spa & wellness (+0.82), service (+0.72), weighted by what matters most to them. Guests note: \"Staff went above and beyond \u2014 genuinely warm, attentive service throughout.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R58224",
+          "quote": "Staff went above and beyond \u2014 genuinely warm, attentive service throughout.",
+          "aspect": "service",
+          "date": "2025-12-23",
+          "verified": true,
+          "sentiment": 0.963
+        },
+        {
+          "review_id": "R58035",
+          "quote": "A proper retreat: yoga in the morning and an excellent spa in the afternoon.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-28",
+          "verified": true,
+          "sentiment": 0.94
+        },
+        {
+          "review_id": "R58049",
+          "quote": "The spa was a highlight \u2014 incredible massages and a serene relaxation pool.",
+          "aspect": "wellness_spa",
+          "date": "2025-11-20",
+          "verified": true,
+          "sentiment": 0.983
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H087",
+      "hotel_name": "Hotel Vista, Mumbai",
+      "hotel_category": "4-star",
+      "score": 4.641,
+      "matched_aspects": [
+        "quietness",
+        "wellness_spa",
+        "service"
+      ],
+      "aspect_scores": {
+        "quietness": 0.7857,
+        "wellness_spa": 0.7775,
+        "service": 0.6753
+      },
+      "justification": "Hotel Vista, Mumbai ranks #4 for this traveler on quietness (+0.79), spa & wellness (+0.78), service (+0.68), weighted by what matters most to them. Guests note: \"Room was wonderfully peaceful and the blackout curtains were perfect.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R44726",
+          "quote": "Room was wonderfully peaceful and the blackout curtains were perfect.",
+          "aspect": "quietness",
+          "date": "2025-12-26",
+          "verified": true,
+          "sentiment": 0.976
+        },
+        {
+          "review_id": "R44703",
+          "quote": "Fantastic for families \u2014 connecting rooms, a kids' club, and high chairs at breakfast.",
+          "aspect": "service",
+          "date": "2025-12-08",
+          "verified": true,
+          "sentiment": 0.982
+        },
+        {
+          "review_id": "R44681",
+          "quote": "The spa was a highlight \u2014 incredible massages and a serene relaxation pool.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-04",
+          "verified": true,
+          "sentiment": 0.983
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H113",
+      "hotel_name": "The Park Harbour, Dubai",
+      "hotel_category": "4-star",
+      "score": 4.464,
+      "matched_aspects": [
+        "quietness",
+        "wellness_spa",
+        "service"
+      ],
+      "aspect_scores": {
+        "quietness": 0.6904,
+        "wellness_spa": 0.6896,
+        "service": 0.6581
+      },
+      "justification": "The Park Harbour, Dubai ranks #5 for this traveler on quietness (+0.69), spa & wellness (+0.69), service (+0.66), weighted by what matters most to them. Guests note: \"Room was wonderfully peaceful and the blackout curtains were perfect.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R56233",
+          "quote": "Room was wonderfully peaceful and the blackout curtains were perfect.",
+          "aspect": "quietness",
+          "date": "2025-12-28",
+          "verified": true,
+          "sentiment": 0.976
+        },
+        {
+          "review_id": "R56414",
+          "quote": "Wonderful wellness facilities; the sauna and treatments left us completely refreshed.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-06",
+          "verified": true,
+          "sentiment": 0.985
+        },
+        {
+          "review_id": "R56467",
+          "quote": "The level of refinement and personal service was world-class.",
+          "aspect": "service",
+          "date": "2025-12-30",
+          "verified": true,
+          "sentiment": 0.937
+        }
+      ],
+      "caveats": null
+    }
+  ]
+}

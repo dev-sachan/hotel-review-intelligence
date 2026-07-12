@@ -1,0 +1,23 @@
+# Core data stack
+pandas>=2.2
+numpy>=1.26
+scipy>=1.13
+statsmodels>=0.14
+pyarrow>=16.0
+
+# NLP (run once over the 87 unique template sentences, results cached;
+# sentence-transformers is also needed live for Evidence Search query embedding)
+#
+# --extra-index-url pulls the CPU-only PyTorch build instead of the default CUDA
+# build. Streamlit Community Cloud has no GPU, so the CUDA wheel is 5-10x larger
+# than needed and risks exceeding the free tier's build time / disk limits.
+# Safe to keep this even when installing locally on a GPU-less laptop.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch>=2.6
+transformers>=4.44
+sentence-transformers>=3.0
+
+# Output contract + app
+pydantic>=2.7
+streamlit>=1.36
+plotly>=5.22

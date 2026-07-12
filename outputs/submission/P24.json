@@ -1,0 +1,45 @@
+{
+  "profile_id": "P24",
+  "archetype": "solo_wellness",
+  "desired_dims": [
+    "wellness_spa",
+    "cleanliness"
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "hotel_id": "H089",
+      "hotel_name": "The Regent Heights, Lisbon",
+      "hotel_category": "5-star",
+      "score": 5.154
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H106",
+      "hotel_name": "The Park Aurora, Mexico City",
+      "hotel_category": "4-star",
+      "score": 5.131
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H030",
+      "hotel_name": "The Onyx, Lima",
+      "hotel_category": "5-star",
+      "score": 5.026
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H075",
+      "hotel_name": "The Grand Harbour, Barcelona",
+      "hotel_category": "5-star",
+      "score": 4.97
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H109",
+      "hotel_name": "The Royal Sands, Rome",
+      "hotel_category": "5-star",
+      "score": 4.951
+    }
+  ]
+}

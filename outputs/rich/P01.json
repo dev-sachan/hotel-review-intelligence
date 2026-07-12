@@ -1,0 +1,237 @@
+{
+  "profile_id": "P01",
+  "archetype": "solo_female_culture",
+  "profile_summary": "Solo traveler (mid budget) prioritizing local culture, central location, safety.",
+  "desired_dims": [
+    "local_culture",
+    "location_central",
+    "safety"
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "hotel_id": "H095",
+      "hotel_name": "Hotel Belmont, Mexico City",
+      "hotel_category": "4-star",
+      "score": 4.867,
+      "matched_aspects": [
+        "local_culture",
+        "location_central",
+        "safety"
+      ],
+      "aspect_scores": {
+        "local_culture": 0.8644,
+        "location_central": 0.8187,
+        "safety": 0.6547
+      },
+      "justification": "Hotel Belmont, Mexico City ranks #1 for this traveler on local culture (+0.86), central location (+0.82), safety (+0.65), weighted by what matters most to them. Guests note: \"On-site restaurant was a highlight \u2014 beautifully prepared local dishes.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R48779",
+          "quote": "On-site restaurant was a highlight \u2014 beautifully prepared local dishes.",
+          "aspect": "local_culture",
+          "date": "2025-12-19",
+          "verified": true,
+          "sentiment": 0.979
+        },
+        {
+          "review_id": "R48973",
+          "quote": "As a solo traveler I felt very secure here, both in the hotel and the surrounding streets.",
+          "aspect": "safety",
+          "date": "2025-12-26",
+          "verified": true,
+          "sentiment": 0.873
+        },
+        {
+          "review_id": "R48868",
+          "quote": "Felt completely safe walking back alone at night; the area is well-lit and security was attentive.",
+          "aspect": "safety",
+          "date": "2025-12-18",
+          "verified": true,
+          "sentiment": 0.858
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H040",
+      "hotel_name": "The Vista, Rome",
+      "hotel_category": "4-star",
+      "score": 4.811,
+      "matched_aspects": [
+        "local_culture",
+        "location_central",
+        "safety"
+      ],
+      "aspect_scores": {
+        "local_culture": 0.8279,
+        "location_central": 0.8055,
+        "safety": 0.6261
+      },
+      "justification": "The Vista, Rome ranks #2 for this traveler on local culture (+0.83), central location (+0.81), safety (+0.63), weighted by what matters most to them. Guests note: \"On-site restaurant was a highlight \u2014 beautifully prepared local dishes.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R27067",
+          "quote": "On-site restaurant was a highlight \u2014 beautifully prepared local dishes.",
+          "aspect": "local_culture",
+          "date": "2025-12-29",
+          "verified": true,
+          "sentiment": 0.979
+        },
+        {
+          "review_id": "R27049",
+          "quote": "Felt completely safe walking back alone at night; the area is well-lit and security was attentive.",
+          "aspect": "safety",
+          "date": "2025-12-04",
+          "verified": true,
+          "sentiment": 0.858
+        },
+        {
+          "review_id": "R27093",
+          "quote": "As a solo traveler I felt very secure here, both in the hotel and the surrounding streets.",
+          "aspect": "safety",
+          "date": "2025-11-18",
+          "verified": true,
+          "sentiment": 0.873
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H048",
+      "hotel_name": "The Royal Solana, Lima",
+      "hotel_category": "5-star",
+      "score": 4.587,
+      "matched_aspects": [
+        "local_culture",
+        "location_central",
+        "safety"
+      ],
+      "aspect_scores": {
+        "local_culture": 0.6719,
+        "location_central": 0.8305,
+        "safety": 0.607
+      },
+      "justification": "The Royal Solana, Lima ranks #3 for this traveler on local culture (+0.67), central location (+0.83), safety (+0.61), weighted by what matters most to them. Guests note: \"Slept beautifully \u2014 very quiet despite being central.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R30898",
+          "quote": "Slept beautifully \u2014 very quiet despite being central.",
+          "aspect": "location_central",
+          "date": "2025-12-06",
+          "verified": true,
+          "sentiment": 0.948
+        },
+        {
+          "review_id": "R30975",
+          "quote": "On-site restaurant was a highlight \u2014 beautifully prepared local dishes.",
+          "aspect": "local_culture",
+          "date": "2025-10-09",
+          "verified": true,
+          "sentiment": 0.979
+        },
+        {
+          "review_id": "R30929",
+          "quote": "Felt completely safe walking back alone at night; the area is well-lit and security was attentive.",
+          "aspect": "location_central",
+          "date": "2025-12-17",
+          "verified": true,
+          "sentiment": 0.858
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H044",
+      "hotel_name": "Hotel del Aurora, San Francisco",
+      "hotel_category": "4-star",
+      "score": 4.561,
+      "matched_aspects": [
+        "local_culture",
+        "location_central",
+        "safety"
+      ],
+      "aspect_scores": {
+        "local_culture": 0.659,
+        "location_central": 0.75,
+        "safety": 0.6011
+      },
+      "justification": "Hotel del Aurora, San Francisco ranks #4 for this traveler on local culture (+0.66), central location (+0.75), safety (+0.60), weighted by what matters most to them. Guests note: \"Perfect central location, walking distance to all the main sights.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R28108",
+          "quote": "Perfect central location, walking distance to all the main sights.",
+          "aspect": "location_central",
+          "date": "2025-12-31",
+          "verified": true,
+          "sentiment": 0.947
+        },
+        {
+          "review_id": "R28483",
+          "quote": "Great base for experiencing the real culture \u2014 artisans and street food all around.",
+          "aspect": "location_central",
+          "date": "2025-12-27",
+          "verified": true,
+          "sentiment": 0.931
+        },
+        {
+          "review_id": "R28179",
+          "quote": "Loved that it sat in a genuine local neighborhood, not a tourist bubble.",
+          "aspect": "local_culture",
+          "date": "2025-11-29",
+          "verified": true,
+          "sentiment": 0.946
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H072",
+      "hotel_name": "Hotel Atrium, Lima",
+      "hotel_category": "4-star",
+      "score": 4.56,
+      "matched_aspects": [
+        "local_culture",
+        "location_central",
+        "safety"
+      ],
+      "aspect_scores": {
+        "local_culture": 0.7241,
+        "location_central": 0.8562,
+        "safety": 0.4269
+      },
+      "justification": "Hotel Atrium, Lima ranks #5 for this traveler on local culture (+0.72), central location (+0.86), safety (+0.43), weighted by what matters most to them. Guests note: \"Slept beautifully \u2014 very quiet despite being central.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R39918",
+          "quote": "Slept beautifully \u2014 very quiet despite being central.",
+          "aspect": "location_central",
+          "date": "2025-11-15",
+          "verified": true,
+          "sentiment": 0.948
+        },
+        {
+          "review_id": "R39950",
+          "quote": "Loved that it sat in a genuine local neighborhood, not a tourist bubble.",
+          "aspect": "local_culture",
+          "date": "2025-10-19",
+          "verified": true,
+          "sentiment": 0.946
+        },
+        {
+          "review_id": "R39910",
+          "quote": "Great base for experiencing the real culture \u2014 artisans and street food all around.",
+          "aspect": "location_central",
+          "date": "2025-10-13",
+          "verified": true,
+          "sentiment": 0.931
+        }
+      ],
+      "caveats": null
+    }
+  ]
+}

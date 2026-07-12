@@ -1,0 +1,232 @@
+{
+  "profile_id": "P34",
+  "archetype": "solo_business_budget",
+  "profile_summary": "Solo traveler (mid budget) prioritizing business & wifi, quietness, value for money.",
+  "desired_dims": [
+    "business_facilities",
+    "quietness",
+    "value"
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "hotel_id": "H009",
+      "hotel_name": "The Boulevard Verde, Lisbon",
+      "hotel_category": "4-star",
+      "score": 4.324,
+      "matched_aspects": [
+        "business_facilities",
+        "value"
+      ],
+      "aspect_scores": {
+        "business_facilities": 0.8891,
+        "quietness": 0.0,
+        "value": 0.8271
+      },
+      "justification": "The Boulevard Verde, Lisbon ranks #1 for this traveler on business & wifi (+0.89), value for money (+0.83), weighted by what matters most to them. Guests note: \"The business center and conference facilities were excellent, ideal for work trips.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R14282",
+          "quote": "The business center and conference facilities were excellent, ideal for work trips.",
+          "aspect": "business_facilities",
+          "date": "2025-12-30",
+          "verified": true,
+          "sentiment": 0.982
+        },
+        {
+          "review_id": "R14266",
+          "quote": "Excellent value for the price \u2014 far better than I expected for the rate.",
+          "aspect": "value",
+          "date": "2025-12-25",
+          "verified": true,
+          "sentiment": 0.967
+        },
+        {
+          "review_id": "R14138",
+          "quote": "Great setup for business travel: fast reliable internet and a proper desk.",
+          "aspect": "business_facilities",
+          "date": "2025-12-22",
+          "verified": true,
+          "sentiment": 0.962
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H087",
+      "hotel_name": "Hotel Vista, Mumbai",
+      "hotel_category": "4-star",
+      "score": 4.232,
+      "matched_aspects": [
+        "business_facilities",
+        "quietness"
+      ],
+      "aspect_scores": {
+        "business_facilities": 0.7316,
+        "quietness": 0.7869,
+        "value": 0.0
+      },
+      "justification": "Hotel Vista, Mumbai ranks #2 for this traveler on business & wifi (+0.73), quietness (+0.79), weighted by what matters most to them. Guests note: \"Room was wonderfully peaceful and the blackout curtains were perfect.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R44726",
+          "quote": "Room was wonderfully peaceful and the blackout curtains were perfect.",
+          "aspect": "quietness",
+          "date": "2025-12-26",
+          "verified": true,
+          "sentiment": 0.976
+        },
+        {
+          "review_id": "R44998",
+          "quote": "Slept beautifully \u2014 very quiet despite being central.",
+          "aspect": "quietness",
+          "date": "2025-12-20",
+          "verified": true,
+          "sentiment": 0.948
+        },
+        {
+          "review_id": "R44878",
+          "quote": "The business center and conference facilities were excellent, ideal for work trips.",
+          "aspect": "business_facilities",
+          "date": "2025-11-27",
+          "verified": true,
+          "sentiment": 0.982
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H073",
+      "hotel_name": "The Royal Lumiere, Istanbul",
+      "hotel_category": "4-star",
+      "score": 4.215,
+      "matched_aspects": [
+        "business_facilities",
+        "value"
+      ],
+      "aspect_scores": {
+        "business_facilities": 0.8091,
+        "quietness": 0.0,
+        "value": 0.7746
+      },
+      "justification": "The Royal Lumiere, Istanbul ranks #3 for this traveler on business & wifi (+0.81), value for money (+0.77), weighted by what matters most to them. Guests note: \"Meeting rooms were well-equipped and the WiFi was rock solid for video calls.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R40268",
+          "quote": "Meeting rooms were well-equipped and the WiFi was rock solid for video calls.",
+          "aspect": "business_facilities",
+          "date": "2025-12-26",
+          "verified": true,
+          "sentiment": 0.955
+        },
+        {
+          "review_id": "R40100",
+          "quote": "Great setup for business travel: fast reliable internet and a proper desk.",
+          "aspect": "business_facilities",
+          "date": "2025-12-20",
+          "verified": true,
+          "sentiment": 0.962
+        },
+        {
+          "review_id": "R40336",
+          "quote": "Great bang for your buck; you really get a lot for what you pay.",
+          "aspect": "value",
+          "date": "2025-12-04",
+          "verified": true,
+          "sentiment": 0.962
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H076",
+      "hotel_name": "The Regent Riverside, Seoul",
+      "hotel_category": "5-star",
+      "score": 4.184,
+      "matched_aspects": [
+        "business_facilities",
+        "quietness"
+      ],
+      "aspect_scores": {
+        "business_facilities": 0.7834,
+        "quietness": 0.7218,
+        "value": 0.0
+      },
+      "justification": "The Regent Riverside, Seoul ranks #4 for this traveler on business & wifi (+0.78), quietness (+0.72), weighted by what matters most to them. Guests note: \"Great setup for business travel: fast reliable internet and a proper desk.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R41211",
+          "quote": "Great setup for business travel: fast reliable internet and a proper desk.",
+          "aspect": "business_facilities",
+          "date": "2025-12-25",
+          "verified": true,
+          "sentiment": 0.962
+        },
+        {
+          "review_id": "R41217",
+          "quote": "The business center and conference facilities were excellent, ideal for work trips.",
+          "aspect": "business_facilities",
+          "date": "2025-12-03",
+          "verified": true,
+          "sentiment": 0.982
+        },
+        {
+          "review_id": "R41156",
+          "quote": "Meeting rooms were well-equipped and the WiFi was rock solid for video calls.",
+          "aspect": "business_facilities",
+          "date": "2025-12-10",
+          "verified": true,
+          "sentiment": 0.955
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H027",
+      "hotel_name": "Hotel Magnolia, Cape Town",
+      "hotel_category": "5-star",
+      "score": 4.164,
+      "matched_aspects": [
+        "business_facilities",
+        "value"
+      ],
+      "aspect_scores": {
+        "business_facilities": 0.8779,
+        "quietness": 0.0,
+        "value": 0.8198
+      },
+      "justification": "Hotel Magnolia, Cape Town ranks #5 for this traveler on business & wifi (+0.88), value for money (+0.82), weighted by what matters most to them. Guests note: \"Excellent value for the price \u2014 far better than I expected for the rate.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R22394",
+          "quote": "Excellent value for the price \u2014 far better than I expected for the rate.",
+          "aspect": "value",
+          "date": "2025-12-31",
+          "verified": true,
+          "sentiment": 0.967
+        },
+        {
+          "review_id": "R21911",
+          "quote": "Great bang for your buck; you really get a lot for what you pay.",
+          "aspect": "value",
+          "date": "2025-12-29",
+          "verified": true,
+          "sentiment": 0.962
+        },
+        {
+          "review_id": "R21772",
+          "quote": "Great setup for business travel: fast reliable internet and a proper desk.",
+          "aspect": "business_facilities",
+          "date": "2025-12-25",
+          "verified": true,
+          "sentiment": 0.962
+        }
+      ],
+      "caveats": null
+    }
+  ]
+}

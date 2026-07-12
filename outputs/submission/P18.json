@@ -1,0 +1,45 @@
+{
+  "profile_id": "P18",
+  "archetype": "leisure_luxury_wellness",
+  "desired_dims": [
+    "luxury",
+    "wellness_spa"
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "hotel_id": "H089",
+      "hotel_name": "The Regent Heights, Lisbon",
+      "hotel_category": "5-star",
+      "score": 5.36
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H070",
+      "hotel_name": "Casa Atrium, Sydney",
+      "hotel_category": "5-star",
+      "score": 5.245
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H009",
+      "hotel_name": "The Boulevard Verde, Lisbon",
+      "hotel_category": "4-star",
+      "score": 5.211
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H030",
+      "hotel_name": "The Onyx, Lima",
+      "hotel_category": "5-star",
+      "score": 5.206
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H109",
+      "hotel_name": "The Royal Sands, Rome",
+      "hotel_category": "5-star",
+      "score": 5.206
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "profile_id": "P48",
+  "archetype": "leisure_wellness",
+  "profile_summary": "Leisure traveler (mid budget) prioritizing spa & wellness, quietness.",
+  "desired_dims": [
+    "wellness_spa",
+    "quietness"
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "hotel_id": "H075",
+      "hotel_name": "The Grand Harbour, Barcelona",
+      "hotel_category": "5-star",
+      "score": 4.981,
+      "matched_aspects": [
+        "wellness_spa",
+        "quietness"
+      ],
+      "aspect_scores": {
+        "wellness_spa": 0.8543,
+        "quietness": 0.8642
+      },
+      "justification": "The Grand Harbour, Barcelona ranks #1 for this traveler on spa & wellness (+0.85), quietness (+0.86), weighted by what matters most to them. Guests note: \"The spa was a highlight \u2014 incredible massages and a serene relaxation pool.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R40980",
+          "quote": "The spa was a highlight \u2014 incredible massages and a serene relaxation pool.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-31",
+          "verified": true,
+          "sentiment": 0.983
+        },
+        {
+          "review_id": "R40640",
+          "quote": "Wonderful wellness facilities; the sauna and treatments left us completely refreshed.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-24",
+          "verified": true,
+          "sentiment": 0.985
+        },
+        {
+          "review_id": "R40610",
+          "quote": "Room was wonderfully peaceful and the blackout curtains were perfect.",
+          "aspect": "quietness",
+          "date": "2025-12-21",
+          "verified": true,
+          "sentiment": 0.976
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H081",
+      "hotel_name": "The Grand Lumiere, Amsterdam",
+      "hotel_category": "4-star",
+      "score": 4.933,
+      "matched_aspects": [
+        "wellness_spa",
+        "quietness"
+      ],
+      "aspect_scores": {
+        "wellness_spa": 0.8204,
+        "quietness": 0.7654
+      },
+      "justification": "The Grand Lumiere, Amsterdam ranks #2 for this traveler on spa & wellness (+0.82), quietness (+0.77), weighted by what matters most to them. Guests note: \"The spa was a highlight \u2014 incredible massages and a serene relaxation pool.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R42495",
+          "quote": "The spa was a highlight \u2014 incredible massages and a serene relaxation pool.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-27",
+          "verified": true,
+          "sentiment": 0.983
+        },
+        {
+          "review_id": "R42648",
+          "quote": "Wonderful wellness facilities; the sauna and treatments left us completely refreshed.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-22",
+          "verified": true,
+          "sentiment": 0.985
+        },
+        {
+          "review_id": "R42648",
+          "quote": "Room was wonderfully peaceful and the blackout curtains were perfect.",
+          "aspect": "quietness",
+          "date": "2025-12-22",
+          "verified": true,
+          "sentiment": 0.976
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H087",
+      "hotel_name": "Hotel Vista, Mumbai",
+      "hotel_category": "4-star",
+      "score": 4.814,
+      "matched_aspects": [
+        "wellness_spa",
+        "quietness"
+      ],
+      "aspect_scores": {
+        "wellness_spa": 0.7723,
+        "quietness": 0.7797
+      },
+      "justification": "Hotel Vista, Mumbai ranks #3 for this traveler on spa & wellness (+0.77), quietness (+0.78), weighted by what matters most to them. Guests note: \"Room was wonderfully peaceful and the blackout curtains were perfect.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R44726",
+          "quote": "Room was wonderfully peaceful and the blackout curtains were perfect.",
+          "aspect": "quietness",
+          "date": "2025-12-26",
+          "verified": true,
+          "sentiment": 0.976
+        },
+        {
+          "review_id": "R44681",
+          "quote": "The spa was a highlight \u2014 incredible massages and a serene relaxation pool.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-04",
+          "verified": true,
+          "sentiment": 0.983
+        },
+        {
+          "review_id": "R44726",
+          "quote": "A proper retreat: yoga in the morning and an excellent spa in the afternoon.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-26",
+          "verified": true,
+          "sentiment": 0.94
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H048",
+      "hotel_name": "The Royal Solana, Lima",
+      "hotel_category": "5-star",
+      "score": 4.798,
+      "matched_aspects": [
+        "wellness_spa",
+        "quietness"
+      ],
+      "aspect_scores": {
+        "wellness_spa": 0.8008,
+        "quietness": 0.7839
+      },
+      "justification": "The Royal Solana, Lima ranks #4 for this traveler on spa & wellness (+0.80), quietness (+0.78), weighted by what matters most to them. Guests note: \"The spa was a highlight \u2014 incredible massages and a serene relaxation pool.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R30926",
+          "quote": "The spa was a highlight \u2014 incredible massages and a serene relaxation pool.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-30",
+          "verified": true,
+          "sentiment": 0.983
+        },
+        {
+          "review_id": "R31026",
+          "quote": "Room was wonderfully peaceful and the blackout curtains were perfect.",
+          "aspect": "quietness",
+          "date": "2025-12-24",
+          "verified": true,
+          "sentiment": 0.976
+        },
+        {
+          "review_id": "R30898",
+          "quote": "Slept beautifully \u2014 very quiet despite being central.",
+          "aspect": "quietness",
+          "date": "2025-12-06",
+          "verified": true,
+          "sentiment": 0.948
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H109",
+      "hotel_name": "The Royal Sands, Rome",
+      "hotel_category": "5-star",
+      "score": 4.789,
+      "matched_aspects": [
+        "wellness_spa",
+        "quietness"
+      ],
+      "aspect_scores": {
+        "wellness_spa": 0.8767,
+        "quietness": 0.6001
+      },
+      "justification": "The Royal Sands, Rome ranks #5 for this traveler on spa & wellness (+0.88), quietness (+0.60), weighted by what matters most to them. Guests note: \"The spa was a highlight \u2014 incredible massages and a serene relaxation pool.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R54987",
+          "quote": "The spa was a highlight \u2014 incredible massages and a serene relaxation pool.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-22",
+          "verified": true,
+          "sentiment": 0.983
+        },
+        {
+          "review_id": "R54734",
+          "quote": "Wonderful wellness facilities; the sauna and treatments left us completely refreshed.",
+          "aspect": "wellness_spa",
+          "date": "2025-10-04",
+          "verified": true,
+          "sentiment": 0.985
+        },
+        {
+          "review_id": "R54962",
+          "quote": "A proper retreat: yoga in the morning and an excellent spa in the afternoon.",
+          "aspect": "wellness_spa",
+          "date": "2025-09-19",
+          "verified": true,
+          "sentiment": 0.94
+        }
+      ],
+      "caveats": null
+    }
+  ]
+}

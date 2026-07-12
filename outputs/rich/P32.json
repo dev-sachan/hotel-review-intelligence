@@ -1,0 +1,237 @@
+{
+  "profile_id": "P32",
+  "archetype": "leisure_central_accessible",
+  "profile_summary": "Leisure traveler (mid budget) prioritizing central location, accessibility, service.",
+  "desired_dims": [
+    "location_central",
+    "accessibility",
+    "service"
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "hotel_id": "H014",
+      "hotel_name": "The Meridian Plaza, London",
+      "hotel_category": "4-star",
+      "score": 5.017,
+      "matched_aspects": [
+        "location_central",
+        "accessibility",
+        "service"
+      ],
+      "aspect_scores": {
+        "location_central": 0.9057,
+        "accessibility": 0.761,
+        "service": 0.8852
+      },
+      "justification": "The Meridian Plaza, London ranks #1 for this traveler on central location (+0.91), accessibility (+0.76), service (+0.89), weighted by what matters most to them. Guests note: \"The kids loved the pool and the staff were wonderful with our toddler.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R17062",
+          "quote": "The kids loved the pool and the staff were wonderful with our toddler.",
+          "aspect": "service",
+          "date": "2025-12-29",
+          "verified": true,
+          "sentiment": 0.984
+        },
+        {
+          "review_id": "R17080",
+          "quote": "Fantastic for families \u2014 connecting rooms, a kids' club, and high chairs at breakfast.",
+          "aspect": "service",
+          "date": "2025-12-29",
+          "verified": true,
+          "sentiment": 0.982
+        },
+        {
+          "review_id": "R17084",
+          "quote": "Excellent accessibility \u2014 wide doorways, roll-in shower, and helpful staff.",
+          "aspect": "accessibility",
+          "date": "2025-12-26",
+          "verified": true,
+          "sentiment": 0.967
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H071",
+      "hotel_name": "The Belmont, Seoul",
+      "hotel_category": "4-star",
+      "score": 4.992,
+      "matched_aspects": [
+        "location_central",
+        "accessibility",
+        "service"
+      ],
+      "aspect_scores": {
+        "location_central": 0.9053,
+        "accessibility": 0.7945,
+        "service": 0.7892
+      },
+      "justification": "The Belmont, Seoul ranks #2 for this traveler on central location (+0.91), accessibility (+0.79), service (+0.79), weighted by what matters most to them. Guests note: \"Excellent accessibility \u2014 wide doorways, roll-in shower, and helpful staff.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R39132",
+          "quote": "Excellent accessibility \u2014 wide doorways, roll-in shower, and helpful staff.",
+          "aspect": "accessibility",
+          "date": "2025-12-16",
+          "verified": true,
+          "sentiment": 0.967
+        },
+        {
+          "review_id": "R39501",
+          "quote": "Slept beautifully \u2014 very quiet despite being central.",
+          "aspect": "location_central",
+          "date": "2025-12-24",
+          "verified": true,
+          "sentiment": 0.948
+        },
+        {
+          "review_id": "R39512",
+          "quote": "The level of refinement and personal service was world-class.",
+          "aspect": "service",
+          "date": "2025-12-14",
+          "verified": true,
+          "sentiment": 0.937
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H051",
+      "hotel_name": "Casa Harbour, Istanbul",
+      "hotel_category": "5-star",
+      "score": 4.976,
+      "matched_aspects": [
+        "location_central",
+        "accessibility",
+        "service"
+      ],
+      "aspect_scores": {
+        "location_central": 0.9121,
+        "accessibility": 0.8118,
+        "service": 0.8243
+      },
+      "justification": "Casa Harbour, Istanbul ranks #3 for this traveler on central location (+0.91), accessibility (+0.81), service (+0.82), weighted by what matters most to them. Guests note: \"Excellent accessibility \u2014 wide doorways, roll-in shower, and helpful staff.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R31994",
+          "quote": "Excellent accessibility \u2014 wide doorways, roll-in shower, and helpful staff.",
+          "aspect": "accessibility",
+          "date": "2025-12-26",
+          "verified": true,
+          "sentiment": 0.967
+        },
+        {
+          "review_id": "R31971",
+          "quote": "The level of refinement and personal service was world-class.",
+          "aspect": "service",
+          "date": "2025-12-24",
+          "verified": true,
+          "sentiment": 0.937
+        },
+        {
+          "review_id": "R32350",
+          "quote": "Just steps from a beautiful stretch of beach with loungers ready.",
+          "aspect": "location_central",
+          "date": "2025-12-19",
+          "verified": true,
+          "sentiment": 0.938
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H040",
+      "hotel_name": "The Vista, Rome",
+      "hotel_category": "4-star",
+      "score": 4.916,
+      "matched_aspects": [
+        "location_central",
+        "accessibility",
+        "service"
+      ],
+      "aspect_scores": {
+        "location_central": 0.8061,
+        "accessibility": 0.7649,
+        "service": 0.8417
+      },
+      "justification": "The Vista, Rome ranks #4 for this traveler on central location (+0.81), accessibility (+0.76), service (+0.84), weighted by what matters most to them. Guests note: \"Fantastic for families \u2014 connecting rooms, a kids' club, and high chairs at breakfast.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R26922",
+          "quote": "Fantastic for families \u2014 connecting rooms, a kids' club, and high chairs at breakfast.",
+          "aspect": "service",
+          "date": "2025-12-09",
+          "verified": true,
+          "sentiment": 0.982
+        },
+        {
+          "review_id": "R26878",
+          "quote": "Excellent accessibility \u2014 wide doorways, roll-in shower, and helpful staff.",
+          "aspect": "accessibility",
+          "date": "2025-12-13",
+          "verified": true,
+          "sentiment": 0.967
+        },
+        {
+          "review_id": "R27156",
+          "quote": "The kids loved the pool and the staff were wonderful with our toddler.",
+          "aspect": "service",
+          "date": "2025-12-02",
+          "verified": true,
+          "sentiment": 0.984
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H113",
+      "hotel_name": "The Park Harbour, Dubai",
+      "hotel_category": "4-star",
+      "score": 4.782,
+      "matched_aspects": [
+        "location_central",
+        "accessibility",
+        "service"
+      ],
+      "aspect_scores": {
+        "location_central": 0.8801,
+        "accessibility": 0.7252,
+        "service": 0.666
+      },
+      "justification": "The Park Harbour, Dubai ranks #5 for this traveler on central location (+0.88), accessibility (+0.73), service (+0.67), weighted by what matters most to them. Guests note: \"The level of refinement and personal service was world-class.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R56467",
+          "quote": "The level of refinement and personal service was world-class.",
+          "aspect": "service",
+          "date": "2025-12-30",
+          "verified": true,
+          "sentiment": 0.937
+        },
+        {
+          "review_id": "R55991",
+          "quote": "Slept beautifully \u2014 very quiet despite being central.",
+          "aspect": "location_central",
+          "date": "2025-12-21",
+          "verified": true,
+          "sentiment": 0.948
+        },
+        {
+          "review_id": "R56198",
+          "quote": "Fully step-free with a spacious, well-designed accessible room.",
+          "aspect": "accessibility",
+          "date": "2025-12-27",
+          "verified": true,
+          "sentiment": 0.913
+        }
+      ],
+      "caveats": null
+    }
+  ]
+}

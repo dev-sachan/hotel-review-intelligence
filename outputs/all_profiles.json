@@ -1,0 +1,2273 @@
+[
+  {
+    "profile_id": "P01",
+    "archetype": "solo_female_culture",
+    "desired_dims": [
+      "local_culture",
+      "location_central",
+      "safety"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H095",
+        "hotel_name": "Hotel Belmont, Mexico City",
+        "hotel_category": "4-star",
+        "score": 4.867
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H040",
+        "hotel_name": "The Vista, Rome",
+        "hotel_category": "4-star",
+        "score": 4.811
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H048",
+        "hotel_name": "The Royal Solana, Lima",
+        "hotel_category": "5-star",
+        "score": 4.587
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H044",
+        "hotel_name": "Hotel del Aurora, San Francisco",
+        "hotel_category": "4-star",
+        "score": 4.561
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H072",
+        "hotel_name": "Hotel Atrium, Lima",
+        "hotel_category": "4-star",
+        "score": 4.56
+      }
+    ]
+  },
+  {
+    "profile_id": "P02",
+    "archetype": "business_central",
+    "desired_dims": [
+      "location_central",
+      "business_facilities",
+      "quietness"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H108",
+        "hotel_name": "The Grand Magnolia, Lima",
+        "hotel_category": "4-star",
+        "score": 5.078
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H087",
+        "hotel_name": "Hotel Vista, Mumbai",
+        "hotel_category": "4-star",
+        "score": 4.896
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H076",
+        "hotel_name": "The Regent Riverside, Seoul",
+        "hotel_category": "5-star",
+        "score": 4.785
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H003",
+        "hotel_name": "Casa Atrium, San Francisco",
+        "hotel_category": "5-star",
+        "score": 4.712
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H022",
+        "hotel_name": "Hotel Atrium, Cape Town",
+        "hotel_category": "4-star",
+        "score": 4.577
+      }
+    ]
+  },
+  {
+    "profile_id": "P03",
+    "archetype": "family",
+    "desired_dims": [
+      "family_friendly"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H093",
+        "hotel_name": "Hotel Harbour, Seoul",
+        "hotel_category": "5-star",
+        "score": 4.809
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H070",
+        "hotel_name": "Casa Atrium, Sydney",
+        "hotel_category": "5-star",
+        "score": 4.769
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H006",
+        "hotel_name": "Hotel Vista, London",
+        "hotel_category": "5-star",
+        "score": 4.744
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H106",
+        "hotel_name": "The Park Aurora, Mexico City",
+        "hotel_category": "4-star",
+        "score": 4.701
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H040",
+        "hotel_name": "The Vista, Rome",
+        "hotel_category": "4-star",
+        "score": 4.665
+      }
+    ]
+  },
+  {
+    "profile_id": "P04",
+    "archetype": "couple_wellness",
+    "desired_dims": [
+      "quietness",
+      "wellness_spa",
+      "service"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H075",
+        "hotel_name": "The Grand Harbour, Barcelona",
+        "hotel_category": "5-star",
+        "score": 5.105
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H109",
+        "hotel_name": "The Royal Sands, Rome",
+        "hotel_category": "5-star",
+        "score": 4.846
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H116",
+        "hotel_name": "Hotel Riverside, Mexico City",
+        "hotel_category": "5-star",
+        "score": 4.787
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H087",
+        "hotel_name": "Hotel Vista, Mumbai",
+        "hotel_category": "4-star",
+        "score": 4.641
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H113",
+        "hotel_name": "The Park Harbour, Dubai",
+        "hotel_category": "4-star",
+        "score": 4.464
+      }
+    ]
+  },
+  {
+    "profile_id": "P05",
+    "archetype": "solo_budget_nightlife",
+    "desired_dims": [
+      "value",
+      "nightlife",
+      "local_culture"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H045",
+        "hotel_name": "The Boulevard Orchid, Paris",
+        "hotel_category": "3-star",
+        "score": 4.497
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H023",
+        "hotel_name": "The Park Continental, Lima",
+        "hotel_category": "5-star",
+        "score": 4.491
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H073",
+        "hotel_name": "The Royal Lumiere, Istanbul",
+        "hotel_category": "4-star",
+        "score": 4.175
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H002",
+        "hotel_name": "Hotel Belmont, Singapore",
+        "hotel_category": "4-star",
+        "score": 4.143
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H038",
+        "hotel_name": "Casa Heights, Paris",
+        "hotel_category": "3-star",
+        "score": 4.134
+      }
+    ]
+  },
+  {
+    "profile_id": "P06",
+    "archetype": "leisure_luxury_wellness",
+    "desired_dims": [
+      "luxury",
+      "wellness_spa"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H089",
+        "hotel_name": "The Regent Heights, Lisbon",
+        "hotel_category": "5-star",
+        "score": 5.358
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H070",
+        "hotel_name": "Casa Atrium, Sydney",
+        "hotel_category": "5-star",
+        "score": 5.247
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H009",
+        "hotel_name": "The Boulevard Verde, Lisbon",
+        "hotel_category": "4-star",
+        "score": 5.208
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H030",
+        "hotel_name": "The Onyx, Lima",
+        "hotel_category": "5-star",
+        "score": 5.206
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H109",
+        "hotel_name": "The Royal Sands, Rome",
+        "hotel_category": "5-star",
+        "score": 5.205
+      }
+    ]
+  },
+  {
+    "profile_id": "P07",
+    "archetype": "leisure_foodie_culture",
+    "desired_dims": [
+      "food_dining",
+      "local_culture",
+      "location_central"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H041",
+        "hotel_name": "The Grand Court, Mexico City",
+        "hotel_category": "4-star",
+        "score": 5.209
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H117",
+        "hotel_name": "The Grand Continental, Tokyo",
+        "hotel_category": "4-star",
+        "score": 5.115
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H073",
+        "hotel_name": "The Royal Lumiere, Istanbul",
+        "hotel_category": "4-star",
+        "score": 5.052
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H095",
+        "hotel_name": "Hotel Belmont, Mexico City",
+        "hotel_category": "4-star",
+        "score": 5.039
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H040",
+        "hotel_name": "The Vista, Rome",
+        "hotel_category": "4-star",
+        "score": 5.028
+      }
+    ]
+  },
+  {
+    "profile_id": "P08",
+    "archetype": "leisure_accessible_central",
+    "desired_dims": [
+      "accessibility",
+      "location_central",
+      "service"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H014",
+        "hotel_name": "The Meridian Plaza, London",
+        "hotel_category": "4-star",
+        "score": 4.986
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H071",
+        "hotel_name": "The Belmont, Seoul",
+        "hotel_category": "4-star",
+        "score": 4.978
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H051",
+        "hotel_name": "Casa Harbour, Istanbul",
+        "hotel_category": "5-star",
+        "score": 4.961
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H040",
+        "hotel_name": "The Vista, Rome",
+        "hotel_category": "4-star",
+        "score": 4.903
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H113",
+        "hotel_name": "The Park Harbour, Dubai",
+        "hotel_category": "4-star",
+        "score": 4.769
+      }
+    ]
+  },
+  {
+    "profile_id": "P09",
+    "archetype": "couple_wellness_foodie",
+    "desired_dims": [
+      "wellness_spa",
+      "food_dining",
+      "beach_access"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H051",
+        "hotel_name": "Casa Harbour, Istanbul",
+        "hotel_category": "5-star",
+        "score": 4.988
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H002",
+        "hotel_name": "Hotel Belmont, Singapore",
+        "hotel_category": "4-star",
+        "score": 4.906
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H019",
+        "hotel_name": "Casa Vista, Barcelona",
+        "hotel_category": "5-star",
+        "score": 4.825
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H070",
+        "hotel_name": "Casa Atrium, Sydney",
+        "hotel_category": "5-star",
+        "score": 4.506
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H006",
+        "hotel_name": "Hotel Vista, London",
+        "hotel_category": "5-star",
+        "score": 4.468
+      }
+    ]
+  },
+  {
+    "profile_id": "P10",
+    "archetype": "solo_business",
+    "desired_dims": [
+      "business_facilities",
+      "quietness"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H108",
+        "hotel_name": "The Grand Magnolia, Lima",
+        "hotel_category": "4-star",
+        "score": 5.026
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H087",
+        "hotel_name": "Hotel Vista, Mumbai",
+        "hotel_category": "4-star",
+        "score": 4.774
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H076",
+        "hotel_name": "The Regent Riverside, Seoul",
+        "hotel_category": "5-star",
+        "score": 4.722
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H003",
+        "hotel_name": "Casa Atrium, San Francisco",
+        "hotel_category": "5-star",
+        "score": 4.605
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H022",
+        "hotel_name": "Hotel Atrium, Cape Town",
+        "hotel_category": "4-star",
+        "score": 4.463
+      }
+    ]
+  },
+  {
+    "profile_id": "P11",
+    "archetype": "group_budget_central",
+    "desired_dims": [
+      "value",
+      "location_central"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H071",
+        "hotel_name": "The Belmont, Seoul",
+        "hotel_category": "4-star",
+        "score": 4.995
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H046",
+        "hotel_name": "The Regent Harbour, San Francisco",
+        "hotel_category": "4-star",
+        "score": 4.984
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H002",
+        "hotel_name": "Hotel Belmont, Singapore",
+        "hotel_category": "4-star",
+        "score": 4.95
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H027",
+        "hotel_name": "Hotel Magnolia, Cape Town",
+        "hotel_category": "5-star",
+        "score": 4.948
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H070",
+        "hotel_name": "Casa Atrium, Sydney",
+        "hotel_category": "5-star",
+        "score": 4.893
+      }
+    ]
+  },
+  {
+    "profile_id": "P12",
+    "archetype": "leisure_wellness",
+    "desired_dims": [
+      "wellness_spa",
+      "cleanliness"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H089",
+        "hotel_name": "The Regent Heights, Lisbon",
+        "hotel_category": "5-star",
+        "score": 5.156
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H106",
+        "hotel_name": "The Park Aurora, Mexico City",
+        "hotel_category": "4-star",
+        "score": 5.13
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H030",
+        "hotel_name": "The Onyx, Lima",
+        "hotel_category": "5-star",
+        "score": 5.035
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H109",
+        "hotel_name": "The Royal Sands, Rome",
+        "hotel_category": "5-star",
+        "score": 4.972
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H075",
+        "hotel_name": "The Grand Harbour, Barcelona",
+        "hotel_category": "5-star",
+        "score": 4.965
+      }
+    ]
+  },
+  {
+    "profile_id": "P13",
+    "archetype": "solo_female_culture",
+    "desired_dims": [
+      "local_culture",
+      "location_central"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H041",
+        "hotel_name": "The Grand Court, Mexico City",
+        "hotel_category": "4-star",
+        "score": 5.19
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H117",
+        "hotel_name": "The Grand Continental, Tokyo",
+        "hotel_category": "4-star",
+        "score": 5.142
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H046",
+        "hotel_name": "The Regent Harbour, San Francisco",
+        "hotel_category": "4-star",
+        "score": 5.022
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H061",
+        "hotel_name": "Hotel Onyx, New York",
+        "hotel_category": "4-star",
+        "score": 5.005
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H113",
+        "hotel_name": "The Park Harbour, Dubai",
+        "hotel_category": "4-star",
+        "score": 5.004
+      }
+    ]
+  },
+  {
+    "profile_id": "P14",
+    "archetype": "business_central",
+    "desired_dims": [
+      "location_central",
+      "quietness",
+      "business_facilities"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H108",
+        "hotel_name": "The Grand Magnolia, Lima",
+        "hotel_category": "4-star",
+        "score": 5.084
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H087",
+        "hotel_name": "Hotel Vista, Mumbai",
+        "hotel_category": "4-star",
+        "score": 4.91
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H076",
+        "hotel_name": "The Regent Riverside, Seoul",
+        "hotel_category": "5-star",
+        "score": 4.784
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H003",
+        "hotel_name": "Casa Atrium, San Francisco",
+        "hotel_category": "5-star",
+        "score": 4.727
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H022",
+        "hotel_name": "Hotel Atrium, Cape Town",
+        "hotel_category": "4-star",
+        "score": 4.574
+      }
+    ]
+  },
+  {
+    "profile_id": "P15",
+    "archetype": "family",
+    "desired_dims": [
+      "family_friendly",
+      "cleanliness"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H106",
+        "hotel_name": "The Park Aurora, Mexico City",
+        "hotel_category": "4-star",
+        "score": 4.848
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H043",
+        "hotel_name": "The Meridian Verde, Dubai",
+        "hotel_category": "4-star",
+        "score": 4.751
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H093",
+        "hotel_name": "Hotel Harbour, Seoul",
+        "hotel_category": "5-star",
+        "score": 4.036
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H070",
+        "hotel_name": "Casa Atrium, Sydney",
+        "hotel_category": "5-star",
+        "score": 4.008
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H006",
+        "hotel_name": "Hotel Vista, London",
+        "hotel_category": "5-star",
+        "score": 3.976
+      }
+    ]
+  },
+  {
+    "profile_id": "P16",
+    "archetype": "couple_wellness",
+    "desired_dims": [
+      "quietness",
+      "wellness_spa",
+      "service"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H075",
+        "hotel_name": "The Grand Harbour, Barcelona",
+        "hotel_category": "5-star",
+        "score": 5.105
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H109",
+        "hotel_name": "The Royal Sands, Rome",
+        "hotel_category": "5-star",
+        "score": 4.846
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H116",
+        "hotel_name": "Hotel Riverside, Mexico City",
+        "hotel_category": "5-star",
+        "score": 4.787
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H087",
+        "hotel_name": "Hotel Vista, Mumbai",
+        "hotel_category": "4-star",
+        "score": 4.641
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H113",
+        "hotel_name": "The Park Harbour, Dubai",
+        "hotel_category": "4-star",
+        "score": 4.464
+      }
+    ]
+  },
+  {
+    "profile_id": "P17",
+    "archetype": "leisure_budget_culture",
+    "desired_dims": [
+      "value",
+      "local_culture"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H073",
+        "hotel_name": "The Royal Lumiere, Istanbul",
+        "hotel_category": "4-star",
+        "score": 4.756
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H012",
+        "hotel_name": "The Grand Lantern, London",
+        "hotel_category": "5-star",
+        "score": 4.743
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H095",
+        "hotel_name": "Hotel Belmont, Mexico City",
+        "hotel_category": "4-star",
+        "score": 4.703
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H002",
+        "hotel_name": "Hotel Belmont, Singapore",
+        "hotel_category": "4-star",
+        "score": 4.694
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H046",
+        "hotel_name": "The Regent Harbour, San Francisco",
+        "hotel_category": "4-star",
+        "score": 4.68
+      }
+    ]
+  },
+  {
+    "profile_id": "P18",
+    "archetype": "leisure_luxury_wellness",
+    "desired_dims": [
+      "luxury",
+      "wellness_spa"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H089",
+        "hotel_name": "The Regent Heights, Lisbon",
+        "hotel_category": "5-star",
+        "score": 5.36
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H070",
+        "hotel_name": "Casa Atrium, Sydney",
+        "hotel_category": "5-star",
+        "score": 5.245
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H009",
+        "hotel_name": "The Boulevard Verde, Lisbon",
+        "hotel_category": "4-star",
+        "score": 5.211
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H030",
+        "hotel_name": "The Onyx, Lima",
+        "hotel_category": "5-star",
+        "score": 5.206
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H109",
+        "hotel_name": "The Royal Sands, Rome",
+        "hotel_category": "5-star",
+        "score": 5.206
+      }
+    ]
+  },
+  {
+    "profile_id": "P19",
+    "archetype": "leisure_foodie_culture",
+    "desired_dims": [
+      "food_dining",
+      "local_culture",
+      "location_central"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H041",
+        "hotel_name": "The Grand Court, Mexico City",
+        "hotel_category": "4-star",
+        "score": 5.209
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H117",
+        "hotel_name": "The Grand Continental, Tokyo",
+        "hotel_category": "4-star",
+        "score": 5.115
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H073",
+        "hotel_name": "The Royal Lumiere, Istanbul",
+        "hotel_category": "4-star",
+        "score": 5.052
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H095",
+        "hotel_name": "Hotel Belmont, Mexico City",
+        "hotel_category": "4-star",
+        "score": 5.039
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H040",
+        "hotel_name": "The Vista, Rome",
+        "hotel_category": "4-star",
+        "score": 5.028
+      }
+    ]
+  },
+  {
+    "profile_id": "P20",
+    "archetype": "leisure_central_accessible",
+    "desired_dims": [
+      "location_central",
+      "accessibility",
+      "service"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H014",
+        "hotel_name": "The Meridian Plaza, London",
+        "hotel_category": "4-star",
+        "score": 5.017
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H071",
+        "hotel_name": "The Belmont, Seoul",
+        "hotel_category": "4-star",
+        "score": 4.992
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H051",
+        "hotel_name": "Casa Harbour, Istanbul",
+        "hotel_category": "5-star",
+        "score": 4.976
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H040",
+        "hotel_name": "The Vista, Rome",
+        "hotel_category": "4-star",
+        "score": 4.916
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H113",
+        "hotel_name": "The Park Harbour, Dubai",
+        "hotel_category": "4-star",
+        "score": 4.782
+      }
+    ]
+  },
+  {
+    "profile_id": "P21",
+    "archetype": "leisure_beach_foodie",
+    "desired_dims": [
+      "beach_access",
+      "food_dining"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H114",
+        "hotel_name": "Casa Solana, Rome",
+        "hotel_category": "5-star",
+        "score": 5.065
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H076",
+        "hotel_name": "The Regent Riverside, Seoul",
+        "hotel_category": "5-star",
+        "score": 5.012
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H068",
+        "hotel_name": "The Continental, Sydney",
+        "hotel_category": "4-star",
+        "score": 5.008
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H051",
+        "hotel_name": "Casa Harbour, Istanbul",
+        "hotel_category": "5-star",
+        "score": 4.881
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H046",
+        "hotel_name": "The Regent Harbour, San Francisco",
+        "hotel_category": "4-star",
+        "score": 4.834
+      }
+    ]
+  },
+  {
+    "profile_id": "P22",
+    "archetype": "solo_business_budget",
+    "desired_dims": [
+      "business_facilities",
+      "value"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H009",
+        "hotel_name": "The Boulevard Verde, Lisbon",
+        "hotel_category": "4-star",
+        "score": 5.101
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H027",
+        "hotel_name": "Hotel Magnolia, Cape Town",
+        "hotel_category": "5-star",
+        "score": 4.932
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H073",
+        "hotel_name": "The Royal Lumiere, Istanbul",
+        "hotel_category": "4-star",
+        "score": 4.927
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H064",
+        "hotel_name": "Hotel del Plaza, Cape Town",
+        "hotel_category": "4-star",
+        "score": 4.858
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H031",
+        "hotel_name": "Casa Atrium, Seoul",
+        "hotel_category": "5-star",
+        "score": 4.707
+      }
+    ]
+  },
+  {
+    "profile_id": "P23",
+    "archetype": "group_budget_central",
+    "desired_dims": [
+      "value",
+      "location_central"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H071",
+        "hotel_name": "The Belmont, Seoul",
+        "hotel_category": "4-star",
+        "score": 4.995
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H046",
+        "hotel_name": "The Regent Harbour, San Francisco",
+        "hotel_category": "4-star",
+        "score": 4.984
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H002",
+        "hotel_name": "Hotel Belmont, Singapore",
+        "hotel_category": "4-star",
+        "score": 4.95
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H027",
+        "hotel_name": "Hotel Magnolia, Cape Town",
+        "hotel_category": "5-star",
+        "score": 4.948
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H070",
+        "hotel_name": "Casa Atrium, Sydney",
+        "hotel_category": "5-star",
+        "score": 4.893
+      }
+    ]
+  },
+  {
+    "profile_id": "P24",
+    "archetype": "solo_wellness",
+    "desired_dims": [
+      "wellness_spa",
+      "cleanliness"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H089",
+        "hotel_name": "The Regent Heights, Lisbon",
+        "hotel_category": "5-star",
+        "score": 5.154
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H106",
+        "hotel_name": "The Park Aurora, Mexico City",
+        "hotel_category": "4-star",
+        "score": 5.131
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H030",
+        "hotel_name": "The Onyx, Lima",
+        "hotel_category": "5-star",
+        "score": 5.026
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H075",
+        "hotel_name": "The Grand Harbour, Barcelona",
+        "hotel_category": "5-star",
+        "score": 4.97
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H109",
+        "hotel_name": "The Royal Sands, Rome",
+        "hotel_category": "5-star",
+        "score": 4.951
+      }
+    ]
+  },
+  {
+    "profile_id": "P25",
+    "archetype": "solo_culture_central",
+    "desired_dims": [
+      "local_culture",
+      "location_central"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H041",
+        "hotel_name": "The Grand Court, Mexico City",
+        "hotel_category": "4-star",
+        "score": 5.19
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H117",
+        "hotel_name": "The Grand Continental, Tokyo",
+        "hotel_category": "4-star",
+        "score": 5.142
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H046",
+        "hotel_name": "The Regent Harbour, San Francisco",
+        "hotel_category": "4-star",
+        "score": 5.022
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H061",
+        "hotel_name": "Hotel Onyx, New York",
+        "hotel_category": "4-star",
+        "score": 5.005
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H113",
+        "hotel_name": "The Park Harbour, Dubai",
+        "hotel_category": "4-star",
+        "score": 5.004
+      }
+    ]
+  },
+  {
+    "profile_id": "P26",
+    "archetype": "business_central",
+    "desired_dims": [
+      "location_central",
+      "business_facilities",
+      "quietness"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H108",
+        "hotel_name": "The Grand Magnolia, Lima",
+        "hotel_category": "4-star",
+        "score": 5.078
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H087",
+        "hotel_name": "Hotel Vista, Mumbai",
+        "hotel_category": "4-star",
+        "score": 4.896
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H076",
+        "hotel_name": "The Regent Riverside, Seoul",
+        "hotel_category": "5-star",
+        "score": 4.785
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H003",
+        "hotel_name": "Casa Atrium, San Francisco",
+        "hotel_category": "5-star",
+        "score": 4.712
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H022",
+        "hotel_name": "Hotel Atrium, Cape Town",
+        "hotel_category": "4-star",
+        "score": 4.577
+      }
+    ]
+  },
+  {
+    "profile_id": "P27",
+    "archetype": "family",
+    "desired_dims": [
+      "family_friendly"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H093",
+        "hotel_name": "Hotel Harbour, Seoul",
+        "hotel_category": "5-star",
+        "score": 4.809
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H070",
+        "hotel_name": "Casa Atrium, Sydney",
+        "hotel_category": "5-star",
+        "score": 4.769
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H006",
+        "hotel_name": "Hotel Vista, London",
+        "hotel_category": "5-star",
+        "score": 4.744
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H106",
+        "hotel_name": "The Park Aurora, Mexico City",
+        "hotel_category": "4-star",
+        "score": 4.701
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H040",
+        "hotel_name": "The Vista, Rome",
+        "hotel_category": "4-star",
+        "score": 4.665
+      }
+    ]
+  },
+  {
+    "profile_id": "P28",
+    "archetype": "couple_wellness",
+    "desired_dims": [
+      "quietness",
+      "wellness_spa",
+      "service"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H075",
+        "hotel_name": "The Grand Harbour, Barcelona",
+        "hotel_category": "5-star",
+        "score": 5.105
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H109",
+        "hotel_name": "The Royal Sands, Rome",
+        "hotel_category": "5-star",
+        "score": 4.846
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H116",
+        "hotel_name": "Hotel Riverside, Mexico City",
+        "hotel_category": "5-star",
+        "score": 4.787
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H087",
+        "hotel_name": "Hotel Vista, Mumbai",
+        "hotel_category": "4-star",
+        "score": 4.641
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H113",
+        "hotel_name": "The Park Harbour, Dubai",
+        "hotel_category": "4-star",
+        "score": 4.464
+      }
+    ]
+  },
+  {
+    "profile_id": "P29",
+    "archetype": "solo_budget_nightlife",
+    "desired_dims": [
+      "value",
+      "nightlife",
+      "local_culture"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H023",
+        "hotel_name": "The Park Continental, Lima",
+        "hotel_category": "5-star",
+        "score": 4.499
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H045",
+        "hotel_name": "The Boulevard Orchid, Paris",
+        "hotel_category": "3-star",
+        "score": 4.496
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H073",
+        "hotel_name": "The Royal Lumiere, Istanbul",
+        "hotel_category": "4-star",
+        "score": 4.14
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H066",
+        "hotel_name": "The Verde, Seoul",
+        "hotel_category": "4-star",
+        "score": 4.124
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H038",
+        "hotel_name": "Casa Heights, Paris",
+        "hotel_category": "3-star",
+        "score": 4.112
+      }
+    ]
+  },
+  {
+    "profile_id": "P30",
+    "archetype": "leisure_luxury_wellness",
+    "desired_dims": [
+      "luxury",
+      "wellness_spa"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H089",
+        "hotel_name": "The Regent Heights, Lisbon",
+        "hotel_category": "5-star",
+        "score": 5.36
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H070",
+        "hotel_name": "Casa Atrium, Sydney",
+        "hotel_category": "5-star",
+        "score": 5.245
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H009",
+        "hotel_name": "The Boulevard Verde, Lisbon",
+        "hotel_category": "4-star",
+        "score": 5.211
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H030",
+        "hotel_name": "The Onyx, Lima",
+        "hotel_category": "5-star",
+        "score": 5.206
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H109",
+        "hotel_name": "The Royal Sands, Rome",
+        "hotel_category": "5-star",
+        "score": 5.206
+      }
+    ]
+  },
+  {
+    "profile_id": "P31",
+    "archetype": "leisure_foodie_culture",
+    "desired_dims": [
+      "food_dining",
+      "local_culture",
+      "location_central"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H041",
+        "hotel_name": "The Grand Court, Mexico City",
+        "hotel_category": "4-star",
+        "score": 5.209
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H117",
+        "hotel_name": "The Grand Continental, Tokyo",
+        "hotel_category": "4-star",
+        "score": 5.115
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H073",
+        "hotel_name": "The Royal Lumiere, Istanbul",
+        "hotel_category": "4-star",
+        "score": 5.052
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H095",
+        "hotel_name": "Hotel Belmont, Mexico City",
+        "hotel_category": "4-star",
+        "score": 5.039
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H040",
+        "hotel_name": "The Vista, Rome",
+        "hotel_category": "4-star",
+        "score": 5.028
+      }
+    ]
+  },
+  {
+    "profile_id": "P32",
+    "archetype": "leisure_central_accessible",
+    "desired_dims": [
+      "location_central",
+      "accessibility",
+      "service"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H014",
+        "hotel_name": "The Meridian Plaza, London",
+        "hotel_category": "4-star",
+        "score": 5.017
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H071",
+        "hotel_name": "The Belmont, Seoul",
+        "hotel_category": "4-star",
+        "score": 4.992
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H051",
+        "hotel_name": "Casa Harbour, Istanbul",
+        "hotel_category": "5-star",
+        "score": 4.976
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H040",
+        "hotel_name": "The Vista, Rome",
+        "hotel_category": "4-star",
+        "score": 4.916
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H113",
+        "hotel_name": "The Park Harbour, Dubai",
+        "hotel_category": "4-star",
+        "score": 4.782
+      }
+    ]
+  },
+  {
+    "profile_id": "P33",
+    "archetype": "leisure_wellness_beach",
+    "desired_dims": [
+      "wellness_spa",
+      "beach_access"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H051",
+        "hotel_name": "Casa Harbour, Istanbul",
+        "hotel_category": "5-star",
+        "score": 5.163
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H109",
+        "hotel_name": "The Royal Sands, Rome",
+        "hotel_category": "5-star",
+        "score": 5.13
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H002",
+        "hotel_name": "Hotel Belmont, Singapore",
+        "hotel_category": "4-star",
+        "score": 5.115
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H019",
+        "hotel_name": "Casa Vista, Barcelona",
+        "hotel_category": "5-star",
+        "score": 5.001
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H054",
+        "hotel_name": "The Park Riverside, Barcelona",
+        "hotel_category": "5-star",
+        "score": 4.882
+      }
+    ]
+  },
+  {
+    "profile_id": "P34",
+    "archetype": "solo_business_budget",
+    "desired_dims": [
+      "business_facilities",
+      "quietness",
+      "value"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H009",
+        "hotel_name": "The Boulevard Verde, Lisbon",
+        "hotel_category": "4-star",
+        "score": 4.324
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H087",
+        "hotel_name": "Hotel Vista, Mumbai",
+        "hotel_category": "4-star",
+        "score": 4.232
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H073",
+        "hotel_name": "The Royal Lumiere, Istanbul",
+        "hotel_category": "4-star",
+        "score": 4.215
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H076",
+        "hotel_name": "The Regent Riverside, Seoul",
+        "hotel_category": "5-star",
+        "score": 4.184
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H027",
+        "hotel_name": "Hotel Magnolia, Cape Town",
+        "hotel_category": "5-star",
+        "score": 4.164
+      }
+    ]
+  },
+  {
+    "profile_id": "P35",
+    "archetype": "group_budget_nightlife",
+    "desired_dims": [
+      "value",
+      "nightlife",
+      "location_central"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H023",
+        "hotel_name": "The Park Continental, Lima",
+        "hotel_category": "5-star",
+        "score": 4.795
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H045",
+        "hotel_name": "The Boulevard Orchid, Paris",
+        "hotel_category": "3-star",
+        "score": 4.634
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H038",
+        "hotel_name": "Casa Heights, Paris",
+        "hotel_category": "3-star",
+        "score": 4.526
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H025",
+        "hotel_name": "The Royal Garden, Bali",
+        "hotel_category": "5-star",
+        "score": 4.489
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H013",
+        "hotel_name": "The Boulevard Heights, San Francisco",
+        "hotel_category": "3-star",
+        "score": 4.451
+      }
+    ]
+  },
+  {
+    "profile_id": "P36",
+    "archetype": "leisure_wellness",
+    "desired_dims": [
+      "wellness_spa",
+      "cleanliness"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H089",
+        "hotel_name": "The Regent Heights, Lisbon",
+        "hotel_category": "5-star",
+        "score": 5.156
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H106",
+        "hotel_name": "The Park Aurora, Mexico City",
+        "hotel_category": "4-star",
+        "score": 5.13
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H030",
+        "hotel_name": "The Onyx, Lima",
+        "hotel_category": "5-star",
+        "score": 5.035
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H109",
+        "hotel_name": "The Royal Sands, Rome",
+        "hotel_category": "5-star",
+        "score": 4.972
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H075",
+        "hotel_name": "The Grand Harbour, Barcelona",
+        "hotel_category": "5-star",
+        "score": 4.965
+      }
+    ]
+  },
+  {
+    "profile_id": "P37",
+    "archetype": "solo_female_culture",
+    "desired_dims": [
+      "local_culture",
+      "location_central",
+      "safety"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H095",
+        "hotel_name": "Hotel Belmont, Mexico City",
+        "hotel_category": "4-star",
+        "score": 4.867
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H040",
+        "hotel_name": "The Vista, Rome",
+        "hotel_category": "4-star",
+        "score": 4.811
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H048",
+        "hotel_name": "The Royal Solana, Lima",
+        "hotel_category": "5-star",
+        "score": 4.587
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H044",
+        "hotel_name": "Hotel del Aurora, San Francisco",
+        "hotel_category": "4-star",
+        "score": 4.561
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H072",
+        "hotel_name": "Hotel Atrium, Lima",
+        "hotel_category": "4-star",
+        "score": 4.56
+      }
+    ]
+  },
+  {
+    "profile_id": "P38",
+    "archetype": "business_central",
+    "desired_dims": [
+      "location_central",
+      "quietness"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H108",
+        "hotel_name": "The Grand Magnolia, Lima",
+        "hotel_category": "4-star",
+        "score": 5.117
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H071",
+        "hotel_name": "The Belmont, Seoul",
+        "hotel_category": "4-star",
+        "score": 5.053
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H075",
+        "hotel_name": "The Grand Harbour, Barcelona",
+        "hotel_category": "5-star",
+        "score": 5.041
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H087",
+        "hotel_name": "Hotel Vista, Mumbai",
+        "hotel_category": "4-star",
+        "score": 4.995
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H050",
+        "hotel_name": "The Orchid, Paris",
+        "hotel_category": "4-star",
+        "score": 4.988
+      }
+    ]
+  },
+  {
+    "profile_id": "P39",
+    "archetype": "family",
+    "desired_dims": [
+      "family_friendly",
+      "cleanliness"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H106",
+        "hotel_name": "The Park Aurora, Mexico City",
+        "hotel_category": "4-star",
+        "score": 4.824
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H043",
+        "hotel_name": "The Meridian Verde, Dubai",
+        "hotel_category": "4-star",
+        "score": 4.724
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H093",
+        "hotel_name": "Hotel Harbour, Seoul",
+        "hotel_category": "5-star",
+        "score": 4.165
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H070",
+        "hotel_name": "Casa Atrium, Sydney",
+        "hotel_category": "5-star",
+        "score": 4.135
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H006",
+        "hotel_name": "Hotel Vista, London",
+        "hotel_category": "5-star",
+        "score": 4.104
+      }
+    ]
+  },
+  {
+    "profile_id": "P40",
+    "archetype": "couple_wellness",
+    "desired_dims": [
+      "wellness_spa",
+      "service"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H070",
+        "hotel_name": "Casa Atrium, Sydney",
+        "hotel_category": "5-star",
+        "score": 5.273
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H006",
+        "hotel_name": "Hotel Vista, London",
+        "hotel_category": "5-star",
+        "score": 5.185
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H051",
+        "hotel_name": "Casa Harbour, Istanbul",
+        "hotel_category": "5-star",
+        "score": 5.142
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H075",
+        "hotel_name": "The Grand Harbour, Barcelona",
+        "hotel_category": "5-star",
+        "score": 5.099
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H109",
+        "hotel_name": "The Royal Sands, Rome",
+        "hotel_category": "5-star",
+        "score": 5.022
+      }
+    ]
+  },
+  {
+    "profile_id": "P41",
+    "archetype": "leisure_budget_culture",
+    "desired_dims": [
+      "value",
+      "local_culture"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H073",
+        "hotel_name": "The Royal Lumiere, Istanbul",
+        "hotel_category": "4-star",
+        "score": 4.756
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H012",
+        "hotel_name": "The Grand Lantern, London",
+        "hotel_category": "5-star",
+        "score": 4.743
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H095",
+        "hotel_name": "Hotel Belmont, Mexico City",
+        "hotel_category": "4-star",
+        "score": 4.703
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H002",
+        "hotel_name": "Hotel Belmont, Singapore",
+        "hotel_category": "4-star",
+        "score": 4.694
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H046",
+        "hotel_name": "The Regent Harbour, San Francisco",
+        "hotel_category": "4-star",
+        "score": 4.68
+      }
+    ]
+  },
+  {
+    "profile_id": "P42",
+    "archetype": "leisure_luxury_wellness",
+    "desired_dims": [
+      "luxury",
+      "wellness_spa"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H089",
+        "hotel_name": "The Regent Heights, Lisbon",
+        "hotel_category": "5-star",
+        "score": 5.356
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H070",
+        "hotel_name": "Casa Atrium, Sydney",
+        "hotel_category": "5-star",
+        "score": 5.249
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H051",
+        "hotel_name": "Casa Harbour, Istanbul",
+        "hotel_category": "5-star",
+        "score": 5.207
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H030",
+        "hotel_name": "The Onyx, Lima",
+        "hotel_category": "5-star",
+        "score": 5.207
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H009",
+        "hotel_name": "The Boulevard Verde, Lisbon",
+        "hotel_category": "4-star",
+        "score": 5.205
+      }
+    ]
+  },
+  {
+    "profile_id": "P43",
+    "archetype": "leisure_foodie_culture",
+    "desired_dims": [
+      "food_dining",
+      "local_culture",
+      "location_central"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H041",
+        "hotel_name": "The Grand Court, Mexico City",
+        "hotel_category": "4-star",
+        "score": 5.209
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H117",
+        "hotel_name": "The Grand Continental, Tokyo",
+        "hotel_category": "4-star",
+        "score": 5.115
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H073",
+        "hotel_name": "The Royal Lumiere, Istanbul",
+        "hotel_category": "4-star",
+        "score": 5.052
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H095",
+        "hotel_name": "Hotel Belmont, Mexico City",
+        "hotel_category": "4-star",
+        "score": 5.039
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H040",
+        "hotel_name": "The Vista, Rome",
+        "hotel_category": "4-star",
+        "score": 5.028
+      }
+    ]
+  },
+  {
+    "profile_id": "P44",
+    "archetype": "leisure_accessible_central",
+    "desired_dims": [
+      "accessibility",
+      "location_central"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H041",
+        "hotel_name": "The Grand Court, Mexico City",
+        "hotel_category": "4-star",
+        "score": 5.12
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H071",
+        "hotel_name": "The Belmont, Seoul",
+        "hotel_category": "4-star",
+        "score": 5.016
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H011",
+        "hotel_name": "The Orchid, Bangkok",
+        "hotel_category": "4-star",
+        "score": 4.998
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H051",
+        "hotel_name": "Casa Harbour, Istanbul",
+        "hotel_category": "5-star",
+        "score": 4.984
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H014",
+        "hotel_name": "The Meridian Plaza, London",
+        "hotel_category": "4-star",
+        "score": 4.947
+      }
+    ]
+  },
+  {
+    "profile_id": "P45",
+    "archetype": "leisure_beach_foodie",
+    "desired_dims": [
+      "beach_access",
+      "food_dining"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H114",
+        "hotel_name": "Casa Solana, Rome",
+        "hotel_category": "5-star",
+        "score": 5.065
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H076",
+        "hotel_name": "The Regent Riverside, Seoul",
+        "hotel_category": "5-star",
+        "score": 5.012
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H068",
+        "hotel_name": "The Continental, Sydney",
+        "hotel_category": "4-star",
+        "score": 5.008
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H051",
+        "hotel_name": "Casa Harbour, Istanbul",
+        "hotel_category": "5-star",
+        "score": 4.881
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H046",
+        "hotel_name": "The Regent Harbour, San Francisco",
+        "hotel_category": "4-star",
+        "score": 4.834
+      }
+    ]
+  },
+  {
+    "profile_id": "P46",
+    "archetype": "solo_business_budget",
+    "desired_dims": [
+      "business_facilities",
+      "quietness",
+      "value"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H009",
+        "hotel_name": "The Boulevard Verde, Lisbon",
+        "hotel_category": "4-star",
+        "score": 4.324
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H087",
+        "hotel_name": "Hotel Vista, Mumbai",
+        "hotel_category": "4-star",
+        "score": 4.232
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H073",
+        "hotel_name": "The Royal Lumiere, Istanbul",
+        "hotel_category": "4-star",
+        "score": 4.215
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H076",
+        "hotel_name": "The Regent Riverside, Seoul",
+        "hotel_category": "5-star",
+        "score": 4.184
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H027",
+        "hotel_name": "Hotel Magnolia, Cape Town",
+        "hotel_category": "5-star",
+        "score": 4.164
+      }
+    ]
+  },
+  {
+    "profile_id": "P47",
+    "archetype": "group_budget_nightlife",
+    "desired_dims": [
+      "value",
+      "nightlife",
+      "location_central"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H023",
+        "hotel_name": "The Park Continental, Lima",
+        "hotel_category": "5-star",
+        "score": 4.795
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H045",
+        "hotel_name": "The Boulevard Orchid, Paris",
+        "hotel_category": "3-star",
+        "score": 4.634
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H038",
+        "hotel_name": "Casa Heights, Paris",
+        "hotel_category": "3-star",
+        "score": 4.526
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H025",
+        "hotel_name": "The Royal Garden, Bali",
+        "hotel_category": "5-star",
+        "score": 4.489
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H013",
+        "hotel_name": "The Boulevard Heights, San Francisco",
+        "hotel_category": "3-star",
+        "score": 4.451
+      }
+    ]
+  },
+  {
+    "profile_id": "P48",
+    "archetype": "leisure_wellness",
+    "desired_dims": [
+      "wellness_spa",
+      "quietness"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H075",
+        "hotel_name": "The Grand Harbour, Barcelona",
+        "hotel_category": "5-star",
+        "score": 4.981
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H081",
+        "hotel_name": "The Grand Lumiere, Amsterdam",
+        "hotel_category": "4-star",
+        "score": 4.933
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H087",
+        "hotel_name": "Hotel Vista, Mumbai",
+        "hotel_category": "4-star",
+        "score": 4.814
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H048",
+        "hotel_name": "The Royal Solana, Lima",
+        "hotel_category": "5-star",
+        "score": 4.798
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H109",
+        "hotel_name": "The Royal Sands, Rome",
+        "hotel_category": "5-star",
+        "score": 4.789
+      }
+    ]
+  },
+  {
+    "profile_id": "P49",
+    "archetype": "solo_female_culture",
+    "desired_dims": [
+      "local_culture",
+      "location_central",
+      "safety"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H095",
+        "hotel_name": "Hotel Belmont, Mexico City",
+        "hotel_category": "4-star",
+        "score": 4.867
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H040",
+        "hotel_name": "The Vista, Rome",
+        "hotel_category": "4-star",
+        "score": 4.811
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H048",
+        "hotel_name": "The Royal Solana, Lima",
+        "hotel_category": "5-star",
+        "score": 4.587
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H044",
+        "hotel_name": "Hotel del Aurora, San Francisco",
+        "hotel_category": "4-star",
+        "score": 4.561
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H072",
+        "hotel_name": "Hotel Atrium, Lima",
+        "hotel_category": "4-star",
+        "score": 4.56
+      }
+    ]
+  },
+  {
+    "profile_id": "P50",
+    "archetype": "business_central",
+    "desired_dims": [
+      "location_central",
+      "business_facilities"
+    ],
+    "top_hotels": [
+      {
+        "rank": 1,
+        "hotel_id": "H089",
+        "hotel_name": "The Regent Heights, Lisbon",
+        "hotel_category": "5-star",
+        "score": 5.11
+      },
+      {
+        "rank": 2,
+        "hotel_id": "H108",
+        "hotel_name": "The Grand Magnolia, Lima",
+        "hotel_category": "4-star",
+        "score": 5.093
+      },
+      {
+        "rank": 3,
+        "hotel_id": "H027",
+        "hotel_name": "Hotel Magnolia, Cape Town",
+        "hotel_category": "5-star",
+        "score": 5.033
+      },
+      {
+        "rank": 4,
+        "hotel_id": "H064",
+        "hotel_name": "Hotel del Plaza, Cape Town",
+        "hotel_category": "4-star",
+        "score": 4.976
+      },
+      {
+        "rank": 5,
+        "hotel_id": "H032",
+        "hotel_name": "The Park Garden, Dubai",
+        "hotel_category": "4-star",
+        "score": 4.963
+      }
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "profile_id": "P50",
+  "archetype": "business_central",
+  "desired_dims": [
+    "location_central",
+    "business_facilities"
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "hotel_id": "H089",
+      "hotel_name": "The Regent Heights, Lisbon",
+      "hotel_category": "5-star",
+      "score": 5.11
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H108",
+      "hotel_name": "The Grand Magnolia, Lima",
+      "hotel_category": "4-star",
+      "score": 5.093
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H027",
+      "hotel_name": "Hotel Magnolia, Cape Town",
+      "hotel_category": "5-star",
+      "score": 5.033
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H064",
+      "hotel_name": "Hotel del Plaza, Cape Town",
+      "hotel_category": "4-star",
+      "score": 4.976
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H032",
+      "hotel_name": "The Park Garden, Dubai",
+      "hotel_category": "4-star",
+      "score": 4.963
+    }
+  ]
+}

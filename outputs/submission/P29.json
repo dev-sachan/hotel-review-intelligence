@@ -1,0 +1,46 @@
+{
+  "profile_id": "P29",
+  "archetype": "solo_budget_nightlife",
+  "desired_dims": [
+    "value",
+    "nightlife",
+    "local_culture"
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "hotel_id": "H023",
+      "hotel_name": "The Park Continental, Lima",
+      "hotel_category": "5-star",
+      "score": 4.499
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H045",
+      "hotel_name": "The Boulevard Orchid, Paris",
+      "hotel_category": "3-star",
+      "score": 4.496
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H073",
+      "hotel_name": "The Royal Lumiere, Istanbul",
+      "hotel_category": "4-star",
+      "score": 4.14
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H066",
+      "hotel_name": "The Verde, Seoul",
+      "hotel_category": "4-star",
+      "score": 4.124
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H038",
+      "hotel_name": "Casa Heights, Paris",
+      "hotel_category": "3-star",
+      "score": 4.112
+    }
+  ]
+}

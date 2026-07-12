@@ -1,0 +1,46 @@
+{
+  "profile_id": "P09",
+  "archetype": "couple_wellness_foodie",
+  "desired_dims": [
+    "wellness_spa",
+    "food_dining",
+    "beach_access"
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "hotel_id": "H051",
+      "hotel_name": "Casa Harbour, Istanbul",
+      "hotel_category": "5-star",
+      "score": 4.988
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H002",
+      "hotel_name": "Hotel Belmont, Singapore",
+      "hotel_category": "4-star",
+      "score": 4.906
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H019",
+      "hotel_name": "Casa Vista, Barcelona",
+      "hotel_category": "5-star",
+      "score": 4.825
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H070",
+      "hotel_name": "Casa Atrium, Sydney",
+      "hotel_category": "5-star",
+      "score": 4.506
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H006",
+      "hotel_name": "Hotel Vista, London",
+      "hotel_category": "5-star",
+      "score": 4.468
+    }
+  ]
+}

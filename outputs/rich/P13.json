@@ -1,0 +1,218 @@
+{
+  "profile_id": "P13",
+  "archetype": "solo_female_culture",
+  "profile_summary": "Solo traveler (mid budget) prioritizing local culture, central location.",
+  "desired_dims": [
+    "local_culture",
+    "location_central"
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "hotel_id": "H041",
+      "hotel_name": "The Grand Court, Mexico City",
+      "hotel_category": "4-star",
+      "score": 5.19,
+      "matched_aspects": [
+        "local_culture",
+        "location_central"
+      ],
+      "aspect_scores": {
+        "local_culture": 0.8713,
+        "location_central": 0.9181
+      },
+      "justification": "The Grand Court, Mexico City ranks #1 for this traveler on local culture (+0.87), central location (+0.92), weighted by what matters most to them. Guests note: \"Great bars and clubs right around the corner, perfect for a night out.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R27452",
+          "quote": "Great bars and clubs right around the corner, perfect for a night out.",
+          "aspect": "location_central",
+          "date": "2025-12-20",
+          "verified": true,
+          "sentiment": 0.979
+        },
+        {
+          "review_id": "R27504",
+          "quote": "On-site restaurant was a highlight \u2014 beautifully prepared local dishes.",
+          "aspect": "local_culture",
+          "date": "2025-12-13",
+          "verified": true,
+          "sentiment": 0.979
+        },
+        {
+          "review_id": "R27495",
+          "quote": "Buzzing area after dark with plenty of lively spots within walking distance.",
+          "aspect": "location_central",
+          "date": "2025-12-22",
+          "verified": true,
+          "sentiment": 0.9
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H117",
+      "hotel_name": "The Grand Continental, Tokyo",
+      "hotel_category": "4-star",
+      "score": 5.142,
+      "matched_aspects": [
+        "local_culture",
+        "location_central"
+      ],
+      "aspect_scores": {
+        "local_culture": 0.8539,
+        "location_central": 0.895
+      },
+      "justification": "The Grand Continental, Tokyo ranks #2 for this traveler on local culture (+0.85), central location (+0.90), weighted by what matters most to them. Guests note: \"On-site restaurant was a highlight \u2014 beautifully prepared local dishes.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R58893",
+          "quote": "On-site restaurant was a highlight \u2014 beautifully prepared local dishes.",
+          "aspect": "local_culture",
+          "date": "2025-12-18",
+          "verified": true,
+          "sentiment": 0.979
+        },
+        {
+          "review_id": "R58916",
+          "quote": "Loved that it sat in a genuine local neighborhood, not a tourist bubble.",
+          "aspect": "local_culture",
+          "date": "2025-12-18",
+          "verified": true,
+          "sentiment": 0.946
+        },
+        {
+          "review_id": "R58684",
+          "quote": "Great base for experiencing the real culture \u2014 artisans and street food all around.",
+          "aspect": "local_culture",
+          "date": "2025-12-17",
+          "verified": true,
+          "sentiment": 0.931
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H046",
+      "hotel_name": "The Regent Harbour, San Francisco",
+      "hotel_category": "4-star",
+      "score": 5.022,
+      "matched_aspects": [
+        "local_culture",
+        "location_central"
+      ],
+      "aspect_scores": {
+        "local_culture": 0.777,
+        "location_central": 0.9062
+      },
+      "justification": "The Regent Harbour, San Francisco ranks #3 for this traveler on local culture (+0.78), central location (+0.91), weighted by what matters most to them. Guests note: \"Loved that it sat in a genuine local neighborhood, not a tourist bubble.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R29707",
+          "quote": "Loved that it sat in a genuine local neighborhood, not a tourist bubble.",
+          "aspect": "local_culture",
+          "date": "2025-12-27",
+          "verified": true,
+          "sentiment": 0.946
+        },
+        {
+          "review_id": "R29703",
+          "quote": "Just steps from a beautiful stretch of beach with loungers ready.",
+          "aspect": "location_central",
+          "date": "2025-12-27",
+          "verified": true,
+          "sentiment": 0.938
+        },
+        {
+          "review_id": "R29676",
+          "quote": "Great base for experiencing the real culture \u2014 artisans and street food all around.",
+          "aspect": "local_culture",
+          "date": "2025-12-20",
+          "verified": true,
+          "sentiment": 0.931
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H061",
+      "hotel_name": "Hotel Onyx, New York",
+      "hotel_category": "4-star",
+      "score": 5.005,
+      "matched_aspects": [
+        "local_culture",
+        "location_central"
+      ],
+      "aspect_scores": {
+        "local_culture": 0.7686,
+        "location_central": 0.8998
+      },
+      "justification": "Hotel Onyx, New York ranks #4 for this traveler on local culture (+0.77), central location (+0.90), weighted by what matters most to them. Guests note: \"Loved that it sat in a genuine local neighborhood, not a tourist bubble.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R35373",
+          "quote": "Loved that it sat in a genuine local neighborhood, not a tourist bubble.",
+          "aspect": "local_culture",
+          "date": "2025-12-25",
+          "verified": true,
+          "sentiment": 0.946
+        },
+        {
+          "review_id": "R35385",
+          "quote": "Just steps from a beautiful stretch of beach with loungers ready.",
+          "aspect": "location_central",
+          "date": "2025-12-20",
+          "verified": true,
+          "sentiment": 0.938
+        },
+        {
+          "review_id": "R35459",
+          "quote": "Great base for experiencing the real culture \u2014 artisans and street food all around.",
+          "aspect": "location_central",
+          "date": "2025-11-20",
+          "verified": true,
+          "sentiment": 0.931
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H113",
+      "hotel_name": "The Park Harbour, Dubai",
+      "hotel_category": "4-star",
+      "score": 5.004,
+      "matched_aspects": [
+        "local_culture",
+        "location_central"
+      ],
+      "aspect_scores": {
+        "local_culture": 0.8311,
+        "location_central": 0.8789
+      },
+      "justification": "The Park Harbour, Dubai ranks #5 for this traveler on local culture (+0.83), central location (+0.88), weighted by what matters most to them. Guests note: \"On-site restaurant was a highlight \u2014 beautifully prepared local dishes.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R56325",
+          "quote": "On-site restaurant was a highlight \u2014 beautifully prepared local dishes.",
+          "aspect": "local_culture",
+          "date": "2025-12-25",
+          "verified": true,
+          "sentiment": 0.979
+        },
+        {
+          "review_id": "R55991",
+          "quote": "Slept beautifully \u2014 very quiet despite being central.",
+          "aspect": "location_central",
+          "date": "2025-12-21",
+          "verified": true,
+          "sentiment": 0.948
+        }
+      ],
+      "caveats": null
+    }
+  ]
+}

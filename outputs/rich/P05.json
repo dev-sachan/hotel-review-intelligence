@@ -1,0 +1,234 @@
+{
+  "profile_id": "P05",
+  "archetype": "solo_budget_nightlife",
+  "profile_summary": "Solo traveler (tight budget) prioritizing value for money, nightlife, local culture.",
+  "desired_dims": [
+    "value",
+    "nightlife",
+    "local_culture"
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "hotel_id": "H045",
+      "hotel_name": "The Boulevard Orchid, Paris",
+      "hotel_category": "3-star",
+      "score": 4.497,
+      "matched_aspects": [
+        "value",
+        "nightlife",
+        "local_culture"
+      ],
+      "aspect_scores": {
+        "value": 0.6793,
+        "nightlife": 0.7368,
+        "local_culture": 0.5775
+      },
+      "justification": "The Boulevard Orchid, Paris ranks #1 for this traveler on value for money (+0.68), nightlife (+0.74), local culture (+0.58), weighted by what matters most to them. Guests note: \"Excellent value for the price \u2014 far better than I expected for the rate.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R28785",
+          "quote": "Excellent value for the price \u2014 far better than I expected for the rate.",
+          "aspect": "value",
+          "date": "2025-12-30",
+          "verified": true,
+          "sentiment": 0.967
+        },
+        {
+          "review_id": "R28600",
+          "quote": "Great bang for your buck; you really get a lot for what you pay.",
+          "aspect": "value",
+          "date": "2025-12-28",
+          "verified": true,
+          "sentiment": 0.962
+        },
+        {
+          "review_id": "R29115",
+          "quote": "Great base for experiencing the real culture \u2014 artisans and street food all around.",
+          "aspect": "local_culture",
+          "date": "2025-12-28",
+          "verified": true,
+          "sentiment": 0.931
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H023",
+      "hotel_name": "The Park Continental, Lima",
+      "hotel_category": "5-star",
+      "score": 4.491,
+      "matched_aspects": [
+        "value",
+        "nightlife",
+        "local_culture"
+      ],
+      "aspect_scores": {
+        "value": 0.719,
+        "nightlife": 0.796,
+        "local_culture": 0.8549
+      },
+      "justification": "The Park Continental, Lima ranks #2 for this traveler on value for money (+0.72), nightlife (+0.80), local culture (+0.85), weighted by what matters most to them. Guests note: \"The rooftop bar was packed and fun, and the nightlife nearby was excellent.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R20296",
+          "quote": "The rooftop bar was packed and fun, and the nightlife nearby was excellent.",
+          "aspect": "nightlife",
+          "date": "2025-12-27",
+          "verified": true,
+          "sentiment": 0.983
+        },
+        {
+          "review_id": "R20280",
+          "quote": "Excellent value for the price \u2014 far better than I expected for the rate.",
+          "aspect": "value",
+          "date": "2025-12-26",
+          "verified": true,
+          "sentiment": 0.967
+        },
+        {
+          "review_id": "R20507",
+          "quote": "Great bars and clubs right around the corner, perfect for a night out.",
+          "aspect": "nightlife",
+          "date": "2025-12-17",
+          "verified": true,
+          "sentiment": 0.979
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H073",
+      "hotel_name": "The Royal Lumiere, Istanbul",
+      "hotel_category": "4-star",
+      "score": 4.175,
+      "matched_aspects": [
+        "value",
+        "local_culture"
+      ],
+      "aspect_scores": {
+        "value": 0.7746,
+        "nightlife": 0.0,
+        "local_culture": 0.8064
+      },
+      "justification": "The Royal Lumiere, Istanbul ranks #3 for this traveler on value for money (+0.77), local culture (+0.81), weighted by what matters most to them. Guests note: \"On-site restaurant was a highlight \u2014 beautifully prepared local dishes.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R40238",
+          "quote": "On-site restaurant was a highlight \u2014 beautifully prepared local dishes.",
+          "aspect": "local_culture",
+          "date": "2025-12-05",
+          "verified": true,
+          "sentiment": 0.979
+        },
+        {
+          "review_id": "R40336",
+          "quote": "Great bang for your buck; you really get a lot for what you pay.",
+          "aspect": "value",
+          "date": "2025-12-04",
+          "verified": true,
+          "sentiment": 0.962
+        },
+        {
+          "review_id": "R40023",
+          "quote": "Excellent value for the price \u2014 far better than I expected for the rate.",
+          "aspect": "value",
+          "date": "2025-11-15",
+          "verified": true,
+          "sentiment": 0.967
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H002",
+      "hotel_name": "Hotel Belmont, Singapore",
+      "hotel_category": "4-star",
+      "score": 4.143,
+      "matched_aspects": [
+        "value",
+        "local_culture"
+      ],
+      "aspect_scores": {
+        "value": 0.758,
+        "nightlife": 0.0,
+        "local_culture": 0.737
+      },
+      "justification": "Hotel Belmont, Singapore ranks #4 for this traveler on value for money (+0.76), local culture (+0.74), weighted by what matters most to them. Guests note: \"Great bang for your buck; you really get a lot for what you pay.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R10694",
+          "quote": "Great bang for your buck; you really get a lot for what you pay.",
+          "aspect": "value",
+          "date": "2025-12-17",
+          "verified": true,
+          "sentiment": 0.962
+        },
+        {
+          "review_id": "R10531",
+          "quote": "Excellent value for the price \u2014 far better than I expected for the rate.",
+          "aspect": "value",
+          "date": "2025-12-14",
+          "verified": true,
+          "sentiment": 0.967
+        },
+        {
+          "review_id": "R10462",
+          "quote": "Affordable and comfortable, a smart choice for a tighter budget.",
+          "aspect": "value",
+          "date": "2025-12-14",
+          "verified": true,
+          "sentiment": 0.814
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H038",
+      "hotel_name": "Casa Heights, Paris",
+      "hotel_category": "3-star",
+      "score": 4.134,
+      "matched_aspects": [
+        "value",
+        "nightlife"
+      ],
+      "aspect_scores": {
+        "value": 0.6524,
+        "nightlife": 0.695,
+        "local_culture": 0.0
+      },
+      "justification": "Casa Heights, Paris ranks #5 for this traveler on value for money (+0.65), nightlife (+0.69), weighted by what matters most to them. Guests note: \"Great bars and clubs right around the corner, perfect for a night out.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R25929",
+          "quote": "Great bars and clubs right around the corner, perfect for a night out.",
+          "aspect": "nightlife",
+          "date": "2025-12-18",
+          "verified": true,
+          "sentiment": 0.979
+        },
+        {
+          "review_id": "R26487",
+          "quote": "Great bang for your buck; you really get a lot for what you pay.",
+          "aspect": "value",
+          "date": "2025-12-21",
+          "verified": true,
+          "sentiment": 0.962
+        },
+        {
+          "review_id": "R26356",
+          "quote": "Excellent value for the price \u2014 far better than I expected for the rate.",
+          "aspect": "value",
+          "date": "2025-12-17",
+          "verified": true,
+          "sentiment": 0.967
+        }
+      ],
+      "caveats": null
+    }
+  ]
+}

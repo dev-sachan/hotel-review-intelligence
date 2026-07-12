@@ -1,0 +1,44 @@
+{
+  "profile_id": "P03",
+  "archetype": "family",
+  "desired_dims": [
+    "family_friendly"
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "hotel_id": "H093",
+      "hotel_name": "Hotel Harbour, Seoul",
+      "hotel_category": "5-star",
+      "score": 4.809
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H070",
+      "hotel_name": "Casa Atrium, Sydney",
+      "hotel_category": "5-star",
+      "score": 4.769
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H006",
+      "hotel_name": "Hotel Vista, London",
+      "hotel_category": "5-star",
+      "score": 4.744
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H106",
+      "hotel_name": "The Park Aurora, Mexico City",
+      "hotel_category": "4-star",
+      "score": 4.701
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H040",
+      "hotel_name": "The Vista, Rome",
+      "hotel_category": "4-star",
+      "score": 4.665
+    }
+  ]
+}

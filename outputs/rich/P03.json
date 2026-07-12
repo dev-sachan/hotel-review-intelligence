@@ -1,0 +1,215 @@
+{
+  "profile_id": "P03",
+  "archetype": "family",
+  "profile_summary": "Family traveler (mid budget) prioritizing family-friendly.",
+  "desired_dims": [
+    "family_friendly"
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "hotel_id": "H093",
+      "hotel_name": "Hotel Harbour, Seoul",
+      "hotel_category": "5-star",
+      "score": 4.809,
+      "matched_aspects": [
+        "family_friendly"
+      ],
+      "aspect_scores": {
+        "family_friendly": 0.7728
+      },
+      "justification": "Hotel Harbour, Seoul ranks #1 for this traveler on family-friendly (+0.77), weighted by what matters most to them. Guests note: \"The kids loved the pool and the staff were wonderful with our toddler.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R48045",
+          "quote": "The kids loved the pool and the staff were wonderful with our toddler.",
+          "aspect": "family_friendly",
+          "date": "2025-12-19",
+          "verified": true,
+          "sentiment": 0.984
+        },
+        {
+          "review_id": "R47957",
+          "quote": "Fantastic for families \u2014 connecting rooms, a kids' club, and high chairs at breakfast.",
+          "aspect": "family_friendly",
+          "date": "2025-12-20",
+          "verified": true,
+          "sentiment": 0.982
+        },
+        {
+          "review_id": "R47639",
+          "quote": "Plenty for children to do and the family suite had loads of space.",
+          "aspect": "family_friendly",
+          "date": "2025-12-20",
+          "verified": true,
+          "sentiment": 0.521
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H070",
+      "hotel_name": "Casa Atrium, Sydney",
+      "hotel_category": "5-star",
+      "score": 4.769,
+      "matched_aspects": [
+        "family_friendly"
+      ],
+      "aspect_scores": {
+        "family_friendly": 0.7603
+      },
+      "justification": "Casa Atrium, Sydney ranks #2 for this traveler on family-friendly (+0.76), weighted by what matters most to them. Guests note: \"The kids loved the pool and the staff were wonderful with our toddler.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R38642",
+          "quote": "The kids loved the pool and the staff were wonderful with our toddler.",
+          "aspect": "family_friendly",
+          "date": "2025-12-25",
+          "verified": true,
+          "sentiment": 0.984
+        },
+        {
+          "review_id": "R38384",
+          "quote": "Fantastic for families \u2014 connecting rooms, a kids' club, and high chairs at breakfast.",
+          "aspect": "family_friendly",
+          "date": "2025-12-22",
+          "verified": true,
+          "sentiment": 0.982
+        },
+        {
+          "review_id": "R38592",
+          "quote": "Plenty for children to do and the family suite had loads of space.",
+          "aspect": "family_friendly",
+          "date": "2025-12-23",
+          "verified": true,
+          "sentiment": 0.521
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H006",
+      "hotel_name": "Hotel Vista, London",
+      "hotel_category": "5-star",
+      "score": 4.744,
+      "matched_aspects": [
+        "family_friendly"
+      ],
+      "aspect_scores": {
+        "family_friendly": 0.7675
+      },
+      "justification": "Hotel Vista, London ranks #3 for this traveler on family-friendly (+0.77), weighted by what matters most to them. Guests note: \"The kids loved the pool and the staff were wonderful with our toddler.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R12667",
+          "quote": "The kids loved the pool and the staff were wonderful with our toddler.",
+          "aspect": "family_friendly",
+          "date": "2025-12-31",
+          "verified": true,
+          "sentiment": 0.984
+        },
+        {
+          "review_id": "R12972",
+          "quote": "Fantastic for families \u2014 connecting rooms, a kids' club, and high chairs at breakfast.",
+          "aspect": "family_friendly",
+          "date": "2025-12-21",
+          "verified": true,
+          "sentiment": 0.982
+        },
+        {
+          "review_id": "R12411",
+          "quote": "Plenty for children to do and the family suite had loads of space.",
+          "aspect": "family_friendly",
+          "date": "2025-12-29",
+          "verified": true,
+          "sentiment": 0.521
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H106",
+      "hotel_name": "The Park Aurora, Mexico City",
+      "hotel_category": "4-star",
+      "score": 4.701,
+      "matched_aspects": [
+        "family_friendly"
+      ],
+      "aspect_scores": {
+        "family_friendly": 0.7075
+      },
+      "justification": "The Park Aurora, Mexico City ranks #4 for this traveler on family-friendly (+0.71), weighted by what matters most to them. Guests note: \"The kids loved the pool and the staff were wonderful with our toddler.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R53258",
+          "quote": "The kids loved the pool and the staff were wonderful with our toddler.",
+          "aspect": "family_friendly",
+          "date": "2025-12-17",
+          "verified": true,
+          "sentiment": 0.984
+        },
+        {
+          "review_id": "R53894",
+          "quote": "Fantastic for families \u2014 connecting rooms, a kids' club, and high chairs at breakfast.",
+          "aspect": "family_friendly",
+          "date": "2025-12-06",
+          "verified": true,
+          "sentiment": 0.982
+        },
+        {
+          "review_id": "R53848",
+          "quote": "Plenty for children to do and the family suite had loads of space.",
+          "aspect": "family_friendly",
+          "date": "2025-12-22",
+          "verified": true,
+          "sentiment": 0.521
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H040",
+      "hotel_name": "The Vista, Rome",
+      "hotel_category": "4-star",
+      "score": 4.665,
+      "matched_aspects": [
+        "family_friendly"
+      ],
+      "aspect_scores": {
+        "family_friendly": 0.7038
+      },
+      "justification": "The Vista, Rome ranks #5 for this traveler on family-friendly (+0.70), weighted by what matters most to them. Guests note: \"Fantastic for families \u2014 connecting rooms, a kids' club, and high chairs at breakfast.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R26922",
+          "quote": "Fantastic for families \u2014 connecting rooms, a kids' club, and high chairs at breakfast.",
+          "aspect": "family_friendly",
+          "date": "2025-12-09",
+          "verified": true,
+          "sentiment": 0.982
+        },
+        {
+          "review_id": "R27156",
+          "quote": "The kids loved the pool and the staff were wonderful with our toddler.",
+          "aspect": "family_friendly",
+          "date": "2025-12-02",
+          "verified": true,
+          "sentiment": 0.984
+        },
+        {
+          "review_id": "R27049",
+          "quote": "Plenty for children to do and the family suite had loads of space.",
+          "aspect": "family_friendly",
+          "date": "2025-12-04",
+          "verified": true,
+          "sentiment": 0.521
+        }
+      ],
+      "caveats": null
+    }
+  ]
+}

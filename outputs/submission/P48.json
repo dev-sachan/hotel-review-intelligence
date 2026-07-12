@@ -1,0 +1,45 @@
+{
+  "profile_id": "P48",
+  "archetype": "leisure_wellness",
+  "desired_dims": [
+    "wellness_spa",
+    "quietness"
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "hotel_id": "H075",
+      "hotel_name": "The Grand Harbour, Barcelona",
+      "hotel_category": "5-star",
+      "score": 4.981
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H081",
+      "hotel_name": "The Grand Lumiere, Amsterdam",
+      "hotel_category": "4-star",
+      "score": 4.933
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H087",
+      "hotel_name": "Hotel Vista, Mumbai",
+      "hotel_category": "4-star",
+      "score": 4.814
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H048",
+      "hotel_name": "The Royal Solana, Lima",
+      "hotel_category": "5-star",
+      "score": 4.798
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H109",
+      "hotel_name": "The Royal Sands, Rome",
+      "hotel_category": "5-star",
+      "score": 4.789
+    }
+  ]
+}

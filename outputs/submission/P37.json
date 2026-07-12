@@ -1,0 +1,46 @@
+{
+  "profile_id": "P37",
+  "archetype": "solo_female_culture",
+  "desired_dims": [
+    "local_culture",
+    "location_central",
+    "safety"
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "hotel_id": "H095",
+      "hotel_name": "Hotel Belmont, Mexico City",
+      "hotel_category": "4-star",
+      "score": 4.867
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H040",
+      "hotel_name": "The Vista, Rome",
+      "hotel_category": "4-star",
+      "score": 4.811
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H048",
+      "hotel_name": "The Royal Solana, Lima",
+      "hotel_category": "5-star",
+      "score": 4.587
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H044",
+      "hotel_name": "Hotel del Aurora, San Francisco",
+      "hotel_category": "4-star",
+      "score": 4.561
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H072",
+      "hotel_name": "Hotel Atrium, Lima",
+      "hotel_category": "4-star",
+      "score": 4.56
+    }
+  ]
+}

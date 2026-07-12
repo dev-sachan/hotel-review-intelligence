@@ -1,0 +1,226 @@
+{
+  "profile_id": "P42",
+  "archetype": "leisure_luxury_wellness",
+  "profile_summary": "Leisure traveler (high budget) prioritizing luxury & refinement, spa & wellness.",
+  "desired_dims": [
+    "luxury",
+    "wellness_spa"
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "hotel_id": "H089",
+      "hotel_name": "The Regent Heights, Lisbon",
+      "hotel_category": "5-star",
+      "score": 5.356,
+      "matched_aspects": [
+        "luxury",
+        "wellness_spa"
+      ],
+      "aspect_scores": {
+        "luxury": 0.9507,
+        "wellness_spa": 0.924
+      },
+      "justification": "The Regent Heights, Lisbon ranks #1 for this traveler on luxury & refinement (+0.95), spa & wellness (+0.92), weighted by what matters most to them. Guests note: \"The spa was a highlight \u2014 incredible massages and a serene relaxation pool.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R46425",
+          "quote": "The spa was a highlight \u2014 incredible massages and a serene relaxation pool.",
+          "aspect": "luxury",
+          "date": "2025-12-30",
+          "verified": true,
+          "sentiment": 0.983
+        },
+        {
+          "review_id": "R46289",
+          "quote": "Wonderful wellness facilities; the sauna and treatments left us completely refreshed.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-20",
+          "verified": true,
+          "sentiment": 0.985
+        },
+        {
+          "review_id": "R46011",
+          "quote": "A proper retreat: yoga in the morning and an excellent spa in the afternoon.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-18",
+          "verified": true,
+          "sentiment": 0.94
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H070",
+      "hotel_name": "Casa Atrium, Sydney",
+      "hotel_category": "5-star",
+      "score": 5.249,
+      "matched_aspects": [
+        "luxury",
+        "wellness_spa"
+      ],
+      "aspect_scores": {
+        "luxury": 0.8924,
+        "wellness_spa": 0.9196
+      },
+      "justification": "Casa Atrium, Sydney ranks #2 for this traveler on luxury & refinement (+0.89), spa & wellness (+0.92), weighted by what matters most to them. Guests note: \"The spa was a highlight \u2014 incredible massages and a serene relaxation pool.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R38836",
+          "quote": "The spa was a highlight \u2014 incredible massages and a serene relaxation pool.",
+          "aspect": "luxury",
+          "date": "2025-12-23",
+          "verified": true,
+          "sentiment": 0.983
+        },
+        {
+          "review_id": "R38179",
+          "quote": "Wonderful wellness facilities; the sauna and treatments left us completely refreshed.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-14",
+          "verified": true,
+          "sentiment": 0.985
+        },
+        {
+          "review_id": "R38238",
+          "quote": "The level of refinement and personal service was world-class.",
+          "aspect": "luxury",
+          "date": "2025-12-30",
+          "verified": true,
+          "sentiment": 0.937
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H051",
+      "hotel_name": "Casa Harbour, Istanbul",
+      "hotel_category": "5-star",
+      "score": 5.207,
+      "matched_aspects": [
+        "luxury",
+        "wellness_spa"
+      ],
+      "aspect_scores": {
+        "luxury": 0.8851,
+        "wellness_spa": 0.9168
+      },
+      "justification": "Casa Harbour, Istanbul ranks #3 for this traveler on luxury & refinement (+0.89), spa & wellness (+0.92), weighted by what matters most to them. Guests note: \"Wonderful wellness facilities; the sauna and treatments left us completely refreshed.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R31982",
+          "quote": "Wonderful wellness facilities; the sauna and treatments left us completely refreshed.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-21",
+          "verified": true,
+          "sentiment": 0.985
+        },
+        {
+          "review_id": "R32104",
+          "quote": "The spa was a highlight \u2014 incredible massages and a serene relaxation pool.",
+          "aspect": "luxury",
+          "date": "2025-12-14",
+          "verified": true,
+          "sentiment": 0.983
+        },
+        {
+          "review_id": "R31771",
+          "quote": "A proper retreat: yoga in the morning and an excellent spa in the afternoon.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-26",
+          "verified": true,
+          "sentiment": 0.94
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H030",
+      "hotel_name": "The Onyx, Lima",
+      "hotel_category": "5-star",
+      "score": 5.207,
+      "matched_aspects": [
+        "luxury",
+        "wellness_spa"
+      ],
+      "aspect_scores": {
+        "luxury": 0.8816,
+        "wellness_spa": 0.8881
+      },
+      "justification": "The Onyx, Lima ranks #4 for this traveler on luxury & refinement (+0.88), spa & wellness (+0.89), weighted by what matters most to them. Guests note: \"The spa was a highlight \u2014 incredible massages and a serene relaxation pool.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R23575",
+          "quote": "The spa was a highlight \u2014 incredible massages and a serene relaxation pool.",
+          "aspect": "luxury",
+          "date": "2025-12-28",
+          "verified": true,
+          "sentiment": 0.983
+        },
+        {
+          "review_id": "R23342",
+          "quote": "Wonderful wellness facilities; the sauna and treatments left us completely refreshed.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-14",
+          "verified": true,
+          "sentiment": 0.985
+        },
+        {
+          "review_id": "R23335",
+          "quote": "A proper retreat: yoga in the morning and an excellent spa in the afternoon.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-13",
+          "verified": true,
+          "sentiment": 0.94
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H009",
+      "hotel_name": "The Boulevard Verde, Lisbon",
+      "hotel_category": "4-star",
+      "score": 5.205,
+      "matched_aspects": [
+        "luxury",
+        "wellness_spa"
+      ],
+      "aspect_scores": {
+        "luxury": 0.962,
+        "wellness_spa": 0.9176
+      },
+      "justification": "The Boulevard Verde, Lisbon ranks #5 for this traveler on luxury & refinement (+0.96), spa & wellness (+0.92), weighted by what matters most to them. Guests note: \"Wonderful wellness facilities; the sauna and treatments left us completely refreshed.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R14282",
+          "quote": "Wonderful wellness facilities; the sauna and treatments left us completely refreshed.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-30",
+          "verified": true,
+          "sentiment": 0.985
+        },
+        {
+          "review_id": "R13783",
+          "quote": "The spa was a highlight \u2014 incredible massages and a serene relaxation pool.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-22",
+          "verified": true,
+          "sentiment": 0.983
+        },
+        {
+          "review_id": "R14266",
+          "quote": "A proper retreat: yoga in the morning and an excellent spa in the afternoon.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-25",
+          "verified": true,
+          "sentiment": 0.94
+        }
+      ],
+      "caveats": null
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "profile_id": "P23",
+  "archetype": "group_budget_central",
+  "profile_summary": "Group traveler (mid budget) prioritizing value for money, central location.",
+  "desired_dims": [
+    "value",
+    "location_central"
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "hotel_id": "H071",
+      "hotel_name": "The Belmont, Seoul",
+      "hotel_category": "4-star",
+      "score": 4.995,
+      "matched_aspects": [
+        "value",
+        "location_central"
+      ],
+      "aspect_scores": {
+        "value": 0.7822,
+        "location_central": 0.905
+      },
+      "justification": "The Belmont, Seoul ranks #1 for this traveler on value for money (+0.78), central location (+0.91), weighted by what matters most to them. Guests note: \"Great bang for your buck; you really get a lot for what you pay.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R39044",
+          "quote": "Great bang for your buck; you really get a lot for what you pay.",
+          "aspect": "value",
+          "date": "2025-12-24",
+          "verified": true,
+          "sentiment": 0.962
+        },
+        {
+          "review_id": "R39608",
+          "quote": "Excellent value for the price \u2014 far better than I expected for the rate.",
+          "aspect": "value",
+          "date": "2025-12-17",
+          "verified": true,
+          "sentiment": 0.967
+        },
+        {
+          "review_id": "R39501",
+          "quote": "Slept beautifully \u2014 very quiet despite being central.",
+          "aspect": "location_central",
+          "date": "2025-12-24",
+          "verified": true,
+          "sentiment": 0.948
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H046",
+      "hotel_name": "The Regent Harbour, San Francisco",
+      "hotel_category": "4-star",
+      "score": 4.984,
+      "matched_aspects": [
+        "value",
+        "location_central"
+      ],
+      "aspect_scores": {
+        "value": 0.7621,
+        "location_central": 0.9066
+      },
+      "justification": "The Regent Harbour, San Francisco ranks #2 for this traveler on value for money (+0.76), central location (+0.91), weighted by what matters most to them. Guests note: \"Excellent value for the price \u2014 far better than I expected for the rate.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R29859",
+          "quote": "Excellent value for the price \u2014 far better than I expected for the rate.",
+          "aspect": "value",
+          "date": "2025-12-20",
+          "verified": true,
+          "sentiment": 0.967
+        },
+        {
+          "review_id": "R29703",
+          "quote": "Just steps from a beautiful stretch of beach with loungers ready.",
+          "aspect": "location_central",
+          "date": "2025-12-27",
+          "verified": true,
+          "sentiment": 0.938
+        },
+        {
+          "review_id": "R29828",
+          "quote": "Great bang for your buck; you really get a lot for what you pay.",
+          "aspect": "value",
+          "date": "2025-12-04",
+          "verified": true,
+          "sentiment": 0.962
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H002",
+      "hotel_name": "Hotel Belmont, Singapore",
+      "hotel_category": "4-star",
+      "score": 4.95,
+      "matched_aspects": [
+        "value",
+        "location_central"
+      ],
+      "aspect_scores": {
+        "value": 0.7599,
+        "location_central": 0.8345
+      },
+      "justification": "Hotel Belmont, Singapore ranks #3 for this traveler on value for money (+0.76), central location (+0.83), weighted by what matters most to them. Guests note: \"Great bang for your buck; you really get a lot for what you pay.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R10694",
+          "quote": "Great bang for your buck; you really get a lot for what you pay.",
+          "aspect": "value",
+          "date": "2025-12-17",
+          "verified": true,
+          "sentiment": 0.962
+        },
+        {
+          "review_id": "R10531",
+          "quote": "Excellent value for the price \u2014 far better than I expected for the rate.",
+          "aspect": "value",
+          "date": "2025-12-14",
+          "verified": true,
+          "sentiment": 0.967
+        },
+        {
+          "review_id": "R10465",
+          "quote": "Just steps from a beautiful stretch of beach with loungers ready.",
+          "aspect": "location_central",
+          "date": "2025-12-21",
+          "verified": true,
+          "sentiment": 0.938
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H027",
+      "hotel_name": "Hotel Magnolia, Cape Town",
+      "hotel_category": "5-star",
+      "score": 4.948,
+      "matched_aspects": [
+        "value",
+        "location_central"
+      ],
+      "aspect_scores": {
+        "value": 0.8197,
+        "location_central": 0.9129
+      },
+      "justification": "Hotel Magnolia, Cape Town ranks #4 for this traveler on value for money (+0.82), central location (+0.91), weighted by what matters most to them. Guests note: \"Excellent value for the price \u2014 far better than I expected for the rate.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R22394",
+          "quote": "Excellent value for the price \u2014 far better than I expected for the rate.",
+          "aspect": "value",
+          "date": "2025-12-31",
+          "verified": true,
+          "sentiment": 0.967
+        },
+        {
+          "review_id": "R21911",
+          "quote": "Great bang for your buck; you really get a lot for what you pay.",
+          "aspect": "value",
+          "date": "2025-12-29",
+          "verified": true,
+          "sentiment": 0.962
+        },
+        {
+          "review_id": "R21506",
+          "quote": "Great base for experiencing the real culture \u2014 artisans and street food all around.",
+          "aspect": "location_central",
+          "date": "2025-12-29",
+          "verified": true,
+          "sentiment": 0.931
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H070",
+      "hotel_name": "Casa Atrium, Sydney",
+      "hotel_category": "5-star",
+      "score": 4.893,
+      "matched_aspects": [
+        "value",
+        "location_central"
+      ],
+      "aspect_scores": {
+        "value": 0.8335,
+        "location_central": 0.7807
+      },
+      "justification": "Casa Atrium, Sydney ranks #5 for this traveler on value for money (+0.83), central location (+0.78), weighted by what matters most to them. Guests note: \"Great bang for your buck; you really get a lot for what you pay.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R38323",
+          "quote": "Great bang for your buck; you really get a lot for what you pay.",
+          "aspect": "value",
+          "date": "2025-12-31",
+          "verified": true,
+          "sentiment": 0.962
+        },
+        {
+          "review_id": "R38790",
+          "quote": "Excellent value for the price \u2014 far better than I expected for the rate.",
+          "aspect": "value",
+          "date": "2025-12-11",
+          "verified": true,
+          "sentiment": 0.967
+        },
+        {
+          "review_id": "R38561",
+          "quote": "Perfect central location, walking distance to all the main sights.",
+          "aspect": "location_central",
+          "date": "2025-12-07",
+          "verified": true,
+          "sentiment": 0.947
+        }
+      ],
+      "caveats": null
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "profile_id": "P26",
+  "archetype": "business_central",
+  "profile_summary": "Business traveler (mid budget) prioritizing central location, business & wifi, quietness.",
+  "desired_dims": [
+    "location_central",
+    "business_facilities",
+    "quietness"
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "hotel_id": "H108",
+      "hotel_name": "The Grand Magnolia, Lima",
+      "hotel_category": "4-star",
+      "score": 5.078,
+      "matched_aspects": [
+        "location_central",
+        "business_facilities",
+        "quietness"
+      ],
+      "aspect_scores": {
+        "location_central": 0.9159,
+        "business_facilities": 0.8414,
+        "quietness": 0.8608
+      },
+      "justification": "The Grand Magnolia, Lima ranks #1 for this traveler on central location (+0.92), business & wifi (+0.84), quietness (+0.86), weighted by what matters most to them. Guests note: \"The business center and conference facilities were excellent, ideal for work trips.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R54535",
+          "quote": "The business center and conference facilities were excellent, ideal for work trips.",
+          "aspect": "business_facilities",
+          "date": "2025-12-27",
+          "verified": true,
+          "sentiment": 0.982
+        },
+        {
+          "review_id": "R54434",
+          "quote": "Room was wonderfully peaceful and the blackout curtains were perfect.",
+          "aspect": "quietness",
+          "date": "2025-12-26",
+          "verified": true,
+          "sentiment": 0.976
+        },
+        {
+          "review_id": "R54706",
+          "quote": "Meeting rooms were well-equipped and the WiFi was rock solid for video calls.",
+          "aspect": "business_facilities",
+          "date": "2025-12-31",
+          "verified": true,
+          "sentiment": 0.955
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H087",
+      "hotel_name": "Hotel Vista, Mumbai",
+      "hotel_category": "4-star",
+      "score": 4.896,
+      "matched_aspects": [
+        "location_central",
+        "business_facilities",
+        "quietness"
+      ],
+      "aspect_scores": {
+        "location_central": 0.9159,
+        "business_facilities": 0.7291,
+        "quietness": 0.7796
+      },
+      "justification": "Hotel Vista, Mumbai ranks #2 for this traveler on central location (+0.92), business & wifi (+0.73), quietness (+0.78), weighted by what matters most to them. Guests note: \"Room was wonderfully peaceful and the blackout curtains were perfect.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R44726",
+          "quote": "Room was wonderfully peaceful and the blackout curtains were perfect.",
+          "aspect": "quietness",
+          "date": "2025-12-26",
+          "verified": true,
+          "sentiment": 0.976
+        },
+        {
+          "review_id": "R44998",
+          "quote": "Slept beautifully \u2014 very quiet despite being central.",
+          "aspect": "location_central",
+          "date": "2025-12-20",
+          "verified": true,
+          "sentiment": 0.948
+        },
+        {
+          "review_id": "R44878",
+          "quote": "The business center and conference facilities were excellent, ideal for work trips.",
+          "aspect": "business_facilities",
+          "date": "2025-11-27",
+          "verified": true,
+          "sentiment": 0.982
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H076",
+      "hotel_name": "The Regent Riverside, Seoul",
+      "hotel_category": "5-star",
+      "score": 4.785,
+      "matched_aspects": [
+        "location_central",
+        "business_facilities",
+        "quietness"
+      ],
+      "aspect_scores": {
+        "location_central": 0.8322,
+        "business_facilities": 0.7834,
+        "quietness": 0.7181
+      },
+      "justification": "The Regent Riverside, Seoul ranks #3 for this traveler on central location (+0.83), business & wifi (+0.78), quietness (+0.72), weighted by what matters most to them. Guests note: \"Great setup for business travel: fast reliable internet and a proper desk.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R41211",
+          "quote": "Great setup for business travel: fast reliable internet and a proper desk.",
+          "aspect": "business_facilities",
+          "date": "2025-12-25",
+          "verified": true,
+          "sentiment": 0.962
+        },
+        {
+          "review_id": "R41217",
+          "quote": "The business center and conference facilities were excellent, ideal for work trips.",
+          "aspect": "business_facilities",
+          "date": "2025-12-03",
+          "verified": true,
+          "sentiment": 0.982
+        },
+        {
+          "review_id": "R41156",
+          "quote": "Meeting rooms were well-equipped and the WiFi was rock solid for video calls.",
+          "aspect": "business_facilities",
+          "date": "2025-12-10",
+          "verified": true,
+          "sentiment": 0.955
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H003",
+      "hotel_name": "Casa Atrium, San Francisco",
+      "hotel_category": "5-star",
+      "score": 4.712,
+      "matched_aspects": [
+        "location_central",
+        "business_facilities",
+        "quietness"
+      ],
+      "aspect_scores": {
+        "location_central": 0.8685,
+        "business_facilities": 0.6891,
+        "quietness": 0.7607
+      },
+      "justification": "Casa Atrium, San Francisco ranks #4 for this traveler on central location (+0.87), business & wifi (+0.69), quietness (+0.76), weighted by what matters most to them. Guests note: \"Great setup for business travel: fast reliable internet and a proper desk.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R10779",
+          "quote": "Great setup for business travel: fast reliable internet and a proper desk.",
+          "aspect": "business_facilities",
+          "date": "2025-12-28",
+          "verified": true,
+          "sentiment": 0.962
+        },
+        {
+          "review_id": "R10790",
+          "quote": "The business center and conference facilities were excellent, ideal for work trips.",
+          "aspect": "business_facilities",
+          "date": "2025-12-12",
+          "verified": true,
+          "sentiment": 0.982
+        },
+        {
+          "review_id": "R10862",
+          "quote": "Slept beautifully \u2014 very quiet despite being central.",
+          "aspect": "quietness",
+          "date": "2025-12-19",
+          "verified": true,
+          "sentiment": 0.948
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H022",
+      "hotel_name": "Hotel Atrium, Cape Town",
+      "hotel_category": "4-star",
+      "score": 4.577,
+      "matched_aspects": [
+        "location_central",
+        "business_facilities",
+        "quietness"
+      ],
+      "aspect_scores": {
+        "location_central": 0.7658,
+        "business_facilities": 0.688,
+        "quietness": 0.5609
+      },
+      "justification": "Hotel Atrium, Cape Town ranks #5 for this traveler on central location (+0.77), business & wifi (+0.69), quietness (+0.56), weighted by what matters most to them. Guests note: \"Great setup for business travel: fast reliable internet and a proper desk.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R20002",
+          "quote": "Great setup for business travel: fast reliable internet and a proper desk.",
+          "aspect": "business_facilities",
+          "date": "2025-12-30",
+          "verified": true,
+          "sentiment": 0.962
+        },
+        {
+          "review_id": "R19992",
+          "quote": "The business center and conference facilities were excellent, ideal for work trips.",
+          "aspect": "business_facilities",
+          "date": "2025-12-09",
+          "verified": true,
+          "sentiment": 0.982
+        },
+        {
+          "review_id": "R19861",
+          "quote": "Meeting rooms were well-equipped and the WiFi was rock solid for video calls.",
+          "aspect": "business_facilities",
+          "date": "2025-10-25",
+          "verified": true,
+          "sentiment": 0.955
+        }
+      ],
+      "caveats": null
+    }
+  ]
+}

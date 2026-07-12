@@ -1,0 +1,45 @@
+{
+  "profile_id": "P45",
+  "archetype": "leisure_beach_foodie",
+  "desired_dims": [
+    "beach_access",
+    "food_dining"
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "hotel_id": "H114",
+      "hotel_name": "Casa Solana, Rome",
+      "hotel_category": "5-star",
+      "score": 5.065
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H076",
+      "hotel_name": "The Regent Riverside, Seoul",
+      "hotel_category": "5-star",
+      "score": 5.012
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H068",
+      "hotel_name": "The Continental, Sydney",
+      "hotel_category": "4-star",
+      "score": 5.008
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H051",
+      "hotel_name": "Casa Harbour, Istanbul",
+      "hotel_category": "5-star",
+      "score": 4.881
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H046",
+      "hotel_name": "The Regent Harbour, San Francisco",
+      "hotel_category": "4-star",
+      "score": 4.834
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "profile_id": "P14",
+  "archetype": "business_central",
+  "desired_dims": [
+    "location_central",
+    "quietness",
+    "business_facilities"
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "hotel_id": "H108",
+      "hotel_name": "The Grand Magnolia, Lima",
+      "hotel_category": "4-star",
+      "score": 5.084
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H087",
+      "hotel_name": "Hotel Vista, Mumbai",
+      "hotel_category": "4-star",
+      "score": 4.91
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H076",
+      "hotel_name": "The Regent Riverside, Seoul",
+      "hotel_category": "5-star",
+      "score": 4.784
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H003",
+      "hotel_name": "Casa Atrium, San Francisco",
+      "hotel_category": "5-star",
+      "score": 4.727
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H022",
+      "hotel_name": "Hotel Atrium, Cape Town",
+      "hotel_category": "4-star",
+      "score": 4.574
+    }
+  ]
+}

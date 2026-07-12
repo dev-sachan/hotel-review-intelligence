@@ -1,0 +1,237 @@
+{
+  "profile_id": "P35",
+  "archetype": "group_budget_nightlife",
+  "profile_summary": "Group traveler (mid budget) prioritizing value for money, nightlife, central location.",
+  "desired_dims": [
+    "value",
+    "nightlife",
+    "location_central"
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "hotel_id": "H023",
+      "hotel_name": "The Park Continental, Lima",
+      "hotel_category": "5-star",
+      "score": 4.795,
+      "matched_aspects": [
+        "value",
+        "nightlife",
+        "location_central"
+      ],
+      "aspect_scores": {
+        "value": 0.7216,
+        "nightlife": 0.7971,
+        "location_central": 0.9209
+      },
+      "justification": "The Park Continental, Lima ranks #1 for this traveler on value for money (+0.72), nightlife (+0.80), central location (+0.92), weighted by what matters most to them. Guests note: \"The rooftop bar was packed and fun, and the nightlife nearby was excellent.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R20296",
+          "quote": "The rooftop bar was packed and fun, and the nightlife nearby was excellent.",
+          "aspect": "nightlife",
+          "date": "2025-12-27",
+          "verified": true,
+          "sentiment": 0.983
+        },
+        {
+          "review_id": "R20280",
+          "quote": "Excellent value for the price \u2014 far better than I expected for the rate.",
+          "aspect": "value",
+          "date": "2025-12-26",
+          "verified": true,
+          "sentiment": 0.967
+        },
+        {
+          "review_id": "R20507",
+          "quote": "Great bars and clubs right around the corner, perfect for a night out.",
+          "aspect": "location_central",
+          "date": "2025-12-17",
+          "verified": true,
+          "sentiment": 0.979
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H045",
+      "hotel_name": "The Boulevard Orchid, Paris",
+      "hotel_category": "3-star",
+      "score": 4.634,
+      "matched_aspects": [
+        "value",
+        "nightlife",
+        "location_central"
+      ],
+      "aspect_scores": {
+        "value": 0.6768,
+        "nightlife": 0.7366,
+        "location_central": 0.9188
+      },
+      "justification": "The Boulevard Orchid, Paris ranks #2 for this traveler on value for money (+0.68), nightlife (+0.74), central location (+0.92), weighted by what matters most to them. Guests note: \"Excellent value for the price \u2014 far better than I expected for the rate.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R28785",
+          "quote": "Excellent value for the price \u2014 far better than I expected for the rate.",
+          "aspect": "value",
+          "date": "2025-12-30",
+          "verified": true,
+          "sentiment": 0.967
+        },
+        {
+          "review_id": "R28600",
+          "quote": "Great bang for your buck; you really get a lot for what you pay.",
+          "aspect": "value",
+          "date": "2025-12-28",
+          "verified": true,
+          "sentiment": 0.962
+        },
+        {
+          "review_id": "R29115",
+          "quote": "Great base for experiencing the real culture \u2014 artisans and street food all around.",
+          "aspect": "location_central",
+          "date": "2025-12-28",
+          "verified": true,
+          "sentiment": 0.931
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H038",
+      "hotel_name": "Casa Heights, Paris",
+      "hotel_category": "3-star",
+      "score": 4.526,
+      "matched_aspects": [
+        "value",
+        "nightlife",
+        "location_central"
+      ],
+      "aspect_scores": {
+        "value": 0.6576,
+        "nightlife": 0.7002,
+        "location_central": 0.7811
+      },
+      "justification": "Casa Heights, Paris ranks #3 for this traveler on value for money (+0.66), nightlife (+0.70), central location (+0.78), weighted by what matters most to them. Guests note: \"Great bars and clubs right around the corner, perfect for a night out.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R25929",
+          "quote": "Great bars and clubs right around the corner, perfect for a night out.",
+          "aspect": "nightlife",
+          "date": "2025-12-18",
+          "verified": true,
+          "sentiment": 0.979
+        },
+        {
+          "review_id": "R26487",
+          "quote": "Great bang for your buck; you really get a lot for what you pay.",
+          "aspect": "value",
+          "date": "2025-12-21",
+          "verified": true,
+          "sentiment": 0.962
+        },
+        {
+          "review_id": "R26356",
+          "quote": "Excellent value for the price \u2014 far better than I expected for the rate.",
+          "aspect": "value",
+          "date": "2025-12-17",
+          "verified": true,
+          "sentiment": 0.967
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H025",
+      "hotel_name": "The Royal Garden, Bali",
+      "hotel_category": "5-star",
+      "score": 4.489,
+      "matched_aspects": [
+        "value",
+        "nightlife",
+        "location_central"
+      ],
+      "aspect_scores": {
+        "value": 0.6304,
+        "nightlife": 0.6969,
+        "location_central": 0.7544
+      },
+      "justification": "The Royal Garden, Bali ranks #4 for this traveler on value for money (+0.63), nightlife (+0.70), central location (+0.75), weighted by what matters most to them. Guests note: \"The rooftop bar was packed and fun, and the nightlife nearby was excellent.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R20984",
+          "quote": "The rooftop bar was packed and fun, and the nightlife nearby was excellent.",
+          "aspect": "nightlife",
+          "date": "2025-12-25",
+          "verified": true,
+          "sentiment": 0.983
+        },
+        {
+          "review_id": "R20984",
+          "quote": "Great bang for your buck; you really get a lot for what you pay.",
+          "aspect": "value",
+          "date": "2025-12-25",
+          "verified": true,
+          "sentiment": 0.962
+        },
+        {
+          "review_id": "R21136",
+          "quote": "Perfect central location, walking distance to all the main sights.",
+          "aspect": "location_central",
+          "date": "2025-12-20",
+          "verified": true,
+          "sentiment": 0.947
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H013",
+      "hotel_name": "The Boulevard Heights, San Francisco",
+      "hotel_category": "3-star",
+      "score": 4.451,
+      "matched_aspects": [
+        "value",
+        "nightlife",
+        "location_central"
+      ],
+      "aspect_scores": {
+        "value": 0.575,
+        "nightlife": 0.6639,
+        "location_central": 0.8654
+      },
+      "justification": "The Boulevard Heights, San Francisco ranks #5 for this traveler on value for money (+0.57), nightlife (+0.66), central location (+0.87), weighted by what matters most to them. Guests note: \"Great bars and clubs right around the corner, perfect for a night out.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R16133",
+          "quote": "Great bars and clubs right around the corner, perfect for a night out.",
+          "aspect": "nightlife",
+          "date": "2025-12-07",
+          "verified": true,
+          "sentiment": 0.979
+        },
+        {
+          "review_id": "R16209",
+          "quote": "The rooftop bar was packed and fun, and the nightlife nearby was excellent.",
+          "aspect": "nightlife",
+          "date": "2025-11-18",
+          "verified": true,
+          "sentiment": 0.983
+        },
+        {
+          "review_id": "R16114",
+          "quote": "Great bang for your buck; you really get a lot for what you pay.",
+          "aspect": "value",
+          "date": "2025-11-19",
+          "verified": true,
+          "sentiment": 0.962
+        }
+      ],
+      "caveats": null
+    }
+  ]
+}

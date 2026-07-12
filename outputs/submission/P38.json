@@ -1,0 +1,45 @@
+{
+  "profile_id": "P38",
+  "archetype": "business_central",
+  "desired_dims": [
+    "location_central",
+    "quietness"
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "hotel_id": "H108",
+      "hotel_name": "The Grand Magnolia, Lima",
+      "hotel_category": "4-star",
+      "score": 5.117
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H071",
+      "hotel_name": "The Belmont, Seoul",
+      "hotel_category": "4-star",
+      "score": 5.053
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H075",
+      "hotel_name": "The Grand Harbour, Barcelona",
+      "hotel_category": "5-star",
+      "score": 5.041
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H087",
+      "hotel_name": "Hotel Vista, Mumbai",
+      "hotel_category": "4-star",
+      "score": 4.995
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H050",
+      "hotel_name": "The Orchid, Paris",
+      "hotel_category": "4-star",
+      "score": 4.988
+    }
+  ]
+}

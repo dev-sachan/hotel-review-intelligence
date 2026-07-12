@@ -1,0 +1,45 @@
+{
+  "profile_id": "P22",
+  "archetype": "solo_business_budget",
+  "desired_dims": [
+    "business_facilities",
+    "value"
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "hotel_id": "H009",
+      "hotel_name": "The Boulevard Verde, Lisbon",
+      "hotel_category": "4-star",
+      "score": 5.101
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H027",
+      "hotel_name": "Hotel Magnolia, Cape Town",
+      "hotel_category": "5-star",
+      "score": 4.932
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H073",
+      "hotel_name": "The Royal Lumiere, Istanbul",
+      "hotel_category": "4-star",
+      "score": 4.927
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H064",
+      "hotel_name": "Hotel del Plaza, Cape Town",
+      "hotel_category": "4-star",
+      "score": 4.858
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H031",
+      "hotel_name": "Casa Atrium, Seoul",
+      "hotel_category": "5-star",
+      "score": 4.707
+    }
+  ]
+}

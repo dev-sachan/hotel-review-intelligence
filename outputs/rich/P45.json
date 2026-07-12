@@ -1,0 +1,226 @@
+{
+  "profile_id": "P45",
+  "archetype": "leisure_beach_foodie",
+  "profile_summary": "Leisure traveler (mid-high budget) prioritizing beach access, food & dining.",
+  "desired_dims": [
+    "beach_access",
+    "food_dining"
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "hotel_id": "H114",
+      "hotel_name": "Casa Solana, Rome",
+      "hotel_category": "5-star",
+      "score": 5.065,
+      "matched_aspects": [
+        "beach_access",
+        "food_dining"
+      ],
+      "aspect_scores": {
+        "beach_access": 0.8925,
+        "food_dining": 0.7996
+      },
+      "justification": "Casa Solana, Rome ranks #1 for this traveler on beach access (+0.89), food & dining (+0.80), weighted by what matters most to them. Guests note: \"Fantastic for families \u2014 connecting rooms, a kids' club, and high chairs at breakfast.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R56528",
+          "quote": "Fantastic for families \u2014 connecting rooms, a kids' club, and high chairs at breakfast.",
+          "aspect": "food_dining",
+          "date": "2025-12-18",
+          "verified": true,
+          "sentiment": 0.982
+        },
+        {
+          "review_id": "R56528",
+          "quote": "Woke up to the sea every morning \u2014 the beachfront setting was perfect.",
+          "aspect": "beach_access",
+          "date": "2025-12-18",
+          "verified": true,
+          "sentiment": 0.975
+        },
+        {
+          "review_id": "R56740",
+          "quote": "Just steps from a beautiful stretch of beach with loungers ready.",
+          "aspect": "beach_access",
+          "date": "2025-11-13",
+          "verified": true,
+          "sentiment": 0.938
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H076",
+      "hotel_name": "The Regent Riverside, Seoul",
+      "hotel_category": "5-star",
+      "score": 5.012,
+      "matched_aspects": [
+        "beach_access",
+        "food_dining"
+      ],
+      "aspect_scores": {
+        "beach_access": 0.828,
+        "food_dining": 0.8523
+      },
+      "justification": "The Regent Riverside, Seoul ranks #2 for this traveler on beach access (+0.83), food & dining (+0.85), weighted by what matters most to them. Guests note: \"Woke up to the sea every morning \u2014 the beachfront setting was perfect.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R41206",
+          "quote": "Woke up to the sea every morning \u2014 the beachfront setting was perfect.",
+          "aspect": "beach_access",
+          "date": "2025-12-28",
+          "verified": true,
+          "sentiment": 0.975
+        },
+        {
+          "review_id": "R41230",
+          "quote": "The breakfast spread was extensive and genuinely delicious.",
+          "aspect": "food_dining",
+          "date": "2025-12-04",
+          "verified": true,
+          "sentiment": 0.98
+        },
+        {
+          "review_id": "R41133",
+          "quote": "Direct beach access made the whole stay feel like a proper getaway.",
+          "aspect": "beach_access",
+          "date": "2025-11-28",
+          "verified": true,
+          "sentiment": 0.931
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H068",
+      "hotel_name": "The Continental, Sydney",
+      "hotel_category": "4-star",
+      "score": 5.008,
+      "matched_aspects": [
+        "beach_access",
+        "food_dining"
+      ],
+      "aspect_scores": {
+        "beach_access": 0.8315,
+        "food_dining": 0.8237
+      },
+      "justification": "The Continental, Sydney ranks #3 for this traveler on beach access (+0.83), food & dining (+0.82), weighted by what matters most to them. Guests note: \"Outstanding dining; we never felt the need to eat elsewhere.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R37585",
+          "quote": "Outstanding dining; we never felt the need to eat elsewhere.",
+          "aspect": "food_dining",
+          "date": "2025-12-31",
+          "verified": true,
+          "sentiment": 0.944
+        },
+        {
+          "review_id": "R37585",
+          "quote": "Direct beach access made the whole stay feel like a proper getaway.",
+          "aspect": "beach_access",
+          "date": "2025-12-31",
+          "verified": true,
+          "sentiment": 0.931
+        },
+        {
+          "review_id": "R37586",
+          "quote": "Just steps from a beautiful stretch of beach with loungers ready.",
+          "aspect": "beach_access",
+          "date": "2025-12-16",
+          "verified": true,
+          "sentiment": 0.938
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H051",
+      "hotel_name": "Casa Harbour, Istanbul",
+      "hotel_category": "5-star",
+      "score": 4.881,
+      "matched_aspects": [
+        "beach_access",
+        "food_dining"
+      ],
+      "aspect_scores": {
+        "beach_access": 0.8816,
+        "food_dining": 0.6674
+      },
+      "justification": "Casa Harbour, Istanbul ranks #4 for this traveler on beach access (+0.88), food & dining (+0.67), weighted by what matters most to them. Guests note: \"Woke up to the sea every morning \u2014 the beachfront setting was perfect.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R31982",
+          "quote": "Woke up to the sea every morning \u2014 the beachfront setting was perfect.",
+          "aspect": "beach_access",
+          "date": "2025-12-21",
+          "verified": true,
+          "sentiment": 0.975
+        },
+        {
+          "review_id": "R32350",
+          "quote": "Just steps from a beautiful stretch of beach with loungers ready.",
+          "aspect": "beach_access",
+          "date": "2025-12-19",
+          "verified": true,
+          "sentiment": 0.938
+        },
+        {
+          "review_id": "R31815",
+          "quote": "Direct beach access made the whole stay feel like a proper getaway.",
+          "aspect": "beach_access",
+          "date": "2025-12-20",
+          "verified": true,
+          "sentiment": 0.931
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H046",
+      "hotel_name": "The Regent Harbour, San Francisco",
+      "hotel_category": "4-star",
+      "score": 4.834,
+      "matched_aspects": [
+        "beach_access",
+        "food_dining"
+      ],
+      "aspect_scores": {
+        "beach_access": 0.8487,
+        "food_dining": 0.6633
+      },
+      "justification": "The Regent Harbour, San Francisco ranks #5 for this traveler on beach access (+0.85), food & dining (+0.66), weighted by what matters most to them. Guests note: \"Woke up to the sea every morning \u2014 the beachfront setting was perfect.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R29792",
+          "quote": "Woke up to the sea every morning \u2014 the beachfront setting was perfect.",
+          "aspect": "beach_access",
+          "date": "2025-12-18",
+          "verified": true,
+          "sentiment": 0.975
+        },
+        {
+          "review_id": "R29703",
+          "quote": "Just steps from a beautiful stretch of beach with loungers ready.",
+          "aspect": "beach_access",
+          "date": "2025-12-27",
+          "verified": true,
+          "sentiment": 0.938
+        },
+        {
+          "review_id": "R29692",
+          "quote": "Direct beach access made the whole stay feel like a proper getaway.",
+          "aspect": "beach_access",
+          "date": "2025-11-27",
+          "verified": true,
+          "sentiment": 0.931
+        }
+      ],
+      "caveats": null
+    }
+  ]
+}

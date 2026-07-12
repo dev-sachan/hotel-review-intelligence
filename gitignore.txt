@@ -1,0 +1,47 @@
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ---- OS / editor cruft ----
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ---- Streamlit ----
+.streamlit/secrets.toml
+
+# ---- Model download cache (Hugging Face) ----
+.cache/
+**/huggingface/
+
+# ---- Raw hackathon data (provided by the toolkit — not this project's own content;
+#      re-download from the toolkit rather than committing it here). Not needed at
+#      runtime by the app — only by `python -m src.pipeline` if you regenerate. ----
+hotel_reviews.json
+
+# ---- data/processed/ IS committed on purpose, unlike most generated-artifact folders.
+#      The Streamlit app reads ONLY these cached files at runtime (see src/appdata.py) —
+#      it has no fallback to run the pipeline live. For a zero-setup "deploy straight
+#      from GitHub" flow on Streamlit Community Cloud, these ~4.7 MB must be present in
+#      the repo, or the app hard-stops with "cached artifacts not found" on first load.
+#      If you change the pipeline and want to refresh what's committed, just re-run
+#      `python -m src.pipeline` locally and `git add -f data/processed/` before committing.
+
+# ---- Local scratch / personal prep — not part of the deliverable ----
+interview-prep/
+goal.md
+
+# ---- The organizer's own toolkit document — their content, not ours to redistribute ----
+Hackathon Participant Toolkit*.docx
+
+# ---- Optional local branding assets (logo.png / bg.png) — only if you keep them
+#      untracked; delete this line if you want them committed ----
+# logo.png
+# bg.png

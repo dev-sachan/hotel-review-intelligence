@@ -1,0 +1,45 @@
+{
+  "profile_id": "P11",
+  "archetype": "group_budget_central",
+  "desired_dims": [
+    "value",
+    "location_central"
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "hotel_id": "H071",
+      "hotel_name": "The Belmont, Seoul",
+      "hotel_category": "4-star",
+      "score": 4.995
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H046",
+      "hotel_name": "The Regent Harbour, San Francisco",
+      "hotel_category": "4-star",
+      "score": 4.984
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H002",
+      "hotel_name": "Hotel Belmont, Singapore",
+      "hotel_category": "4-star",
+      "score": 4.95
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H027",
+      "hotel_name": "Hotel Magnolia, Cape Town",
+      "hotel_category": "5-star",
+      "score": 4.948
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H070",
+      "hotel_name": "Casa Atrium, Sydney",
+      "hotel_category": "5-star",
+      "score": 4.893
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "profile_id": "P36",
+  "archetype": "leisure_wellness",
+  "profile_summary": "Leisure traveler (mid budget) prioritizing spa & wellness, cleanliness.",
+  "desired_dims": [
+    "wellness_spa",
+    "cleanliness"
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "hotel_id": "H089",
+      "hotel_name": "The Regent Heights, Lisbon",
+      "hotel_category": "5-star",
+      "score": 5.156,
+      "matched_aspects": [
+        "wellness_spa",
+        "cleanliness"
+      ],
+      "aspect_scores": {
+        "wellness_spa": 0.924,
+        "cleanliness": 0.8901
+      },
+      "justification": "The Regent Heights, Lisbon ranks #1 for this traveler on spa & wellness (+0.92), cleanliness (+0.89), weighted by what matters most to them. Guests note: \"The spa was a highlight \u2014 incredible massages and a serene relaxation pool.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R46425",
+          "quote": "The spa was a highlight \u2014 incredible massages and a serene relaxation pool.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-30",
+          "verified": true,
+          "sentiment": 0.983
+        },
+        {
+          "review_id": "R46289",
+          "quote": "Wonderful wellness facilities; the sauna and treatments left us completely refreshed.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-20",
+          "verified": true,
+          "sentiment": 0.985
+        },
+        {
+          "review_id": "R45798",
+          "quote": "Housekeeping was impeccable; the room was fresh every single day.",
+          "aspect": "cleanliness",
+          "date": "2025-12-29",
+          "verified": true,
+          "sentiment": 0.966
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H106",
+      "hotel_name": "The Park Aurora, Mexico City",
+      "hotel_category": "4-star",
+      "score": 5.13,
+      "matched_aspects": [
+        "wellness_spa",
+        "cleanliness"
+      ],
+      "aspect_scores": {
+        "wellness_spa": 0.8973,
+        "cleanliness": 0.85
+      },
+      "justification": "The Park Aurora, Mexico City ranks #2 for this traveler on spa & wellness (+0.90), cleanliness (+0.85), weighted by what matters most to them. Guests note: \"Wonderful wellness facilities; the sauna and treatments left us completely refreshed.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R53841",
+          "quote": "Wonderful wellness facilities; the sauna and treatments left us completely refreshed.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-31",
+          "verified": true,
+          "sentiment": 0.985
+        },
+        {
+          "review_id": "R53713",
+          "quote": "Housekeeping was impeccable; the room was fresh every single day.",
+          "aspect": "cleanliness",
+          "date": "2025-12-21",
+          "verified": true,
+          "sentiment": 0.966
+        },
+        {
+          "review_id": "R53342",
+          "quote": "The spa was a highlight \u2014 incredible massages and a serene relaxation pool.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-10",
+          "verified": true,
+          "sentiment": 0.983
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H030",
+      "hotel_name": "The Onyx, Lima",
+      "hotel_category": "5-star",
+      "score": 5.035,
+      "matched_aspects": [
+        "wellness_spa",
+        "cleanliness"
+      ],
+      "aspect_scores": {
+        "wellness_spa": 0.8881,
+        "cleanliness": 0.8289
+      },
+      "justification": "The Onyx, Lima ranks #3 for this traveler on spa & wellness (+0.89), cleanliness (+0.83), weighted by what matters most to them. Guests note: \"The spa was a highlight \u2014 incredible massages and a serene relaxation pool.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R23575",
+          "quote": "The spa was a highlight \u2014 incredible massages and a serene relaxation pool.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-28",
+          "verified": true,
+          "sentiment": 0.983
+        },
+        {
+          "review_id": "R23342",
+          "quote": "Wonderful wellness facilities; the sauna and treatments left us completely refreshed.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-14",
+          "verified": true,
+          "sentiment": 0.985
+        },
+        {
+          "review_id": "R23575",
+          "quote": "Everything was sparkling clean, clearly very well maintained.",
+          "aspect": "cleanliness",
+          "date": "2025-12-28",
+          "verified": true,
+          "sentiment": 0.951
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H109",
+      "hotel_name": "The Royal Sands, Rome",
+      "hotel_category": "5-star",
+      "score": 4.972,
+      "matched_aspects": [
+        "wellness_spa",
+        "cleanliness"
+      ],
+      "aspect_scores": {
+        "wellness_spa": 0.8767,
+        "cleanliness": 0.7911
+      },
+      "justification": "The Royal Sands, Rome ranks #4 for this traveler on spa & wellness (+0.88), cleanliness (+0.79), weighted by what matters most to them. Guests note: \"The spa was a highlight \u2014 incredible massages and a serene relaxation pool.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R54987",
+          "quote": "The spa was a highlight \u2014 incredible massages and a serene relaxation pool.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-22",
+          "verified": true,
+          "sentiment": 0.983
+        },
+        {
+          "review_id": "R54798",
+          "quote": "Housekeeping was impeccable; the room was fresh every single day.",
+          "aspect": "cleanliness",
+          "date": "2025-11-14",
+          "verified": true,
+          "sentiment": 0.966
+        },
+        {
+          "review_id": "R54916",
+          "quote": "Everything was sparkling clean, clearly very well maintained.",
+          "aspect": "cleanliness",
+          "date": "2025-11-15",
+          "verified": true,
+          "sentiment": 0.951
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H075",
+      "hotel_name": "The Grand Harbour, Barcelona",
+      "hotel_category": "5-star",
+      "score": 4.965,
+      "matched_aspects": [
+        "wellness_spa",
+        "cleanliness"
+      ],
+      "aspect_scores": {
+        "wellness_spa": 0.8543,
+        "cleanliness": 0.8474
+      },
+      "justification": "The Grand Harbour, Barcelona ranks #5 for this traveler on spa & wellness (+0.85), cleanliness (+0.85), weighted by what matters most to them. Guests note: \"The spa was a highlight \u2014 incredible massages and a serene relaxation pool.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R40980",
+          "quote": "The spa was a highlight \u2014 incredible massages and a serene relaxation pool.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-31",
+          "verified": true,
+          "sentiment": 0.983
+        },
+        {
+          "review_id": "R40640",
+          "quote": "Wonderful wellness facilities; the sauna and treatments left us completely refreshed.",
+          "aspect": "wellness_spa",
+          "date": "2025-12-24",
+          "verified": true,
+          "sentiment": 0.985
+        },
+        {
+          "review_id": "R40569",
+          "quote": "Everything was sparkling clean, clearly very well maintained.",
+          "aspect": "cleanliness",
+          "date": "2025-12-27",
+          "verified": true,
+          "sentiment": 0.951
+        }
+      ],
+      "caveats": null
+    }
+  ]
+}

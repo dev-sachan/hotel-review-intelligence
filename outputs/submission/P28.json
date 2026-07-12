@@ -1,0 +1,46 @@
+{
+  "profile_id": "P28",
+  "archetype": "couple_wellness",
+  "desired_dims": [
+    "quietness",
+    "wellness_spa",
+    "service"
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "hotel_id": "H075",
+      "hotel_name": "The Grand Harbour, Barcelona",
+      "hotel_category": "5-star",
+      "score": 5.105
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H109",
+      "hotel_name": "The Royal Sands, Rome",
+      "hotel_category": "5-star",
+      "score": 4.846
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H116",
+      "hotel_name": "Hotel Riverside, Mexico City",
+      "hotel_category": "5-star",
+      "score": 4.787
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H087",
+      "hotel_name": "Hotel Vista, Mumbai",
+      "hotel_category": "4-star",
+      "score": 4.641
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H113",
+      "hotel_name": "The Park Harbour, Dubai",
+      "hotel_category": "4-star",
+      "score": 4.464
+    }
+  ]
+}

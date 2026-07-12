@@ -1,0 +1,226 @@
+{
+  "profile_id": "P44",
+  "archetype": "leisure_accessible_central",
+  "profile_summary": "Leisure traveler (mid budget) prioritizing accessibility, central location.",
+  "desired_dims": [
+    "accessibility",
+    "location_central"
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "hotel_id": "H041",
+      "hotel_name": "The Grand Court, Mexico City",
+      "hotel_category": "4-star",
+      "score": 5.12,
+      "matched_aspects": [
+        "accessibility",
+        "location_central"
+      ],
+      "aspect_scores": {
+        "accessibility": 0.8236,
+        "location_central": 0.9184
+      },
+      "justification": "The Grand Court, Mexico City ranks #1 for this traveler on accessibility (+0.82), central location (+0.92), weighted by what matters most to them. Guests note: \"Great bars and clubs right around the corner, perfect for a night out.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R27452",
+          "quote": "Great bars and clubs right around the corner, perfect for a night out.",
+          "aspect": "location_central",
+          "date": "2025-12-20",
+          "verified": true,
+          "sentiment": 0.979
+        },
+        {
+          "review_id": "R27654",
+          "quote": "Excellent accessibility \u2014 wide doorways, roll-in shower, and helpful staff.",
+          "aspect": "accessibility",
+          "date": "2025-12-16",
+          "verified": true,
+          "sentiment": 0.967
+        },
+        {
+          "review_id": "R27197",
+          "quote": "Fully step-free with a spacious, well-designed accessible room.",
+          "aspect": "accessibility",
+          "date": "2025-12-15",
+          "verified": true,
+          "sentiment": 0.913
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H071",
+      "hotel_name": "The Belmont, Seoul",
+      "hotel_category": "4-star",
+      "score": 5.016,
+      "matched_aspects": [
+        "accessibility",
+        "location_central"
+      ],
+      "aspect_scores": {
+        "accessibility": 0.7945,
+        "location_central": 0.9053
+      },
+      "justification": "The Belmont, Seoul ranks #2 for this traveler on accessibility (+0.79), central location (+0.91), weighted by what matters most to them. Guests note: \"Excellent accessibility \u2014 wide doorways, roll-in shower, and helpful staff.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R39132",
+          "quote": "Excellent accessibility \u2014 wide doorways, roll-in shower, and helpful staff.",
+          "aspect": "accessibility",
+          "date": "2025-12-16",
+          "verified": true,
+          "sentiment": 0.967
+        },
+        {
+          "review_id": "R39501",
+          "quote": "Slept beautifully \u2014 very quiet despite being central.",
+          "aspect": "location_central",
+          "date": "2025-12-24",
+          "verified": true,
+          "sentiment": 0.948
+        },
+        {
+          "review_id": "R39089",
+          "quote": "Fully step-free with a spacious, well-designed accessible room.",
+          "aspect": "accessibility",
+          "date": "2025-12-12",
+          "verified": true,
+          "sentiment": 0.913
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H011",
+      "hotel_name": "The Orchid, Bangkok",
+      "hotel_category": "4-star",
+      "score": 4.998,
+      "matched_aspects": [
+        "accessibility",
+        "location_central"
+      ],
+      "aspect_scores": {
+        "accessibility": 0.8416,
+        "location_central": 0.8093
+      },
+      "justification": "The Orchid, Bangkok ranks #3 for this traveler on accessibility (+0.84), central location (+0.81), weighted by what matters most to them. Guests note: \"Excellent accessibility \u2014 wide doorways, roll-in shower, and helpful staff.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R15353",
+          "quote": "Excellent accessibility \u2014 wide doorways, roll-in shower, and helpful staff.",
+          "aspect": "accessibility",
+          "date": "2025-12-17",
+          "verified": true,
+          "sentiment": 0.967
+        },
+        {
+          "review_id": "R15032",
+          "quote": "Great base for experiencing the real culture \u2014 artisans and street food all around.",
+          "aspect": "location_central",
+          "date": "2025-12-27",
+          "verified": true,
+          "sentiment": 0.931
+        },
+        {
+          "review_id": "R14687",
+          "quote": "Perfect central location, walking distance to all the main sights.",
+          "aspect": "location_central",
+          "date": "2025-12-09",
+          "verified": true,
+          "sentiment": 0.947
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H051",
+      "hotel_name": "Casa Harbour, Istanbul",
+      "hotel_category": "5-star",
+      "score": 4.984,
+      "matched_aspects": [
+        "accessibility",
+        "location_central"
+      ],
+      "aspect_scores": {
+        "accessibility": 0.8118,
+        "location_central": 0.9121
+      },
+      "justification": "Casa Harbour, Istanbul ranks #4 for this traveler on accessibility (+0.81), central location (+0.91), weighted by what matters most to them. Guests note: \"Excellent accessibility \u2014 wide doorways, roll-in shower, and helpful staff.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R31994",
+          "quote": "Excellent accessibility \u2014 wide doorways, roll-in shower, and helpful staff.",
+          "aspect": "accessibility",
+          "date": "2025-12-26",
+          "verified": true,
+          "sentiment": 0.967
+        },
+        {
+          "review_id": "R32350",
+          "quote": "Just steps from a beautiful stretch of beach with loungers ready.",
+          "aspect": "location_central",
+          "date": "2025-12-19",
+          "verified": true,
+          "sentiment": 0.938
+        },
+        {
+          "review_id": "R31885",
+          "quote": "Great base for experiencing the real culture \u2014 artisans and street food all around.",
+          "aspect": "location_central",
+          "date": "2025-12-19",
+          "verified": true,
+          "sentiment": 0.931
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H014",
+      "hotel_name": "The Meridian Plaza, London",
+      "hotel_category": "4-star",
+      "score": 4.947,
+      "matched_aspects": [
+        "accessibility",
+        "location_central"
+      ],
+      "aspect_scores": {
+        "accessibility": 0.761,
+        "location_central": 0.9057
+      },
+      "justification": "The Meridian Plaza, London ranks #5 for this traveler on accessibility (+0.76), central location (+0.91), weighted by what matters most to them. Guests note: \"Excellent accessibility \u2014 wide doorways, roll-in shower, and helpful staff.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R17084",
+          "quote": "Excellent accessibility \u2014 wide doorways, roll-in shower, and helpful staff.",
+          "aspect": "accessibility",
+          "date": "2025-12-26",
+          "verified": true,
+          "sentiment": 0.967
+        },
+        {
+          "review_id": "R16985",
+          "quote": "Great base for experiencing the real culture \u2014 artisans and street food all around.",
+          "aspect": "location_central",
+          "date": "2025-12-31",
+          "verified": true,
+          "sentiment": 0.931
+        },
+        {
+          "review_id": "R16738",
+          "quote": "Fully step-free with a spacious, well-designed accessible room.",
+          "aspect": "accessibility",
+          "date": "2025-12-23",
+          "verified": true,
+          "sentiment": 0.913
+        }
+      ],
+      "caveats": null
+    }
+  ]
+}

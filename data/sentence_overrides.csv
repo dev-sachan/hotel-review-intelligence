@@ -1,0 +1,20 @@
+sentence_text,aspects,polarity,reason
+Called itself five-star but the service felt distinctly mid-range.,service|luxury,,"About service quality vs luxury claim, not filler."
+Cramped rooms and nothing for the little ones to do.,family_friendly,,Complaint about family suitability.
+"Decent for one night, not for longer.",general,,Lukewarm overall verdict; cleanliness/value/quietness tags were spurious.
+Dead quiet at night with nothing to do in the area.,nightlife,,"Complaint about absent nightlife; 'quiet' here is framed negatively, not a quietness virtue."
+Don't come here for nightlife — everything shuts early and it's sleepy.,nightlife,,Explicitly about lack of nightlife.
+Felt quite isolated — nothing within walking distance.,location_central,,Complaint about non-central location.
+Housekeeping was impeccable; the room was fresh every single day.,cleanliness,,Purely cleanliness; trimmed spurious service/luxury.
+No proper workspace and the internet was far too slow for business.,business_facilities,,Business-facilities complaint.
+Not great for kids — no facilities and the staff seemed annoyed by children.,family_friendly|service,,Family suitability plus staff attitude.
+"Quiet, safe neighborhood — I never once felt uncomfortable coming back late.",safety|quietness,,Trimmed spurious local_culture; it's about safety and quiet.
+Room was noisy due to nearby construction and thin walls.,quietness,,Noise complaint = quietness.
+Step-heavy layout made it very difficult with reduced mobility.,accessibility,,Accessibility complaint.
+Steps away from authentic local markets and family-run eateries.,local_culture|food_dining,0.7,Positive amenity; sentiment model wrongly scored it negative.
+The level of refinement and personal service was world-class.,luxury|service,,Refinement + service; trimmed spurious wellness_spa.
+"The location was far from everything and required long, expensive taxi rides.",location_central,,Non-central complaint.
+The neighborhood felt sketchy after dark and I didn't feel safe coming back alone.,safety,,Safety; trimmed spurious local_culture.
+Wellness facilities were tired and the pool was often closed.,wellness_spa,,Trimmed spurious family_friendly.
+Buzzing area after dark with plenty of lively spots within walking distance.,nightlife|location_central,,Trimmed spurious local_culture.
+"Great bars and clubs right around the corner, perfect for a night out.",nightlife|location_central,,Trimmed spurious local_culture.

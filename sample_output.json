@@ -1,0 +1,46 @@
+{
+    "profile_id": "P01",
+    "archetype": "solo_female_culture",
+    "desired_dims": [
+        "safety",
+        "local_culture",
+        "location_central"
+    ],
+    "top_hotels": [
+        {
+            "rank": 1,
+            "hotel_id": "H044",
+            "hotel_name": "Hotel del Aurora, San Francisco",
+            "hotel_category": "4-star",
+            "score": 3.065
+        },
+        {
+            "rank": 2,
+            "hotel_id": "H010",
+            "hotel_name": "Hotel del Plaza, Tokyo",
+            "hotel_category": "3-star",
+            "score": 3.052
+        },
+        {
+            "rank": 3,
+            "hotel_id": "H093",
+            "hotel_name": "Hotel Harbour, Seoul",
+            "hotel_category": "5-star",
+            "score": 2.087
+        },
+        {
+            "rank": 4,
+            "hotel_id": "H002",
+            "hotel_name": "Hotel Belmont, Singapore",
+            "hotel_category": "4-star",
+            "score": 2.079
+        },
+        {
+            "rank": 5,
+            "hotel_id": "H011",
+            "hotel_name": "The Orchid, Bangkok",
+            "hotel_category": "4-star",
+            "score": 2.075
+        }
+    ]
+}

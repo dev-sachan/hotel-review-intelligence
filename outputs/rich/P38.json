@@ -1,0 +1,226 @@
+{
+  "profile_id": "P38",
+  "archetype": "business_central",
+  "profile_summary": "Business traveler (mid budget) prioritizing central location, quietness.",
+  "desired_dims": [
+    "location_central",
+    "quietness"
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "hotel_id": "H108",
+      "hotel_name": "The Grand Magnolia, Lima",
+      "hotel_category": "4-star",
+      "score": 5.117,
+      "matched_aspects": [
+        "location_central",
+        "quietness"
+      ],
+      "aspect_scores": {
+        "location_central": 0.9159,
+        "quietness": 0.8608
+      },
+      "justification": "The Grand Magnolia, Lima ranks #1 for this traveler on central location (+0.92), quietness (+0.86), weighted by what matters most to them. Guests note: \"Room was wonderfully peaceful and the blackout curtains were perfect.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R54434",
+          "quote": "Room was wonderfully peaceful and the blackout curtains were perfect.",
+          "aspect": "quietness",
+          "date": "2025-12-26",
+          "verified": true,
+          "sentiment": 0.976
+        },
+        {
+          "review_id": "R54072",
+          "quote": "Slept beautifully \u2014 very quiet despite being central.",
+          "aspect": "quietness",
+          "date": "2025-12-31",
+          "verified": true,
+          "sentiment": 0.948
+        },
+        {
+          "review_id": "R54448",
+          "quote": "Soundproofing was superb, not a peep from the street.",
+          "aspect": "quietness",
+          "date": "2025-12-17",
+          "verified": true,
+          "sentiment": 0.884
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H071",
+      "hotel_name": "The Belmont, Seoul",
+      "hotel_category": "4-star",
+      "score": 5.053,
+      "matched_aspects": [
+        "location_central",
+        "quietness"
+      ],
+      "aspect_scores": {
+        "location_central": 0.9049,
+        "quietness": 0.815
+      },
+      "justification": "The Belmont, Seoul ranks #2 for this traveler on central location (+0.90), quietness (+0.81), weighted by what matters most to them. Guests note: \"Room was wonderfully peaceful and the blackout curtains were perfect.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R38985",
+          "quote": "Room was wonderfully peaceful and the blackout curtains were perfect.",
+          "aspect": "quietness",
+          "date": "2025-12-22",
+          "verified": true,
+          "sentiment": 0.976
+        },
+        {
+          "review_id": "R39501",
+          "quote": "Slept beautifully \u2014 very quiet despite being central.",
+          "aspect": "location_central",
+          "date": "2025-12-24",
+          "verified": true,
+          "sentiment": 0.948
+        },
+        {
+          "review_id": "R39344",
+          "quote": "Soundproofing was superb, not a peep from the street.",
+          "aspect": "quietness",
+          "date": "2025-12-29",
+          "verified": true,
+          "sentiment": 0.884
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H075",
+      "hotel_name": "The Grand Harbour, Barcelona",
+      "hotel_category": "5-star",
+      "score": 5.041,
+      "matched_aspects": [
+        "location_central",
+        "quietness"
+      ],
+      "aspect_scores": {
+        "location_central": 0.9015,
+        "quietness": 0.8627
+      },
+      "justification": "The Grand Harbour, Barcelona ranks #3 for this traveler on central location (+0.90), quietness (+0.86), weighted by what matters most to them. Guests note: \"Room was wonderfully peaceful and the blackout curtains were perfect.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R40610",
+          "quote": "Room was wonderfully peaceful and the blackout curtains were perfect.",
+          "aspect": "quietness",
+          "date": "2025-12-21",
+          "verified": true,
+          "sentiment": 0.976
+        },
+        {
+          "review_id": "R40965",
+          "quote": "Slept beautifully \u2014 very quiet despite being central.",
+          "aspect": "quietness",
+          "date": "2025-12-27",
+          "verified": true,
+          "sentiment": 0.948
+        },
+        {
+          "review_id": "R41110",
+          "quote": "Soundproofing was superb, not a peep from the street.",
+          "aspect": "quietness",
+          "date": "2025-12-31",
+          "verified": true,
+          "sentiment": 0.884
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H087",
+      "hotel_name": "Hotel Vista, Mumbai",
+      "hotel_category": "4-star",
+      "score": 4.995,
+      "matched_aspects": [
+        "location_central",
+        "quietness"
+      ],
+      "aspect_scores": {
+        "location_central": 0.9159,
+        "quietness": 0.7796
+      },
+      "justification": "Hotel Vista, Mumbai ranks #4 for this traveler on central location (+0.92), quietness (+0.78), weighted by what matters most to them. Guests note: \"Room was wonderfully peaceful and the blackout curtains were perfect.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R44726",
+          "quote": "Room was wonderfully peaceful and the blackout curtains were perfect.",
+          "aspect": "quietness",
+          "date": "2025-12-26",
+          "verified": true,
+          "sentiment": 0.976
+        },
+        {
+          "review_id": "R44998",
+          "quote": "Slept beautifully \u2014 very quiet despite being central.",
+          "aspect": "location_central",
+          "date": "2025-12-20",
+          "verified": true,
+          "sentiment": 0.948
+        },
+        {
+          "review_id": "R45053",
+          "quote": "Soundproofing was superb, not a peep from the street.",
+          "aspect": "quietness",
+          "date": "2025-12-25",
+          "verified": true,
+          "sentiment": 0.884
+        }
+      ],
+      "caveats": null
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H050",
+      "hotel_name": "The Orchid, Paris",
+      "hotel_category": "4-star",
+      "score": 4.988,
+      "matched_aspects": [
+        "location_central",
+        "quietness"
+      ],
+      "aspect_scores": {
+        "location_central": 0.8947,
+        "quietness": 0.7495
+      },
+      "justification": "The Orchid, Paris ranks #5 for this traveler on central location (+0.89), quietness (+0.75), weighted by what matters most to them. Guests note: \"Great bars and clubs right around the corner, perfect for a night out.\"",
+      "supporting_evidence": [
+        {
+          "review_id": "R31592",
+          "quote": "Great bars and clubs right around the corner, perfect for a night out.",
+          "aspect": "location_central",
+          "date": "2025-12-18",
+          "verified": true,
+          "sentiment": 0.979
+        },
+        {
+          "review_id": "R31545",
+          "quote": "Just steps from a beautiful stretch of beach with loungers ready.",
+          "aspect": "location_central",
+          "date": "2025-12-22",
+          "verified": true,
+          "sentiment": 0.938
+        },
+        {
+          "review_id": "R31554",
+          "quote": "Room was wonderfully peaceful and the blackout curtains were perfect.",
+          "aspect": "quietness",
+          "date": "2025-11-27",
+          "verified": true,
+          "sentiment": 0.976
+        }
+      ],
+      "caveats": null
+    }
+  ]
+}

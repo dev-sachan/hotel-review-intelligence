@@ -1,0 +1,45 @@
+{
+  "profile_id": "P13",
+  "archetype": "solo_female_culture",
+  "desired_dims": [
+    "local_culture",
+    "location_central"
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "hotel_id": "H041",
+      "hotel_name": "The Grand Court, Mexico City",
+      "hotel_category": "4-star",
+      "score": 5.19
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H117",
+      "hotel_name": "The Grand Continental, Tokyo",
+      "hotel_category": "4-star",
+      "score": 5.142
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H046",
+      "hotel_name": "The Regent Harbour, San Francisco",
+      "hotel_category": "4-star",
+      "score": 5.022
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H061",
+      "hotel_name": "Hotel Onyx, New York",
+      "hotel_category": "4-star",
+      "score": 5.005
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H113",
+      "hotel_name": "The Park Harbour, Dubai",
+      "hotel_category": "4-star",
+      "score": 5.004
+    }
+  ]
+}

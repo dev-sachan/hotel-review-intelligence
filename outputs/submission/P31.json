@@ -1,0 +1,46 @@
+{
+  "profile_id": "P31",
+  "archetype": "leisure_foodie_culture",
+  "desired_dims": [
+    "food_dining",
+    "local_culture",
+    "location_central"
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "hotel_id": "H041",
+      "hotel_name": "The Grand Court, Mexico City",
+      "hotel_category": "4-star",
+      "score": 5.209
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H117",
+      "hotel_name": "The Grand Continental, Tokyo",
+      "hotel_category": "4-star",
+      "score": 5.115
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H073",
+      "hotel_name": "The Royal Lumiere, Istanbul",
+      "hotel_category": "4-star",
+      "score": 5.052
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H095",
+      "hotel_name": "Hotel Belmont, Mexico City",
+      "hotel_category": "4-star",
+      "score": 5.039
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H040",
+      "hotel_name": "The Vista, Rome",
+      "hotel_category": "4-star",
+      "score": 5.028
+    }
+  ]
+}

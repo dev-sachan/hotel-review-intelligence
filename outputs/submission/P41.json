@@ -1,0 +1,45 @@
+{
+  "profile_id": "P41",
+  "archetype": "leisure_budget_culture",
+  "desired_dims": [
+    "value",
+    "local_culture"
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "hotel_id": "H073",
+      "hotel_name": "The Royal Lumiere, Istanbul",
+      "hotel_category": "4-star",
+      "score": 4.756
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H012",
+      "hotel_name": "The Grand Lantern, London",
+      "hotel_category": "5-star",
+      "score": 4.743
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H095",
+      "hotel_name": "Hotel Belmont, Mexico City",
+      "hotel_category": "4-star",
+      "score": 4.703
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H002",
+      "hotel_name": "Hotel Belmont, Singapore",
+      "hotel_category": "4-star",
+      "score": 4.694
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H046",
+      "hotel_name": "The Regent Harbour, San Francisco",
+      "hotel_category": "4-star",
+      "score": 4.68
+    }
+  ]
+}

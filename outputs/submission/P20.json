@@ -1,0 +1,46 @@
+{
+  "profile_id": "P20",
+  "archetype": "leisure_central_accessible",
+  "desired_dims": [
+    "location_central",
+    "accessibility",
+    "service"
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "hotel_id": "H014",
+      "hotel_name": "The Meridian Plaza, London",
+      "hotel_category": "4-star",
+      "score": 5.017
+    },
+    {
+      "rank": 2,
+      "hotel_id": "H071",
+      "hotel_name": "The Belmont, Seoul",
+      "hotel_category": "4-star",
+      "score": 4.992
+    },
+    {
+      "rank": 3,
+      "hotel_id": "H051",
+      "hotel_name": "Casa Harbour, Istanbul",
+      "hotel_category": "5-star",
+      "score": 4.976
+    },
+    {
+      "rank": 4,
+      "hotel_id": "H040",
+      "hotel_name": "The Vista, Rome",
+      "hotel_category": "4-star",
+      "score": 4.916
+    },
+    {
+      "rank": 5,
+      "hotel_id": "H113",
+      "hotel_name": "The Park Harbour, Dubai",
+      "hotel_category": "4-star",
+      "score": 4.782
+    }
+  ]
+}
